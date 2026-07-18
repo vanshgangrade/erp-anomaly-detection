@@ -1,0 +1,1951 @@
+record_id,vendor,category,amount,site_id,approver,submitted_at,is_anomaly,anomaly_type
+1,Konkan Aggregates Pvt Ltd,materials,28349.76,SITE-004,N. Rao,2025-02-07 09:52:00,0,none
+2,Municipal Permits & Fees,misc,14971.34,SITE-009,K. Iyer,2025-06-11 17:22:00,0,none
+3,Shree Cement Suppliers,materials,25771.17,SITE-004,M. Sharma,2025-04-22 10:09:00,0,none
+4,Union Skilled Workforce,labor,73101.86,SITE-010,S. Kulkarni,2025-02-14 11:21:00,1,duplicate
+5,Union Skilled Workforce,labor,116981.69,SITE-001,R. Mehta,2025-02-12 08:51:00,0,none
+6,Union Skilled Workforce,labor,37269.34,SITE-003,R. Mehta,2025-02-14 13:33:00,0,none
+7,Shree Cement Suppliers,materials,20404.67,SITE-006,M. Sharma,2025-05-20 18:29:00,0,none
+8,Konkan Aggregates Pvt Ltd,materials,27543.44,SITE-005,R. Mehta,2025-01-09 13:24:00,0,none
+9,Konkan Aggregates Pvt Ltd,materials,17993.06,SITE-002,N. Rao,2025-06-24 15:22:00,0,none
+10,BuildRight Steel & Rebar,materials,86533.9,SITE-007,K. Iyer,2025-01-09 11:01:00,0,none
+11,Municipal Permits & Fees,misc,18292.28,SITE-008,K. Iyer,2025-01-21 08:02:00,0,none
+12,Union Skilled Workforce,labor,119280.84,SITE-009,S. Kulkarni,2025-01-29 14:25:00,0,none
+13,TerraMove Heavy Machinery,equipment,845709.76,SITE-002,J. D'Souza,2025-02-20 12:25:00,0,none
+14,BuildRight Steel & Rebar,materials,62447.59,SITE-005,R. Mehta,2025-05-16 14:10:00,0,none
+15,Zenith Office & Site Supplies,misc,250000.0,SITE-002,J. D'Souza,2025-02-10 12:14:00,1,round_number
+16,PowerLift Cranes & Equipment,equipment,115591.54,SITE-006,R. Mehta,2025-04-28 14:18:00,0,none
+17,Zenith Office & Site Supplies,misc,7192.77,SITE-008,N. Rao,2025-05-21 14:03:00,0,none
+18,Union Skilled Workforce,labor,57471.32,SITE-007,S. Kulkarni,2025-06-04 09:19:00,0,none
+19,Zenith Office & Site Supplies,misc,7508.82,SITE-007,N. Rao,2025-05-01 16:45:00,0,none
+20,Coastal Scaffolding Rentals,equipment,29924.13,SITE-009,K. Iyer,2025-02-14 09:57:00,0,none
+21,Everest Manpower Contractors,labor,69280.46,SITE-009,A. Fernandes,2025-01-28 09:41:00,0,none
+22,Shree Cement Suppliers,materials,22028.25,SITE-009,M. Sharma,2025-04-03 11:00:00,0,none
+23,Union Skilled Workforce,labor,292110.75,SITE-001,S. Kulkarni,2025-01-06 11:20:00,1,extreme_outlier
+24,Everest Manpower Contractors,labor,64233.11,SITE-006,A. Fernandes,2025-06-09 12:13:00,0,none
+25,Municipal Permits & Fees,misc,12646.18,SITE-005,K. Iyer,2025-02-05 16:00:00,0,none
+26,PowerLift Cranes & Equipment,equipment,88098.24,SITE-001,R. Mehta,2025-05-21 15:52:00,0,none
+27,SafeSite PPE & Consumables,misc,5184.15,SITE-009,R. Mehta,2025-05-19 15:59:00,0,none
+28,TerraMove Heavy Machinery,equipment,411843.0,SITE-008,J. D'Souza,2025-04-23 11:26:00,0,none
+29,Konkan Aggregates Pvt Ltd,materials,18335.52,SITE-005,N. Rao,2025-03-19 11:21:00,0,none
+30,Sagar Labour Solutions,labor,30256.25,SITE-003,K. Iyer,2025-03-18 08:41:00,0,none
+31,Konkan Aggregates Pvt Ltd,materials,16545.34,SITE-009,N. Rao,2025-04-15 12:07:00,0,none
+32,Municipal Permits & Fees,misc,17377.76,SITE-008,J. D'Souza,2025-05-30 12:48:00,0,none
+33,TerraMove Heavy Machinery,equipment,68709.19,SITE-010,J. D'Souza,2025-01-23 11:06:00,0,none
+34,Sagar Labour Solutions,labor,52195.29,SITE-010,P. Singh,2025-06-11 16:59:00,0,none
+35,Union Skilled Workforce,labor,99691.56,SITE-005,S. Kulkarni,2025-04-21 16:16:00,0,none
+36,PowerLift Cranes & Equipment,equipment,254191.51,SITE-001,R. Mehta,2025-01-17 12:33:00,0,none
+37,Everest Manpower Contractors,labor,55843.81,SITE-009,P. Singh,2025-01-07 16:17:00,0,none
+38,TerraMove Heavy Machinery,equipment,296668.61,SITE-010,M. Sharma,2025-02-20 11:40:00,0,none
+39,Shree Cement Suppliers,materials,39123.63,SITE-009,J. D'Souza,2025-01-13 13:50:00,0,none
+40,Shree Cement Suppliers,materials,31418.66,SITE-004,M. Sharma,2025-02-19 10:00:00,0,none
+41,Everest Manpower Contractors,labor,39541.58,SITE-002,M. Sharma,2025-04-22 10:51:00,0,none
+42,BuildRight Steel & Rebar,materials,42147.54,SITE-008,K. Iyer,2025-02-05 08:17:00,0,none
+43,Sagar Labour Solutions,labor,38906.73,SITE-001,P. Singh,2025-03-31 14:39:00,0,none
+44,Konkan Aggregates Pvt Ltd,materials,13006.14,SITE-008,R. Mehta,2025-04-24 18:45:00,0,none
+45,SafeSite PPE & Consumables,misc,6238.95,SITE-004,N. Rao,2025-06-24 14:07:00,0,none
+46,PowerLift Cranes & Equipment,equipment,75389.4,SITE-004,M. Sharma,2025-01-02 08:22:00,0,none
+47,Union Skilled Workforce,labor,99316.2,SITE-008,S. Kulkarni,2025-05-16 10:17:00,0,none
+48,SafeSite PPE & Consumables,misc,125000.0,SITE-002,R. Mehta,2025-02-25 11:40:00,1,round_number
+49,Konkan Aggregates Pvt Ltd,materials,17201.0,SITE-005,N. Rao,2025-04-04 08:30:00,0,none
+50,SafeSite PPE & Consumables,misc,9094.33,SITE-008,R. Mehta,2025-01-10 16:35:00,0,none
+51,Konkan Aggregates Pvt Ltd,materials,14382.03,SITE-003,N. Rao,2025-06-26 14:13:00,0,none
+52,Zenith Office & Site Supplies,misc,16198.26,SITE-005,N. Rao,2025-04-30 16:40:00,0,none
+53,Zenith Office & Site Supplies,misc,9781.84,SITE-003,N. Rao,2025-05-10 01:19:00,1,off_hours
+54,SafeSite PPE & Consumables,misc,5930.85,SITE-003,N. Rao,2025-06-25 10:28:00,0,none
+55,SafeSite PPE & Consumables,misc,10084.65,SITE-006,N. Rao,2025-04-01 13:58:00,0,none
+56,PowerLift Cranes & Equipment,equipment,263068.54,SITE-002,M. Sharma,2025-03-03 13:44:00,0,none
+57,Konkan Aggregates Pvt Ltd,materials,6955.15,SITE-008,N. Rao,2025-06-02 17:06:00,0,none
+58,Union Skilled Workforce,labor,49697.05,SITE-007,S. Kulkarni,2025-05-02 14:31:00,0,none
+59,SafeSite PPE & Consumables,misc,3325.37,SITE-004,R. Mehta,2025-05-14 08:54:00,0,none
+60,Coastal Scaffolding Rentals,equipment,218386.34,SITE-010,K. Iyer,2025-05-06 13:06:00,1,extreme_outlier
+61,PowerLift Cranes & Equipment,equipment,155901.95,SITE-009,M. Sharma,2025-05-14 14:52:00,0,none
+62,Konkan Aggregates Pvt Ltd,materials,27998.57,SITE-003,R. Mehta,2025-05-17 18:40:00,1,duplicate
+63,BuildRight Steel & Rebar,materials,106737.1,SITE-004,R. Mehta,2025-06-09 11:48:00,0,none
+64,SafeSite PPE & Consumables,misc,6494.52,SITE-008,R. Mehta,2025-05-05 15:54:00,0,none
+65,Sagar Labour Solutions,labor,33650.91,SITE-004,P. Singh,2025-06-16 16:55:00,0,none
+66,BuildRight Steel & Rebar,materials,80934.76,SITE-007,R. Mehta,2025-05-23 13:07:00,0,none
+67,BuildRight Steel & Rebar,materials,110632.5,SITE-004,R. Mehta,2025-03-17 10:09:00,0,none
+68,Municipal Permits & Fees,misc,22644.28,SITE-008,K. Iyer,2025-04-17 10:21:00,0,none
+69,Everest Manpower Contractors,labor,72200.41,SITE-009,P. Singh,2025-05-13 16:22:00,0,none
+70,Sagar Labour Solutions,labor,40579.89,SITE-006,K. Iyer,2025-02-24 18:31:00,0,none
+71,Everest Manpower Contractors,labor,91860.79,SITE-008,A. Fernandes,2025-05-13 12:24:00,0,none
+72,Municipal Permits & Fees,misc,32266.43,SITE-009,M. Sharma,2025-03-13 08:23:00,1,unusual_approver
+73,SafeSite PPE & Consumables,misc,8854.14,SITE-007,R. Mehta,2025-04-08 08:02:00,0,none
+74,PowerLift Cranes & Equipment,equipment,393490.42,SITE-001,J. D'Souza,2025-06-17 14:39:00,1,unusual_approver
+75,Zenith Office & Site Supplies,misc,3545.19,SITE-003,S. Kulkarni,2025-02-06 11:12:00,0,none
+76,Sagar Labour Solutions,labor,24718.65,SITE-006,A. Fernandes,2025-05-19 08:22:00,0,none
+77,Shree Cement Suppliers,materials,24960.05,SITE-001,J. D'Souza,2025-03-17 10:48:00,0,none
+78,PowerLift Cranes & Equipment,equipment,277293.03,SITE-007,M. Sharma,2025-04-29 14:03:00,0,none
+79,Coastal Scaffolding Rentals,equipment,44682.79,SITE-007,K. Iyer,2025-05-07 18:24:00,0,none
+80,Goa Timber & Plywood,materials,13878.34,SITE-002,K. Iyer,2025-01-09 11:26:00,0,none
+81,Zenith Office & Site Supplies,misc,7576.18,SITE-008,S. Kulkarni,2025-02-11 11:53:00,0,none
+82,PowerLift Cranes & Equipment,equipment,226298.88,SITE-009,R. Mehta,2025-04-23 13:46:00,1,duplicate
+83,Everest Manpower Contractors,labor,72532.43,SITE-010,M. Sharma,2025-01-13 17:55:00,0,none
+84,Konkan Aggregates Pvt Ltd,materials,23072.32,SITE-005,R. Mehta,2025-01-31 12:14:00,0,none
+85,Coastal Scaffolding Rentals,equipment,57461.92,SITE-003,K. Iyer,2025-03-18 12:02:00,0,none
+86,Shree Cement Suppliers,materials,59641.68,SITE-002,J. D'Souza,2025-01-08 09:45:00,0,none
+87,PowerLift Cranes & Equipment,equipment,112708.2,SITE-007,K. Iyer,2025-04-10 08:33:00,0,none
+88,Konkan Aggregates Pvt Ltd,materials,49234.63,SITE-004,N. Rao,2025-05-19 10:38:00,0,none
+89,Coastal Scaffolding Rentals,equipment,37978.72,SITE-001,P. Singh,2025-06-13 15:31:00,0,none
+90,PowerLift Cranes & Equipment,equipment,231848.33,SITE-010,K. Iyer,2025-06-18 15:40:00,0,none
+91,SafeSite PPE & Consumables,misc,8504.84,SITE-009,R. Mehta,2025-03-18 16:19:00,0,none
+92,Everest Manpower Contractors,labor,58820.89,SITE-008,P. Singh,2025-05-09 18:21:00,0,none
+93,TerraMove Heavy Machinery,equipment,136373.85,SITE-001,M. Sharma,2025-02-24 14:08:00,0,none
+94,Sagar Labour Solutions,labor,19786.7,SITE-010,P. Singh,2025-06-23 17:49:00,0,none
+95,Union Skilled Workforce,labor,123563.08,SITE-004,R. Mehta,2025-04-04 16:23:00,0,none
+96,Zenith Office & Site Supplies,misc,4034.4,SITE-008,J. D'Souza,2025-05-16 09:26:00,0,none
+97,PowerLift Cranes & Equipment,equipment,303849.37,SITE-005,M. Sharma,2025-01-23 13:09:00,0,none
+98,Coastal Scaffolding Rentals,equipment,93716.76,SITE-004,K. Iyer,2025-01-03 10:07:00,0,none
+99,BuildRight Steel & Rebar,materials,22678.07,SITE-002,K. Iyer,2025-05-15 13:11:00,0,none
+100,Goa Timber & Plywood,materials,17870.84,SITE-008,K. Iyer,2025-04-10 17:42:00,0,none
+101,SafeSite PPE & Consumables,misc,12017.07,SITE-006,R. Mehta,2025-02-07 08:45:00,0,none
+102,TerraMove Heavy Machinery,equipment,245090.66,SITE-002,J. D'Souza,2025-01-06 16:24:00,0,none
+103,Everest Manpower Contractors,labor,26929.68,SITE-003,P. Singh,2025-05-06 16:51:00,0,none
+104,Goa Timber & Plywood,materials,54555.53,SITE-003,J. D'Souza,2025-01-09 11:44:00,0,none
+105,Sagar Labour Solutions,labor,37530.53,SITE-007,P. Singh,2025-03-27 16:09:00,0,none
+106,Coastal Scaffolding Rentals,equipment,45523.63,SITE-009,K. Iyer,2025-03-25 09:56:00,0,none
+107,Sagar Labour Solutions,labor,37976.31,SITE-007,A. Fernandes,2025-04-16 12:09:00,0,none
+108,Sagar Labour Solutions,labor,20359.16,SITE-001,P. Singh,2025-01-29 18:27:00,0,none
+109,PowerLift Cranes & Equipment,equipment,172180.31,SITE-007,M. Sharma,2025-05-23 18:50:00,0,none
+110,Coastal Scaffolding Rentals,equipment,29573.21,SITE-004,P. Singh,2025-06-03 08:34:00,0,none
+111,Everest Manpower Contractors,labor,28200.6,SITE-001,P. Singh,2025-03-14 18:15:00,0,none
+112,SafeSite PPE & Consumables,misc,10912.51,SITE-008,R. Mehta,2025-05-12 16:57:00,0,none
+113,BuildRight Steel & Rebar,materials,43450.62,SITE-004,K. Iyer,2025-05-13 17:51:00,0,none
+114,Union Skilled Workforce,labor,32664.44,SITE-003,R. Mehta,2025-01-17 16:48:00,0,none
+115,Zenith Office & Site Supplies,misc,6234.37,SITE-007,S. Kulkarni,2025-04-07 08:24:00,0,none
+116,Shree Cement Suppliers,materials,44899.97,SITE-007,J. D'Souza,2025-03-12 17:19:00,0,none
+117,SafeSite PPE & Consumables,misc,5641.9,SITE-007,R. Mehta,2025-04-16 17:34:00,0,none
+118,TerraMove Heavy Machinery,equipment,311186.59,SITE-006,M. Sharma,2025-01-13 16:02:00,0,none
+119,Union Skilled Workforce,labor,57645.19,SITE-009,S. Kulkarni,2025-06-03 08:02:00,0,none
+120,Zenith Office & Site Supplies,misc,5149.73,SITE-003,J. D'Souza,2025-05-20 16:17:00,0,none
+121,Zenith Office & Site Supplies,misc,6228.94,SITE-004,N. Rao,2025-03-17 08:07:00,0,none
+122,Everest Manpower Contractors,labor,334286.34,SITE-008,P. Singh,2025-01-07 12:32:00,1,extreme_outlier
+123,Goa Timber & Plywood,materials,18640.41,SITE-004,K. Iyer,2025-05-12 18:47:00,0,none
+124,Union Skilled Workforce,labor,70837.57,SITE-007,R. Mehta,2025-01-02 11:13:00,0,none
+125,Konkan Aggregates Pvt Ltd,materials,10623.32,SITE-004,N. Rao,2025-01-07 11:25:00,0,none
+126,Konkan Aggregates Pvt Ltd,materials,13142.03,SITE-001,N. Rao,2025-03-20 11:10:00,0,none
+127,Konkan Aggregates Pvt Ltd,materials,24663.46,SITE-006,N. Rao,2025-06-25 11:06:00,0,none
+128,SafeSite PPE & Consumables,misc,8503.39,SITE-007,R. Mehta,2025-06-02 09:04:00,0,none
+129,Coastal Scaffolding Rentals,equipment,35088.35,SITE-010,K. Iyer,2025-06-27 12:48:00,0,none
+130,Coastal Scaffolding Rentals,equipment,21509.43,SITE-003,K. Iyer,2025-06-24 14:23:00,0,none
+131,Union Skilled Workforce,labor,56102.39,SITE-008,S. Kulkarni,2025-06-17 17:45:00,0,none
+132,Union Skilled Workforce,labor,44088.82,SITE-003,R. Mehta,2025-04-07 15:05:00,0,none
+133,Goa Timber & Plywood,materials,22802.67,SITE-007,N. Rao,2025-04-21 16:49:00,0,none
+134,SafeSite PPE & Consumables,misc,8524.6,SITE-002,R. Mehta,2025-03-27 18:39:00,0,none
+135,BuildRight Steel & Rebar,materials,222935.28,SITE-005,K. Iyer,2025-04-22 18:50:00,0,none
+136,Everest Manpower Contractors,labor,35012.21,SITE-005,A. Fernandes,2025-02-17 09:03:00,0,none
+137,Zenith Office & Site Supplies,misc,7083.43,SITE-006,S. Kulkarni,2025-03-20 11:38:00,0,none
+138,Shree Cement Suppliers,materials,35379.32,SITE-009,J. D'Souza,2025-03-13 08:32:00,0,none
+139,TerraMove Heavy Machinery,equipment,136742.85,SITE-005,M. Sharma,2025-06-06 16:09:00,0,none
+140,Sagar Labour Solutions,labor,12996.32,SITE-003,A. Fernandes,2025-03-27 12:31:00,0,none
+141,Goa Timber & Plywood,materials,27113.97,SITE-006,K. Iyer,2025-05-12 16:11:00,0,none
+142,Municipal Permits & Fees,misc,11824.17,SITE-001,J. D'Souza,2025-01-02 18:55:00,0,none
+143,Municipal Permits & Fees,misc,11840.42,SITE-002,J. D'Souza,2025-04-24 16:25:00,0,none
+144,Union Skilled Workforce,labor,94014.8,SITE-006,S. Kulkarni,2025-02-13 18:28:00,0,none
+145,BuildRight Steel & Rebar,materials,64103.96,SITE-001,K. Iyer,2025-04-03 09:00:00,0,none
+146,Konkan Aggregates Pvt Ltd,materials,15762.45,SITE-003,N. Rao,2025-04-21 15:52:00,0,none
+147,Union Skilled Workforce,labor,77864.66,SITE-010,S. Kulkarni,2025-05-20 08:30:00,0,none
+148,SafeSite PPE & Consumables,misc,5531.22,SITE-006,N. Rao,2025-05-12 11:56:00,0,none
+149,Coastal Scaffolding Rentals,equipment,36740.93,SITE-010,P. Singh,2025-03-12 12:46:00,0,none
+150,SafeSite PPE & Consumables,misc,10560.93,SITE-004,R. Mehta,2025-04-29 14:43:00,0,none
+151,Zenith Office & Site Supplies,misc,8760.76,SITE-006,N. Rao,2025-06-23 17:12:00,0,none
+152,SafeSite PPE & Consumables,misc,7991.43,SITE-006,N. Rao,2025-06-18 15:24:00,0,none
+153,BuildRight Steel & Rebar,materials,81283.09,SITE-005,R. Mehta,2025-06-03 08:39:00,0,none
+154,Zenith Office & Site Supplies,misc,10007.75,SITE-004,S. Kulkarni,2025-04-18 09:29:00,0,none
+155,Everest Manpower Contractors,labor,51640.16,SITE-002,A. Fernandes,2025-03-28 10:31:00,0,none
+156,Union Skilled Workforce,labor,44604.8,SITE-003,S. Kulkarni,2025-03-28 09:44:00,0,none
+157,BuildRight Steel & Rebar,materials,96118.16,SITE-003,K. Iyer,2025-02-13 11:43:00,0,none
+158,Zenith Office & Site Supplies,misc,7869.54,SITE-006,J. D'Souza,2025-03-10 16:50:00,0,none
+159,Coastal Scaffolding Rentals,equipment,39905.38,SITE-007,K. Iyer,2025-03-27 10:20:00,0,none
+160,SafeSite PPE & Consumables,misc,3520.2,SITE-006,N. Rao,2025-06-27 15:32:00,0,none
+161,Sagar Labour Solutions,labor,46139.82,SITE-009,P. Singh,2025-04-28 14:17:00,0,none
+162,Konkan Aggregates Pvt Ltd,materials,15792.97,SITE-003,R. Mehta,2025-03-10 08:23:00,0,none
+163,SafeSite PPE & Consumables,misc,5475.03,SITE-005,N. Rao,2025-03-27 16:45:00,0,none
+164,SafeSite PPE & Consumables,misc,9033.97,SITE-004,R. Mehta,2025-06-26 10:24:00,0,none
+165,Goa Timber & Plywood,materials,13086.71,SITE-010,N. Rao,2025-01-23 10:05:00,0,none
+166,Union Skilled Workforce,labor,66527.46,SITE-003,S. Kulkarni,2025-01-08 16:26:00,0,none
+167,PowerLift Cranes & Equipment,equipment,40250.18,SITE-001,M. Sharma,2025-05-17 14:41:00,1,off_hours
+168,SafeSite PPE & Consumables,misc,9351.22,SITE-002,N. Rao,2025-02-17 12:16:00,0,none
+169,SafeSite PPE & Consumables,misc,15922.12,SITE-003,J. D'Souza,2025-05-12 11:04:00,1,unusual_approver
+170,Municipal Permits & Fees,misc,14662.23,SITE-010,N. Rao,2025-06-03 14:03:00,0,none
+171,PowerLift Cranes & Equipment,equipment,266694.91,SITE-006,R. Mehta,2025-02-25 08:40:00,0,none
+172,Shree Cement Suppliers,materials,49855.58,SITE-007,M. Sharma,2025-05-07 11:47:00,0,none
+173,Coastal Scaffolding Rentals,equipment,39015.48,SITE-001,K. Iyer,2025-04-02 14:56:00,0,none
+174,Sagar Labour Solutions,labor,33983.15,SITE-006,K. Iyer,2025-02-04 09:07:00,0,none
+175,SafeSite PPE & Consumables,misc,10666.68,SITE-008,R. Mehta,2025-03-19 18:41:00,0,none
+176,Coastal Scaffolding Rentals,equipment,64853.87,SITE-007,P. Singh,2025-06-12 12:30:00,0,none
+177,Municipal Permits & Fees,misc,12927.3,SITE-007,J. D'Souza,2025-02-05 11:23:00,0,none
+178,Konkan Aggregates Pvt Ltd,materials,19107.19,SITE-007,N. Rao,2025-03-14 08:54:00,0,none
+179,Union Skilled Workforce,labor,63855.43,SITE-006,R. Mehta,2025-02-28 18:43:00,0,none
+180,PowerLift Cranes & Equipment,equipment,98193.6,SITE-007,R. Mehta,2025-04-29 11:48:00,0,none
+181,Zenith Office & Site Supplies,misc,3156.54,SITE-002,J. D'Souza,2025-05-19 13:59:00,0,none
+182,Everest Manpower Contractors,labor,45431.95,SITE-006,M. Sharma,2025-03-18 10:36:00,0,none
+183,Sagar Labour Solutions,labor,300000.0,SITE-004,K. Iyer,2025-05-12 12:15:00,1,round_number
+184,Konkan Aggregates Pvt Ltd,materials,31071.68,SITE-003,N. Rao,2025-04-18 17:21:00,0,none
+185,Konkan Aggregates Pvt Ltd,materials,15792.97,SITE-003,R. Mehta,2025-05-24 16:17:00,1,off_hours
+186,Municipal Permits & Fees,misc,18645.88,SITE-003,J. D'Souza,2025-03-11 16:59:00,0,none
+187,Coastal Scaffolding Rentals,equipment,33924.64,SITE-001,P. Singh,2025-05-13 15:45:00,0,none
+188,TerraMove Heavy Machinery,equipment,86616.22,SITE-003,M. Sharma,2025-02-19 11:57:00,0,none
+189,TerraMove Heavy Machinery,equipment,75270.77,SITE-001,J. D'Souza,2025-02-14 11:30:00,0,none
+190,PowerLift Cranes & Equipment,equipment,137760.63,SITE-001,K. Iyer,2025-02-21 09:44:00,0,none
+191,BuildRight Steel & Rebar,materials,29148.9,SITE-010,R. Mehta,2025-04-04 13:06:00,0,none
+192,BuildRight Steel & Rebar,materials,63533.02,SITE-001,R. Mehta,2025-03-27 11:37:00,0,none
+193,Coastal Scaffolding Rentals,equipment,135377.77,SITE-007,J. D'Souza,2025-05-27 17:30:00,1,unusual_approver
+194,Shree Cement Suppliers,materials,22284.44,SITE-006,J. D'Souza,2025-01-03 14:26:00,0,none
+195,PowerLift Cranes & Equipment,equipment,455300.1,SITE-008,K. Iyer,2025-03-25 08:31:00,0,none
+196,BuildRight Steel & Rebar,materials,78362.64,SITE-002,K. Iyer,2025-03-05 09:17:00,0,none
+197,BuildRight Steel & Rebar,materials,93646.12,SITE-010,K. Iyer,2025-02-27 11:17:00,0,none
+198,Coastal Scaffolding Rentals,equipment,61959.97,SITE-009,K. Iyer,2025-01-20 09:58:00,0,none
+199,Municipal Permits & Fees,misc,11664.4,SITE-006,K. Iyer,2025-05-07 18:00:00,0,none
+200,TerraMove Heavy Machinery,equipment,127497.76,SITE-010,J. D'Souza,2025-06-07 08:59:00,1,off_hours
+201,TerraMove Heavy Machinery,equipment,129922.46,SITE-008,M. Sharma,2025-01-28 10:14:00,0,none
+202,Everest Manpower Contractors,labor,242983.54,SITE-001,M. Sharma,2025-02-06 12:52:00,1,extreme_outlier
+203,PowerLift Cranes & Equipment,equipment,60970.62,SITE-008,M. Sharma,2025-04-29 11:44:00,0,none
+204,Everest Manpower Contractors,labor,37693.98,SITE-008,M. Sharma,2025-03-17 15:24:00,0,none
+205,Municipal Permits & Fees,misc,10818.64,SITE-004,K. Iyer,2025-02-10 13:43:00,1,duplicate
+206,Everest Manpower Contractors,labor,44000.86,SITE-004,A. Fernandes,2025-05-14 17:00:00,0,none
+207,Everest Manpower Contractors,labor,60664.36,SITE-002,A. Fernandes,2025-04-15 12:25:00,0,none
+208,Zenith Office & Site Supplies,misc,4730.93,SITE-004,S. Kulkarni,2025-04-09 17:33:00,0,none
+209,Konkan Aggregates Pvt Ltd,materials,24333.15,SITE-001,N. Rao,2025-06-11 11:43:00,0,none
+210,Coastal Scaffolding Rentals,equipment,66639.28,SITE-002,K. Iyer,2025-01-01 09:35:00,0,none
+211,Coastal Scaffolding Rentals,equipment,31699.15,SITE-002,P. Singh,2025-03-05 15:32:00,0,none
+212,Goa Timber & Plywood,materials,11161.65,SITE-002,N. Rao,2025-03-28 16:55:00,0,none
+213,Konkan Aggregates Pvt Ltd,materials,25010.02,SITE-008,N. Rao,2025-05-21 15:28:00,0,none
+214,Zenith Office & Site Supplies,misc,9710.15,SITE-002,N. Rao,2025-02-07 12:55:00,0,none
+215,PowerLift Cranes & Equipment,equipment,61620.98,SITE-004,R. Mehta,2025-04-04 13:42:00,0,none
+216,Union Skilled Workforce,labor,102227.83,SITE-006,R. Mehta,2025-02-21 18:55:00,0,none
+217,Municipal Permits & Fees,misc,49171.56,SITE-005,R. Mehta,2025-02-18 09:20:00,1,unusual_approver
+218,SafeSite PPE & Consumables,misc,5777.4,SITE-005,R. Mehta,2025-02-03 10:52:00,0,none
+219,Konkan Aggregates Pvt Ltd,materials,14251.92,SITE-001,R. Mehta,2025-02-03 09:22:00,0,none
+220,Union Skilled Workforce,labor,46225.94,SITE-008,R. Mehta,2025-05-19 17:22:00,0,none
+221,PowerLift Cranes & Equipment,equipment,153512.04,SITE-002,M. Sharma,2025-06-18 09:43:00,0,none
+222,SafeSite PPE & Consumables,misc,250000.0,SITE-009,N. Rao,2025-04-25 13:31:00,1,round_number
+223,SafeSite PPE & Consumables,misc,8370.41,SITE-008,N. Rao,2025-04-30 12:18:00,0,none
+224,Konkan Aggregates Pvt Ltd,materials,24714.66,SITE-010,R. Mehta,2025-05-20 18:32:00,0,none
+225,BuildRight Steel & Rebar,materials,300000.0,SITE-004,R. Mehta,2025-01-21 10:34:00,1,round_number
+226,Konkan Aggregates Pvt Ltd,materials,63328.39,SITE-001,N. Rao,2025-04-28 10:08:00,0,none
+227,Goa Timber & Plywood,materials,21897.36,SITE-004,J. D'Souza,2025-05-23 12:03:00,0,none
+228,Goa Timber & Plywood,materials,19240.4,SITE-002,N. Rao,2025-05-22 09:05:00,0,none
+229,SafeSite PPE & Consumables,misc,6762.2,SITE-007,N. Rao,2025-03-26 09:21:00,0,none
+230,BuildRight Steel & Rebar,materials,80850.21,SITE-005,K. Iyer,2025-06-20 15:23:00,0,none
+231,Municipal Permits & Fees,misc,17379.56,SITE-004,N. Rao,2025-02-21 17:21:00,0,none
+232,Coastal Scaffolding Rentals,equipment,55344.12,SITE-003,K. Iyer,2025-06-25 11:06:00,0,none
+233,Zenith Office & Site Supplies,misc,6129.39,SITE-005,S. Kulkarni,2025-05-22 14:08:00,0,none
+234,Sagar Labour Solutions,labor,27259.88,SITE-001,P. Singh,2025-01-23 09:11:00,0,none
+235,TerraMove Heavy Machinery,equipment,154543.89,SITE-005,M. Sharma,2025-03-31 16:33:00,0,none
+236,Sagar Labour Solutions,labor,26230.69,SITE-005,A. Fernandes,2025-02-10 18:31:00,0,none
+237,Goa Timber & Plywood,materials,31204.53,SITE-007,N. Rao,2025-04-02 11:49:00,0,none
+238,Municipal Permits & Fees,misc,700000.0,SITE-006,J. D'Souza,2025-05-14 13:20:00,1,round_number
+239,BuildRight Steel & Rebar,materials,42342.75,SITE-007,R. Mehta,2025-04-09 01:20:00,1,off_hours
+240,BuildRight Steel & Rebar,materials,55491.6,SITE-008,R. Mehta,2025-02-25 08:40:00,0,none
+241,TerraMove Heavy Machinery,equipment,74259.32,SITE-009,J. D'Souza,2025-01-30 08:45:00,1,duplicate
+242,Coastal Scaffolding Rentals,equipment,300000.0,SITE-002,P. Singh,2025-06-18 14:24:00,1,round_number
+243,SafeSite PPE & Consumables,misc,12798.05,SITE-001,R. Mehta,2025-04-07 08:49:00,0,none
+244,Municipal Permits & Fees,misc,14815.59,SITE-003,K. Iyer,2025-04-11 12:58:00,0,none
+245,SafeSite PPE & Consumables,misc,11041.96,SITE-009,R. Mehta,2025-04-08 08:56:00,0,none
+246,SafeSite PPE & Consumables,misc,13713.99,SITE-003,R. Mehta,2025-01-17 14:19:00,0,none
+247,SafeSite PPE & Consumables,misc,6817.78,SITE-003,R. Mehta,2025-02-19 09:15:00,0,none
+248,Zenith Office & Site Supplies,misc,5210.45,SITE-001,S. Kulkarni,2025-05-27 13:04:00,0,none
+249,Coastal Scaffolding Rentals,equipment,24890.81,SITE-010,P. Singh,2025-06-06 13:33:00,0,none
+250,Everest Manpower Contractors,labor,55028.22,SITE-003,P. Singh,2025-03-26 11:23:00,0,none
+251,SafeSite PPE & Consumables,misc,10215.41,SITE-006,R. Mehta,2025-03-03 10:36:00,0,none
+252,SafeSite PPE & Consumables,misc,16143.95,SITE-005,R. Mehta,2025-06-18 13:03:00,0,none
+253,PowerLift Cranes & Equipment,equipment,140750.3,SITE-004,R. Mehta,2025-02-05 12:37:00,0,none
+254,Shree Cement Suppliers,materials,49829.45,SITE-009,M. Sharma,2025-06-02 13:22:00,0,none
+255,Union Skilled Workforce,labor,93190.15,SITE-001,S. Kulkarni,2025-04-14 11:33:00,0,none
+256,Shree Cement Suppliers,materials,28707.52,SITE-008,M. Sharma,2025-03-25 11:46:00,0,none
+257,Everest Manpower Contractors,labor,34268.01,SITE-002,A. Fernandes,2025-02-04 09:13:00,0,none
+258,SafeSite PPE & Consumables,misc,6855.85,SITE-004,N. Rao,2025-02-27 14:59:00,0,none
+259,Municipal Permits & Fees,misc,11428.58,SITE-006,K. Iyer,2025-03-18 14:48:00,0,none
+260,Konkan Aggregates Pvt Ltd,materials,25490.79,SITE-003,R. Mehta,2025-04-09 16:07:00,0,none
+261,TerraMove Heavy Machinery,equipment,375613.4,SITE-003,K. Iyer,2025-01-22 11:20:00,1,unusual_approver
+262,Everest Manpower Contractors,labor,71878.83,SITE-004,M. Sharma,2025-02-28 17:04:00,0,none
+263,SafeSite PPE & Consumables,misc,5971.66,SITE-009,R. Mehta,2025-06-24 18:07:00,0,none
+264,Goa Timber & Plywood,materials,36781.8,SITE-004,K. Iyer,2025-02-10 08:33:00,0,none
+265,TerraMove Heavy Machinery,equipment,106727.12,SITE-009,J. D'Souza,2025-03-17 16:06:00,0,none
+266,SafeSite PPE & Consumables,misc,6927.31,SITE-005,R. Mehta,2025-04-24 11:53:00,0,none
+267,Everest Manpower Contractors,labor,62451.93,SITE-004,A. Fernandes,2025-06-05 18:10:00,0,none
+268,BuildRight Steel & Rebar,materials,40390.04,SITE-006,K. Iyer,2025-02-18 15:38:00,0,none
+269,Zenith Office & Site Supplies,misc,13012.45,SITE-010,J. D'Souza,2025-02-20 17:03:00,0,none
+270,Union Skilled Workforce,labor,59820.27,SITE-010,S. Kulkarni,2025-03-21 09:36:00,0,none
+271,BuildRight Steel & Rebar,materials,73288.12,SITE-009,R. Mehta,2025-02-25 14:12:00,0,none
+272,Everest Manpower Contractors,labor,27971.74,SITE-001,M. Sharma,2025-05-19 13:06:00,0,none
+273,Everest Manpower Contractors,labor,45688.52,SITE-005,M. Sharma,2025-06-26 18:19:00,0,none
+274,BuildRight Steel & Rebar,materials,42711.09,SITE-009,K. Iyer,2025-02-03 10:19:00,0,none
+275,Union Skilled Workforce,labor,57154.89,SITE-005,R. Mehta,2025-06-03 11:01:00,0,none
+276,PowerLift Cranes & Equipment,equipment,157862.7,SITE-005,K. Iyer,2025-02-27 15:17:00,0,none
+277,Goa Timber & Plywood,materials,27599.16,SITE-002,J. D'Souza,2025-03-19 13:37:00,0,none
+278,BuildRight Steel & Rebar,materials,136327.79,SITE-008,K. Iyer,2025-04-08 17:07:00,0,none
+279,BuildRight Steel & Rebar,materials,67158.17,SITE-005,R. Mehta,2025-03-26 13:29:00,0,none
+280,Everest Manpower Contractors,labor,53625.08,SITE-002,P. Singh,2025-03-25 18:04:00,0,none
+281,TerraMove Heavy Machinery,equipment,131113.79,SITE-008,J. D'Souza,2025-06-25 10:15:00,0,none
+282,PowerLift Cranes & Equipment,equipment,79933.98,SITE-002,K. Iyer,2025-03-19 13:47:00,0,none
+283,Konkan Aggregates Pvt Ltd,materials,33645.97,SITE-003,N. Rao,2025-05-19 09:17:00,0,none
+284,Konkan Aggregates Pvt Ltd,materials,28790.45,SITE-009,R. Mehta,2025-02-21 14:30:00,0,none
+285,Union Skilled Workforce,labor,94943.1,SITE-001,R. Mehta,2025-04-17 17:34:00,0,none
+286,Municipal Permits & Fees,misc,20680.17,SITE-005,J. D'Souza,2025-03-27 09:06:00,0,none
+287,Coastal Scaffolding Rentals,equipment,29037.68,SITE-005,P. Singh,2025-04-01 08:09:00,0,none
+288,Shree Cement Suppliers,materials,26241.63,SITE-002,J. D'Souza,2025-02-07 14:36:00,0,none
+289,SafeSite PPE & Consumables,misc,7058.44,SITE-002,R. Mehta,2025-02-25 18:02:00,0,none
+290,Goa Timber & Plywood,materials,15974.03,SITE-003,N. Rao,2025-01-08 16:56:00,0,none
+291,Municipal Permits & Fees,misc,10949.78,SITE-005,K. Iyer,2025-06-18 12:07:00,0,none
+292,Zenith Office & Site Supplies,misc,6087.97,SITE-003,J. D'Souza,2025-02-12 14:31:00,0,none
+293,Sagar Labour Solutions,labor,42076.01,SITE-005,K. Iyer,2025-04-30 18:07:00,0,none
+294,SafeSite PPE & Consumables,misc,27697.01,SITE-007,R. Mehta,2025-02-03 08:20:00,0,none
+295,Municipal Permits & Fees,misc,17010.79,SITE-009,N. Rao,2025-05-30 09:22:00,0,none
+296,Sagar Labour Solutions,labor,40738.74,SITE-001,K. Iyer,2025-05-02 16:21:00,0,none
+297,Sagar Labour Solutions,labor,45474.36,SITE-004,A. Fernandes,2025-01-17 16:11:00,0,none
+298,TerraMove Heavy Machinery,equipment,238899.74,SITE-004,J. D'Souza,2025-02-03 17:57:00,0,none
+299,Konkan Aggregates Pvt Ltd,materials,51853.81,SITE-006,R. Mehta,2025-04-02 11:08:00,0,none
+300,PowerLift Cranes & Equipment,equipment,123944.73,SITE-008,K. Iyer,2025-04-25 15:30:00,0,none
+301,Coastal Scaffolding Rentals,equipment,41804.96,SITE-009,K. Iyer,2025-05-26 10:24:00,0,none
+302,BuildRight Steel & Rebar,materials,41994.31,SITE-007,K. Iyer,2025-03-11 12:02:00,0,none
+303,SafeSite PPE & Consumables,misc,7940.62,SITE-006,N. Rao,2025-06-13 13:53:00,0,none
+304,Coastal Scaffolding Rentals,equipment,44254.45,SITE-001,P. Singh,2025-02-14 12:26:00,0,none
+305,Goa Timber & Plywood,materials,19244.98,SITE-001,K. Iyer,2025-06-04 18:13:00,0,none
+306,Everest Manpower Contractors,labor,37545.28,SITE-006,P. Singh,2025-02-13 13:06:00,0,none
+307,Sagar Labour Solutions,labor,24120.11,SITE-009,A. Fernandes,2025-02-03 16:57:00,0,none
+308,SafeSite PPE & Consumables,misc,3893.06,SITE-008,R. Mehta,2025-01-20 08:16:00,0,none
+309,Union Skilled Workforce,labor,184542.22,SITE-003,S. Kulkarni,2025-02-14 15:34:00,0,none
+310,Municipal Permits & Fees,misc,10020.97,SITE-002,K. Iyer,2025-02-20 08:00:00,0,none
+311,Coastal Scaffolding Rentals,equipment,48626.35,SITE-006,P. Singh,2025-02-13 12:36:00,0,none
+312,Zenith Office & Site Supplies,misc,5097.85,SITE-006,S. Kulkarni,2025-04-02 15:05:00,0,none
+313,Everest Manpower Contractors,labor,84327.36,SITE-004,P. Singh,2025-01-10 16:08:00,0,none
+314,Sagar Labour Solutions,labor,37353.18,SITE-006,K. Iyer,2025-01-30 11:27:00,0,none
+315,BuildRight Steel & Rebar,materials,57393.02,SITE-002,K. Iyer,2025-02-05 09:43:00,0,none
+316,TerraMove Heavy Machinery,equipment,142907.73,SITE-002,J. D'Souza,2025-01-02 15:48:00,0,none
+317,Union Skilled Workforce,labor,40849.38,SITE-008,S. Kulkarni,2025-01-21 11:03:00,0,none
+318,Everest Manpower Contractors,labor,41322.48,SITE-001,M. Sharma,2025-04-04 16:59:00,0,none
+319,TerraMove Heavy Machinery,equipment,81782.51,SITE-002,M. Sharma,2025-05-01 17:07:00,0,none
+320,Konkan Aggregates Pvt Ltd,materials,17148.47,SITE-005,N. Rao,2025-01-08 09:04:00,0,none
+321,Konkan Aggregates Pvt Ltd,materials,13426.85,SITE-008,R. Mehta,2025-04-30 08:11:00,0,none
+322,Sagar Labour Solutions,labor,36075.08,SITE-007,K. Iyer,2025-04-24 16:31:00,0,none
+323,Everest Manpower Contractors,labor,49885.8,SITE-006,M. Sharma,2025-01-10 08:00:00,0,none
+324,Sagar Labour Solutions,labor,31279.66,SITE-009,P. Singh,2025-01-02 17:32:00,0,none
+325,Sagar Labour Solutions,labor,31909.6,SITE-005,K. Iyer,2025-06-20 08:47:00,0,none
+326,Municipal Permits & Fees,misc,14908.86,SITE-008,K. Iyer,2025-05-09 18:11:00,0,none
+327,Municipal Permits & Fees,misc,22377.55,SITE-005,N. Rao,2025-06-10 12:49:00,0,none
+328,SafeSite PPE & Consumables,misc,11964.34,SITE-002,N. Rao,2025-01-01 11:54:00,0,none
+329,Zenith Office & Site Supplies,misc,5564.92,SITE-006,J. D'Souza,2025-04-11 09:24:00,1,duplicate
+330,Coastal Scaffolding Rentals,equipment,76708.98,SITE-004,P. Singh,2025-03-19 08:02:00,0,none
+331,SafeSite PPE & Consumables,misc,11181.23,SITE-004,R. Mehta,2025-03-04 15:17:00,0,none
+332,Municipal Permits & Fees,misc,14955.44,SITE-003,K. Iyer,2025-01-02 09:56:00,0,none
+333,Everest Manpower Contractors,labor,350000.0,SITE-001,A. Fernandes,2025-01-06 12:46:00,1,round_number
+334,Zenith Office & Site Supplies,misc,5498.88,SITE-007,N. Rao,2025-06-17 14:13:00,0,none
+335,SafeSite PPE & Consumables,misc,34350.08,SITE-004,R. Mehta,2025-05-07 16:33:00,1,extreme_outlier
+336,Everest Manpower Contractors,labor,56252.14,SITE-003,M. Sharma,2025-01-28 11:35:00,0,none
+337,Coastal Scaffolding Rentals,equipment,21888.64,SITE-006,P. Singh,2025-04-09 15:11:00,0,none
+338,Sagar Labour Solutions,labor,30374.05,SITE-001,A. Fernandes,2025-01-13 11:08:00,0,none
+339,Sagar Labour Solutions,labor,34060.5,SITE-008,K. Iyer,2025-01-08 10:36:00,0,none
+340,BuildRight Steel & Rebar,materials,54328.26,SITE-009,R. Mehta,2025-05-13 08:11:00,0,none
+341,TerraMove Heavy Machinery,equipment,223745.36,SITE-002,J. D'Souza,2025-04-01 14:38:00,0,none
+342,Konkan Aggregates Pvt Ltd,materials,31580.52,SITE-004,N. Rao,2025-01-31 11:44:00,0,none
+343,PowerLift Cranes & Equipment,equipment,300256.54,SITE-002,R. Mehta,2025-01-23 14:54:00,0,none
+344,Goa Timber & Plywood,materials,8696.48,SITE-008,K. Iyer,2025-01-10 09:03:00,0,none
+345,Konkan Aggregates Pvt Ltd,materials,21052.58,SITE-001,R. Mehta,2025-05-19 15:41:00,0,none
+346,Everest Manpower Contractors,labor,59387.85,SITE-008,M. Sharma,2025-02-24 17:22:00,0,none
+347,TerraMove Heavy Machinery,equipment,270149.72,SITE-002,M. Sharma,2025-06-18 18:24:00,0,none
+348,Union Skilled Workforce,labor,93450.42,SITE-001,S. Kulkarni,2025-06-03 09:38:00,0,none
+349,TerraMove Heavy Machinery,equipment,227929.06,SITE-005,M. Sharma,2025-06-09 11:58:00,0,none
+350,Zenith Office & Site Supplies,misc,6516.47,SITE-001,S. Kulkarni,2025-05-26 13:18:00,0,none
+351,Union Skilled Workforce,labor,38833.13,SITE-003,S. Kulkarni,2025-01-10 12:35:00,0,none
+352,PowerLift Cranes & Equipment,equipment,138328.75,SITE-004,M. Sharma,2025-01-29 17:46:00,0,none
+353,Municipal Permits & Fees,misc,10243.06,SITE-005,K. Iyer,2025-02-05 17:48:00,0,none
+354,Sagar Labour Solutions,labor,25255.27,SITE-008,P. Singh,2025-06-26 10:44:00,0,none
+355,Goa Timber & Plywood,materials,10826.21,SITE-001,N. Rao,2025-02-12 17:03:00,0,none
+356,Shree Cement Suppliers,materials,55510.65,SITE-002,J. D'Souza,2025-02-11 15:17:00,0,none
+357,Sagar Labour Solutions,labor,36102.58,SITE-003,K. Iyer,2025-05-02 13:01:00,0,none
+358,Zenith Office & Site Supplies,misc,10253.88,SITE-010,S. Kulkarni,2025-01-17 18:59:00,0,none
+359,Union Skilled Workforce,labor,49624.46,SITE-006,R. Mehta,2025-06-18 09:29:00,0,none
+360,SafeSite PPE & Consumables,misc,9790.28,SITE-009,N. Rao,2025-04-14 18:23:00,1,duplicate
+361,Municipal Permits & Fees,misc,13582.96,SITE-001,N. Rao,2025-01-15 16:15:00,0,none
+362,Coastal Scaffolding Rentals,equipment,26878.36,SITE-010,K. Iyer,2025-03-05 17:56:00,0,none
+363,Municipal Permits & Fees,misc,20676.81,SITE-009,K. Iyer,2025-06-24 09:38:00,0,none
+364,Municipal Permits & Fees,misc,15254.21,SITE-007,K. Iyer,2025-06-10 13:01:00,0,none
+365,Municipal Permits & Fees,misc,16855.08,SITE-007,N. Rao,2025-05-20 15:39:00,0,none
+366,Goa Timber & Plywood,materials,16726.39,SITE-001,N. Rao,2025-01-15 18:57:00,0,none
+367,Konkan Aggregates Pvt Ltd,materials,26050.43,SITE-005,N. Rao,2025-05-05 18:50:00,0,none
+368,Coastal Scaffolding Rentals,equipment,80907.27,SITE-005,P. Singh,2025-04-09 13:12:00,0,none
+369,Coastal Scaffolding Rentals,equipment,43971.25,SITE-001,K. Iyer,2025-06-26 09:17:00,1,duplicate
+370,TerraMove Heavy Machinery,equipment,205833.38,SITE-004,J. D'Souza,2025-04-18 18:55:00,0,none
+371,Union Skilled Workforce,labor,80971.9,SITE-007,R. Mehta,2025-01-31 08:56:00,0,none
+372,Everest Manpower Contractors,labor,66025.83,SITE-004,A. Fernandes,2025-01-15 13:09:00,0,none
+373,TerraMove Heavy Machinery,equipment,238704.58,SITE-001,J. D'Souza,2025-03-06 08:00:00,0,none
+374,Coastal Scaffolding Rentals,equipment,75385.34,SITE-002,K. Iyer,2025-05-15 10:29:00,0,none
+375,Goa Timber & Plywood,materials,30588.03,SITE-004,N. Rao,2025-02-11 09:59:00,0,none
+376,PowerLift Cranes & Equipment,equipment,45341.97,SITE-001,M. Sharma,2025-06-05 10:34:00,0,none
+377,Konkan Aggregates Pvt Ltd,materials,26175.33,SITE-007,R. Mehta,2025-02-20 13:51:00,0,none
+378,PowerLift Cranes & Equipment,equipment,101975.24,SITE-003,K. Iyer,2025-01-10 18:42:00,0,none
+379,Konkan Aggregates Pvt Ltd,materials,13638.57,SITE-009,R. Mehta,2025-03-19 17:58:00,0,none
+380,Goa Timber & Plywood,materials,12731.7,SITE-007,K. Iyer,2025-04-24 14:11:00,0,none
+381,Shree Cement Suppliers,materials,59182.38,SITE-001,J. D'Souza,2025-01-14 11:33:00,0,none
+382,Municipal Permits & Fees,misc,13135.28,SITE-004,J. D'Souza,2025-04-21 14:17:00,0,none
+383,SafeSite PPE & Consumables,misc,11824.93,SITE-005,N. Rao,2025-05-15 10:49:00,0,none
+384,Union Skilled Workforce,labor,47012.11,SITE-002,R. Mehta,2025-05-07 10:19:00,0,none
+385,Zenith Office & Site Supplies,misc,11437.0,SITE-009,J. D'Souza,2025-01-08 13:12:00,0,none
+386,BuildRight Steel & Rebar,materials,88765.02,SITE-009,R. Mehta,2025-02-10 18:07:00,0,none
+387,Everest Manpower Contractors,labor,47917.4,SITE-007,P. Singh,2025-02-17 10:22:00,0,none
+388,Coastal Scaffolding Rentals,equipment,18188.3,SITE-002,P. Singh,2025-06-24 15:13:00,0,none
+389,Shree Cement Suppliers,materials,52136.12,SITE-006,M. Sharma,2025-06-26 16:36:00,0,none
+390,Union Skilled Workforce,labor,21224.54,SITE-005,R. Mehta,2025-01-28 11:13:00,0,none
+391,Goa Timber & Plywood,materials,12913.9,SITE-007,N. Rao,2025-01-01 12:28:00,0,none
+392,Konkan Aggregates Pvt Ltd,materials,34586.66,SITE-005,N. Rao,2025-01-27 12:16:00,0,none
+393,Sagar Labour Solutions,labor,14006.38,SITE-006,P. Singh,2025-04-11 13:58:00,0,none
+394,Konkan Aggregates Pvt Ltd,materials,60534.71,SITE-006,N. Rao,2025-04-28 08:19:00,0,none
+395,Union Skilled Workforce,labor,47872.93,SITE-001,S. Kulkarni,2025-03-03 12:59:00,0,none
+396,SafeSite PPE & Consumables,misc,88493.46,SITE-009,R. Mehta,2025-03-13 08:26:00,1,extreme_outlier
+397,SafeSite PPE & Consumables,misc,11521.36,SITE-004,N. Rao,2025-02-19 15:06:00,0,none
+398,SafeSite PPE & Consumables,misc,2906.17,SITE-006,R. Mehta,2025-04-21 08:18:00,0,none
+399,Shree Cement Suppliers,materials,21004.18,SITE-010,M. Sharma,2025-02-10 11:26:00,0,none
+400,BuildRight Steel & Rebar,materials,84427.24,SITE-006,R. Mehta,2025-02-21 11:11:00,0,none
+401,PowerLift Cranes & Equipment,equipment,94567.93,SITE-001,K. Iyer,2025-01-17 12:23:00,0,none
+402,PowerLift Cranes & Equipment,equipment,200981.59,SITE-001,M. Sharma,2025-02-05 08:45:00,0,none
+403,Sagar Labour Solutions,labor,19471.92,SITE-005,A. Fernandes,2025-05-08 09:14:00,0,none
+404,BuildRight Steel & Rebar,materials,350000.0,SITE-006,K. Iyer,2025-03-20 09:20:00,1,round_number
+405,Zenith Office & Site Supplies,misc,6891.52,SITE-004,N. Rao,2025-01-21 17:58:00,0,none
+406,Municipal Permits & Fees,misc,11899.41,SITE-005,K. Iyer,2025-03-20 12:41:00,0,none
+407,PowerLift Cranes & Equipment,equipment,281866.05,SITE-007,K. Iyer,2025-02-27 18:46:00,0,none
+408,SafeSite PPE & Consumables,misc,7117.21,SITE-009,R. Mehta,2025-03-17 08:21:00,0,none
+409,Union Skilled Workforce,labor,34437.29,SITE-007,R. Mehta,2025-04-28 12:46:00,0,none
+410,PowerLift Cranes & Equipment,equipment,210895.13,SITE-008,R. Mehta,2025-05-13 15:05:00,0,none
+411,Goa Timber & Plywood,materials,22746.31,SITE-005,J. D'Souza,2025-06-16 12:34:00,0,none
+412,BuildRight Steel & Rebar,materials,71083.35,SITE-008,R. Mehta,2025-04-04 10:47:00,0,none
+413,Zenith Office & Site Supplies,misc,6732.57,SITE-006,S. Kulkarni,2025-03-07 18:52:00,0,none
+414,BuildRight Steel & Rebar,materials,116275.68,SITE-010,R. Mehta,2025-02-13 18:19:00,0,none
+415,Coastal Scaffolding Rentals,equipment,53677.5,SITE-010,P. Singh,2025-04-16 13:09:00,0,none
+416,Union Skilled Workforce,labor,84051.37,SITE-004,R. Mehta,2025-05-30 10:08:00,0,none
+417,Municipal Permits & Fees,misc,14539.74,SITE-001,K. Iyer,2025-04-10 18:34:00,0,none
+418,Konkan Aggregates Pvt Ltd,materials,43234.38,SITE-006,N. Rao,2025-02-18 14:27:00,0,none
+419,Sagar Labour Solutions,labor,79039.55,SITE-004,K. Iyer,2025-04-16 09:50:00,0,none
+420,SafeSite PPE & Consumables,misc,3403.69,SITE-009,N. Rao,2025-04-08 10:19:00,0,none
+421,Municipal Permits & Fees,misc,10542.49,SITE-004,N. Rao,2025-03-31 13:29:00,0,none
+422,Goa Timber & Plywood,materials,16391.64,SITE-001,J. D'Souza,2025-01-14 17:08:00,0,none
+423,Shree Cement Suppliers,materials,22556.39,SITE-005,M. Sharma,2025-02-07 09:25:00,0,none
+424,Zenith Office & Site Supplies,misc,10727.64,SITE-006,N. Rao,2025-04-06 13:37:00,1,duplicate
+425,Union Skilled Workforce,labor,46416.1,SITE-006,R. Mehta,2025-03-18 15:04:00,0,none
+426,Union Skilled Workforce,labor,67561.14,SITE-006,S. Kulkarni,2025-02-27 18:20:00,0,none
+427,Everest Manpower Contractors,labor,231616.11,SITE-008,J. D'Souza,2025-03-12 18:34:00,1,unusual_approver
+428,Goa Timber & Plywood,materials,37589.89,SITE-001,K. Iyer,2025-06-19 13:30:00,0,none
+429,Konkan Aggregates Pvt Ltd,materials,11402.71,SITE-005,R. Mehta,2025-06-05 15:33:00,0,none
+430,Union Skilled Workforce,labor,71677.07,SITE-003,R. Mehta,2025-03-05 15:24:00,0,none
+431,BuildRight Steel & Rebar,materials,42108.53,SITE-003,K. Iyer,2025-05-21 14:44:00,0,none
+432,Everest Manpower Contractors,labor,44025.35,SITE-004,P. Singh,2025-04-16 09:51:00,0,none
+433,Everest Manpower Contractors,labor,29800.54,SITE-002,P. Singh,2025-06-26 16:20:00,0,none
+434,Union Skilled Workforce,labor,69955.53,SITE-001,S. Kulkarni,2025-02-18 09:29:00,0,none
+435,BuildRight Steel & Rebar,materials,88932.45,SITE-010,K. Iyer,2025-02-04 08:03:00,0,none
+436,PowerLift Cranes & Equipment,equipment,45888.82,SITE-003,R. Mehta,2025-04-09 13:50:00,0,none
+437,PowerLift Cranes & Equipment,equipment,109873.02,SITE-001,R. Mehta,2025-04-09 15:32:00,0,none
+438,BuildRight Steel & Rebar,materials,27117.33,SITE-009,R. Mehta,2025-04-15 09:22:00,0,none
+439,Konkan Aggregates Pvt Ltd,materials,32438.14,SITE-008,N. Rao,2025-02-20 11:14:00,0,none
+440,Shree Cement Suppliers,materials,36284.17,SITE-010,J. D'Souza,2025-01-28 09:46:00,0,none
+441,Municipal Permits & Fees,misc,20271.74,SITE-005,K. Iyer,2025-04-11 16:07:00,0,none
+442,Union Skilled Workforce,labor,104139.66,SITE-009,S. Kulkarni,2025-03-21 09:14:00,0,none
+443,SafeSite PPE & Consumables,misc,6667.8,SITE-010,R. Mehta,2025-01-09 17:56:00,0,none
+444,Shree Cement Suppliers,materials,31563.68,SITE-002,M. Sharma,2025-02-07 17:58:00,0,none
+445,PowerLift Cranes & Equipment,equipment,256145.21,SITE-004,R. Mehta,2025-01-29 17:19:00,0,none
+446,Everest Manpower Contractors,labor,57406.43,SITE-006,A. Fernandes,2025-03-12 15:09:00,0,none
+447,BuildRight Steel & Rebar,materials,67672.48,SITE-009,K. Iyer,2025-02-13 10:51:00,0,none
+448,TerraMove Heavy Machinery,equipment,74970.26,SITE-010,J. D'Souza,2025-03-13 15:12:00,0,none
+449,Everest Manpower Contractors,labor,68045.94,SITE-007,A. Fernandes,2025-06-03 17:21:00,0,none
+450,Zenith Office & Site Supplies,misc,12890.42,SITE-007,N. Rao,2025-05-01 09:42:00,0,none
+451,SafeSite PPE & Consumables,misc,8483.8,SITE-009,R. Mehta,2025-02-28 09:18:00,0,none
+452,Sagar Labour Solutions,labor,28100.61,SITE-010,K. Iyer,2025-04-16 11:26:00,0,none
+453,Zenith Office & Site Supplies,misc,7086.43,SITE-005,S. Kulkarni,2025-01-22 16:42:00,0,none
+454,Zenith Office & Site Supplies,misc,8375.69,SITE-006,J. D'Souza,2025-01-13 18:52:00,0,none
+455,PowerLift Cranes & Equipment,equipment,167911.58,SITE-009,K. Iyer,2025-06-18 11:23:00,0,none
+456,Union Skilled Workforce,labor,29918.9,SITE-003,S. Kulkarni,2025-02-22 11:14:00,1,duplicate
+457,Shree Cement Suppliers,materials,43954.56,SITE-001,M. Sharma,2025-03-27 15:20:00,0,none
+458,SafeSite PPE & Consumables,misc,26344.23,SITE-001,A. Fernandes,2025-01-10 11:08:00,1,unusual_approver
+459,Goa Timber & Plywood,materials,12188.51,SITE-001,J. D'Souza,2025-03-03 10:34:00,0,none
+460,BuildRight Steel & Rebar,materials,46548.9,SITE-003,R. Mehta,2025-01-03 12:27:00,0,none
+461,PowerLift Cranes & Equipment,equipment,68174.23,SITE-007,M. Sharma,2025-01-20 12:00:00,0,none
+462,Konkan Aggregates Pvt Ltd,materials,17849.95,SITE-006,N. Rao,2025-03-12 14:39:00,0,none
+463,Municipal Permits & Fees,misc,13268.14,SITE-008,N. Rao,2025-05-23 12:44:00,0,none
+464,PowerLift Cranes & Equipment,equipment,171968.97,SITE-006,R. Mehta,2025-06-16 15:47:00,0,none
+465,BuildRight Steel & Rebar,materials,42342.75,SITE-007,R. Mehta,2025-03-03 13:09:00,0,none
+466,Union Skilled Workforce,labor,45660.8,SITE-001,R. Mehta,2025-02-14 15:00:00,0,none
+467,Goa Timber & Plywood,materials,27425.04,SITE-004,N. Rao,2025-02-03 13:19:00,0,none
+468,Union Skilled Workforce,labor,53121.16,SITE-006,S. Kulkarni,2025-06-27 13:58:00,0,none
+469,TerraMove Heavy Machinery,equipment,360539.67,SITE-006,J. D'Souza,2025-01-08 12:22:00,0,none
+470,Shree Cement Suppliers,materials,36780.2,SITE-006,J. D'Souza,2025-05-21 08:38:00,0,none
+471,TerraMove Heavy Machinery,equipment,459713.24,SITE-007,J. D'Souza,2025-04-21 17:16:00,0,none
+472,BuildRight Steel & Rebar,materials,34524.9,SITE-009,K. Iyer,2025-01-02 13:58:00,0,none
+473,PowerLift Cranes & Equipment,equipment,62865.22,SITE-004,K. Iyer,2025-04-01 18:04:00,0,none
+474,BuildRight Steel & Rebar,materials,86635.87,SITE-001,R. Mehta,2025-03-05 18:23:00,0,none
+475,Goa Timber & Plywood,materials,12371.52,SITE-006,J. D'Souza,2025-04-02 09:27:00,0,none
+476,Municipal Permits & Fees,misc,25618.6,SITE-010,K. Iyer,2025-03-27 14:21:00,0,none
+477,SafeSite PPE & Consumables,misc,28729.86,SITE-006,N. Rao,2025-06-17 15:56:00,0,none
+478,TerraMove Heavy Machinery,equipment,92440.7,SITE-004,M. Sharma,2025-03-13 09:22:00,0,none
+479,BuildRight Steel & Rebar,materials,40508.23,SITE-005,R. Mehta,2025-05-28 11:14:00,0,none
+480,PowerLift Cranes & Equipment,equipment,325326.38,SITE-004,M. Sharma,2025-05-13 16:08:00,0,none
+481,Union Skilled Workforce,labor,50851.59,SITE-005,R. Mehta,2025-01-21 15:49:00,0,none
+482,Municipal Permits & Fees,misc,13482.16,SITE-007,J. D'Souza,2025-04-29 15:11:00,0,none
+483,Sagar Labour Solutions,labor,37160.91,SITE-009,K. Iyer,2025-06-16 13:20:00,0,none
+484,Zenith Office & Site Supplies,misc,6605.62,SITE-009,J. D'Souza,2025-02-13 18:31:00,0,none
+485,Union Skilled Workforce,labor,52972.02,SITE-004,S. Kulkarni,2025-04-25 15:28:00,0,none
+486,Zenith Office & Site Supplies,misc,3035.38,SITE-008,J. D'Souza,2025-04-22 14:32:00,0,none
+487,SafeSite PPE & Consumables,misc,8968.75,SITE-010,N. Rao,2025-04-21 18:21:00,0,none
+488,PowerLift Cranes & Equipment,equipment,88250.5,SITE-005,M. Sharma,2025-05-06 10:38:00,0,none
+489,Zenith Office & Site Supplies,misc,7343.74,SITE-001,N. Rao,2025-03-04 18:47:00,0,none
+490,PowerLift Cranes & Equipment,equipment,191924.59,SITE-010,M. Sharma,2025-03-19 15:15:00,0,none
+491,Zenith Office & Site Supplies,misc,6704.94,SITE-002,J. D'Souza,2025-04-30 12:47:00,0,none
+492,Coastal Scaffolding Rentals,equipment,37499.14,SITE-005,K. Iyer,2025-06-27 13:38:00,0,none
+493,Union Skilled Workforce,labor,37773.48,SITE-009,S. Kulkarni,2025-01-16 16:18:00,0,none
+494,Coastal Scaffolding Rentals,equipment,32436.8,SITE-010,P. Singh,2025-06-06 16:44:00,0,none
+495,BuildRight Steel & Rebar,materials,152002.38,SITE-006,K. Iyer,2025-05-23 09:17:00,0,none
+496,TerraMove Heavy Machinery,equipment,111072.38,SITE-010,J. D'Souza,2025-06-16 18:13:00,0,none
+497,PowerLift Cranes & Equipment,equipment,206111.87,SITE-010,K. Iyer,2025-01-17 17:53:00,0,none
+498,BuildRight Steel & Rebar,materials,57277.25,SITE-002,R. Mehta,2025-02-16 03:11:00,1,off_hours
+499,SafeSite PPE & Consumables,misc,10517.57,SITE-007,N. Rao,2025-03-03 12:43:00,0,none
+500,Sagar Labour Solutions,labor,37279.81,SITE-006,A. Fernandes,2025-02-13 10:43:00,0,none
+501,TerraMove Heavy Machinery,equipment,93487.8,SITE-005,M. Sharma,2025-05-28 10:23:00,0,none
+502,Zenith Office & Site Supplies,misc,4702.08,SITE-010,N. Rao,2025-03-25 15:40:00,0,none
+503,Konkan Aggregates Pvt Ltd,materials,28962.86,SITE-006,N. Rao,2025-04-09 09:27:00,0,none
+504,Coastal Scaffolding Rentals,equipment,101836.32,SITE-003,P. Singh,2025-02-18 09:10:00,0,none
+505,Zenith Office & Site Supplies,misc,5572.71,SITE-004,S. Kulkarni,2025-03-20 18:12:00,0,none
+506,Shree Cement Suppliers,materials,64440.74,SITE-003,J. D'Souza,2025-04-10 13:48:00,0,none
+507,Shree Cement Suppliers,materials,99639.52,SITE-001,J. D'Souza,2025-05-16 15:47:00,0,none
+508,Goa Timber & Plywood,materials,18786.67,SITE-005,K. Iyer,2025-03-03 16:02:00,0,none
+509,PowerLift Cranes & Equipment,equipment,108641.17,SITE-003,M. Sharma,2025-01-29 09:51:00,0,none
+510,SafeSite PPE & Consumables,misc,3646.99,SITE-010,N. Rao,2025-04-04 15:15:00,0,none
+511,Zenith Office & Site Supplies,misc,5818.58,SITE-006,S. Kulkarni,2025-03-27 14:33:00,0,none
+512,Goa Timber & Plywood,materials,10211.9,SITE-010,J. D'Souza,2025-02-20 17:25:00,0,none
+513,TerraMove Heavy Machinery,equipment,61759.35,SITE-008,J. D'Souza,2025-03-14 08:36:00,0,none
+514,Coastal Scaffolding Rentals,equipment,30809.32,SITE-004,K. Iyer,2025-04-16 17:13:00,0,none
+515,Shree Cement Suppliers,materials,68868.07,SITE-008,M. Sharma,2025-03-06 08:19:00,0,none
+516,BuildRight Steel & Rebar,materials,52516.23,SITE-010,R. Mehta,2025-05-14 14:06:00,0,none
+517,TerraMove Heavy Machinery,equipment,64341.88,SITE-001,J. D'Souza,2025-03-03 09:20:00,0,none
+518,Union Skilled Workforce,labor,55121.28,SITE-002,S. Kulkarni,2025-04-07 14:44:00,0,none
+519,Everest Manpower Contractors,labor,145892.8,SITE-003,N. Rao,2025-04-16 16:57:00,1,unusual_approver
+520,Zenith Office & Site Supplies,misc,2865.35,SITE-004,N. Rao,2025-06-09 18:49:00,0,none
+521,Municipal Permits & Fees,misc,8094.9,SITE-005,N. Rao,2025-04-22 12:18:00,0,none
+522,Union Skilled Workforce,labor,69175.39,SITE-005,R. Mehta,2025-01-06 08:13:00,0,none
+523,Shree Cement Suppliers,materials,23736.75,SITE-001,M. Sharma,2025-05-16 11:46:00,0,none
+524,Shree Cement Suppliers,materials,63441.16,SITE-008,J. D'Souza,2025-02-11 16:04:00,0,none
+525,BuildRight Steel & Rebar,materials,66477.56,SITE-008,R. Mehta,2025-02-19 14:06:00,0,none
+526,BuildRight Steel & Rebar,materials,195874.37,SITE-003,M. Sharma,2025-06-09 13:03:00,1,unusual_approver
+527,Union Skilled Workforce,labor,47384.5,SITE-003,S. Kulkarni,2025-01-24 08:00:00,0,none
+528,PowerLift Cranes & Equipment,equipment,257202.33,SITE-009,M. Sharma,2025-03-06 17:30:00,0,none
+529,SafeSite PPE & Consumables,misc,5597.91,SITE-008,N. Rao,2025-04-10 08:52:00,0,none
+530,Everest Manpower Contractors,labor,32801.65,SITE-007,P. Singh,2025-01-27 15:35:00,0,none
+531,Sagar Labour Solutions,labor,45257.26,SITE-005,K. Iyer,2025-01-13 09:25:00,0,none
+532,Zenith Office & Site Supplies,misc,11597.59,SITE-010,S. Kulkarni,2025-06-02 14:19:00,0,none
+533,TerraMove Heavy Machinery,equipment,96642.37,SITE-003,M. Sharma,2025-02-11 11:35:00,0,none
+534,TerraMove Heavy Machinery,equipment,242648.94,SITE-001,J. D'Souza,2025-01-25 11:06:00,1,off_hours
+535,BuildRight Steel & Rebar,materials,91686.19,SITE-002,K. Iyer,2025-01-21 13:32:00,0,none
+536,Konkan Aggregates Pvt Ltd,materials,26702.51,SITE-003,N. Rao,2025-01-02 08:55:00,0,none
+537,Coastal Scaffolding Rentals,equipment,54509.87,SITE-008,K. Iyer,2025-06-24 15:50:00,0,none
+538,Goa Timber & Plywood,materials,13228.0,SITE-004,J. D'Souza,2025-04-11 10:32:00,0,none
+539,Sagar Labour Solutions,labor,30920.76,SITE-006,K. Iyer,2025-03-03 08:07:00,0,none
+540,Goa Timber & Plywood,materials,15831.9,SITE-009,N. Rao,2025-05-28 15:38:00,0,none
+541,Municipal Permits & Fees,misc,9932.11,SITE-006,N. Rao,2025-03-17 14:26:00,0,none
+542,Sagar Labour Solutions,labor,22950.76,SITE-004,K. Iyer,2025-03-31 13:03:00,0,none
+543,Coastal Scaffolding Rentals,equipment,39448.31,SITE-002,K. Iyer,2025-02-26 10:16:00,0,none
+544,BuildRight Steel & Rebar,materials,198464.48,SITE-005,R. Mehta,2025-03-21 18:09:00,0,none
+545,Coastal Scaffolding Rentals,equipment,46897.62,SITE-006,P. Singh,2025-05-19 08:30:00,0,none
+546,TerraMove Heavy Machinery,equipment,190624.23,SITE-005,J. D'Souza,2025-01-02 17:07:00,0,none
+547,Goa Timber & Plywood,materials,29001.13,SITE-006,K. Iyer,2025-06-02 13:00:00,0,none
+548,Municipal Permits & Fees,misc,182722.13,SITE-007,K. Iyer,2025-06-04 18:27:00,1,extreme_outlier
+549,Coastal Scaffolding Rentals,equipment,34659.44,SITE-008,K. Iyer,2025-05-23 10:37:00,0,none
+550,Shree Cement Suppliers,materials,13139.18,SITE-003,M. Sharma,2025-02-03 08:02:00,0,none
+551,Sagar Labour Solutions,labor,27929.98,SITE-008,K. Iyer,2025-04-22 16:27:00,0,none
+552,Coastal Scaffolding Rentals,equipment,42613.95,SITE-007,K. Iyer,2025-02-24 10:27:00,0,none
+553,Zenith Office & Site Supplies,misc,5091.68,SITE-008,S. Kulkarni,2025-01-07 14:24:00,0,none
+554,Zenith Office & Site Supplies,misc,7528.43,SITE-005,N. Rao,2025-06-19 09:46:00,0,none
+555,BuildRight Steel & Rebar,materials,37299.51,SITE-003,K. Iyer,2025-06-26 17:56:00,0,none
+556,Coastal Scaffolding Rentals,equipment,27947.33,SITE-005,P. Singh,2025-03-11 13:50:00,0,none
+557,Shree Cement Suppliers,materials,40547.23,SITE-001,M. Sharma,2025-01-13 15:27:00,0,none
+558,TerraMove Heavy Machinery,equipment,177456.02,SITE-006,J. D'Souza,2025-04-17 17:20:00,0,none
+559,PowerLift Cranes & Equipment,equipment,115346.11,SITE-008,M. Sharma,2025-01-06 18:50:00,0,none
+560,Goa Timber & Plywood,materials,18091.47,SITE-006,J. D'Souza,2025-06-12 14:21:00,0,none
+561,SafeSite PPE & Consumables,misc,125113.11,SITE-008,R. Mehta,2025-05-22 15:34:00,1,extreme_outlier
+562,Coastal Scaffolding Rentals,equipment,63121.74,SITE-006,P. Singh,2025-06-10 16:07:00,0,none
+563,Zenith Office & Site Supplies,misc,8703.05,SITE-002,S. Kulkarni,2025-06-05 13:37:00,0,none
+564,Coastal Scaffolding Rentals,equipment,16778.5,SITE-002,P. Singh,2025-01-16 15:40:00,0,none
+565,Sagar Labour Solutions,labor,19928.67,SITE-009,K. Iyer,2025-05-22 11:08:00,0,none
+566,PowerLift Cranes & Equipment,equipment,113704.32,SITE-008,K. Iyer,2025-05-08 08:42:00,0,none
+567,Coastal Scaffolding Rentals,equipment,48150.22,SITE-001,P. Singh,2025-01-23 09:02:00,0,none
+568,BuildRight Steel & Rebar,materials,762634.93,SITE-004,K. Iyer,2025-04-01 16:24:00,1,extreme_outlier
+569,Konkan Aggregates Pvt Ltd,materials,20767.04,SITE-008,R. Mehta,2025-04-04 10:20:00,0,none
+570,Konkan Aggregates Pvt Ltd,materials,12395.15,SITE-008,N. Rao,2025-05-01 17:07:00,0,none
+571,BuildRight Steel & Rebar,materials,19911.56,SITE-009,K. Iyer,2025-03-12 11:31:00,0,none
+572,Union Skilled Workforce,labor,40356.35,SITE-004,S. Kulkarni,2025-02-12 18:29:00,0,none
+573,Coastal Scaffolding Rentals,equipment,870386.94,SITE-003,P. Singh,2025-06-02 08:54:00,1,extreme_outlier
+574,Goa Timber & Plywood,materials,24793.47,SITE-005,N. Rao,2025-01-01 14:47:00,0,none
+575,Everest Manpower Contractors,labor,97359.89,SITE-005,M. Sharma,2025-02-05 11:40:00,0,none
+576,Coastal Scaffolding Rentals,equipment,44163.76,SITE-009,P. Singh,2025-06-26 15:27:00,0,none
+577,Konkan Aggregates Pvt Ltd,materials,23263.91,SITE-009,R. Mehta,2025-01-28 08:13:00,0,none
+578,PowerLift Cranes & Equipment,equipment,75051.76,SITE-001,M. Sharma,2025-01-02 18:05:00,0,none
+579,Shree Cement Suppliers,materials,49230.16,SITE-003,M. Sharma,2025-05-15 17:48:00,0,none
+580,Everest Manpower Contractors,labor,57840.19,SITE-004,A. Fernandes,2025-02-10 09:44:00,0,none
+581,TerraMove Heavy Machinery,equipment,182150.52,SITE-006,M. Sharma,2025-02-14 10:29:00,0,none
+582,Everest Manpower Contractors,labor,53837.25,SITE-007,A. Fernandes,2025-05-28 13:47:00,0,none
+583,Municipal Permits & Fees,misc,14838.07,SITE-009,J. D'Souza,2025-02-10 09:26:00,0,none
+584,BuildRight Steel & Rebar,materials,52907.21,SITE-003,R. Mehta,2025-06-13 12:34:00,0,none
+585,BuildRight Steel & Rebar,materials,49851.59,SITE-003,R. Mehta,2025-05-28 15:55:00,0,none
+586,Goa Timber & Plywood,materials,16288.26,SITE-002,K. Iyer,2025-04-21 18:00:00,0,none
+587,BuildRight Steel & Rebar,materials,69630.49,SITE-006,K. Iyer,2025-05-15 14:37:00,0,none
+588,Konkan Aggregates Pvt Ltd,materials,16752.53,SITE-006,R. Mehta,2025-01-24 14:41:00,0,none
+589,Union Skilled Workforce,labor,86667.15,SITE-009,S. Kulkarni,2025-06-13 13:32:00,0,none
+590,Coastal Scaffolding Rentals,equipment,35634.54,SITE-007,P. Singh,2025-01-04 15:23:00,1,duplicate
+591,Konkan Aggregates Pvt Ltd,materials,50438.98,SITE-010,R. Mehta,2025-05-15 15:20:00,0,none
+592,BuildRight Steel & Rebar,materials,37754.38,SITE-005,R. Mehta,2025-02-20 18:25:00,0,none
+593,Shree Cement Suppliers,materials,42475.87,SITE-004,J. D'Souza,2025-02-13 15:48:00,0,none
+594,PowerLift Cranes & Equipment,equipment,73218.68,SITE-010,M. Sharma,2025-05-16 11:40:00,0,none
+595,Municipal Permits & Fees,misc,17503.41,SITE-010,N. Rao,2025-03-27 11:24:00,0,none
+596,SafeSite PPE & Consumables,misc,16241.98,SITE-007,R. Mehta,2025-05-21 14:36:00,0,none
+597,PowerLift Cranes & Equipment,equipment,80477.42,SITE-008,M. Sharma,2025-04-08 17:20:00,0,none
+598,Sagar Labour Solutions,labor,30894.25,SITE-009,K. Iyer,2025-05-27 18:17:00,0,none
+599,Sagar Labour Solutions,labor,32367.2,SITE-004,K. Iyer,2025-05-29 17:56:00,0,none
+600,SafeSite PPE & Consumables,misc,15367.82,SITE-002,N. Rao,2025-01-28 17:12:00,0,none
+601,Sagar Labour Solutions,labor,36106.02,SITE-005,P. Singh,2025-04-18 14:25:00,0,none
+602,Union Skilled Workforce,labor,49643.85,SITE-010,S. Kulkarni,2025-06-06 13:28:00,0,none
+603,Everest Manpower Contractors,labor,30499.49,SITE-010,A. Fernandes,2025-05-28 18:24:00,0,none
+604,Goa Timber & Plywood,materials,11105.95,SITE-001,N. Rao,2025-03-18 13:39:00,0,none
+605,Shree Cement Suppliers,materials,29959.46,SITE-010,J. D'Souza,2025-03-18 16:29:00,0,none
+606,Union Skilled Workforce,labor,238733.97,SITE-002,S. Kulkarni,2025-05-02 11:28:00,1,extreme_outlier
+607,Coastal Scaffolding Rentals,equipment,60413.2,SITE-010,K. Iyer,2025-01-09 13:47:00,0,none
+608,Shree Cement Suppliers,materials,40147.07,SITE-009,M. Sharma,2025-03-25 18:58:00,0,none
+609,Union Skilled Workforce,labor,26707.57,SITE-007,S. Kulkarni,2025-06-20 16:12:00,0,none
+610,Municipal Permits & Fees,misc,49718.52,SITE-008,A. Fernandes,2025-05-08 09:17:00,1,unusual_approver
+611,Konkan Aggregates Pvt Ltd,materials,15706.7,SITE-009,N. Rao,2025-04-11 16:34:00,0,none
+612,SafeSite PPE & Consumables,misc,8101.03,SITE-008,N. Rao,2025-06-02 11:59:00,0,none
+613,Goa Timber & Plywood,materials,17459.61,SITE-001,K. Iyer,2025-04-23 09:34:00,0,none
+614,Municipal Permits & Fees,misc,11253.0,SITE-002,K. Iyer,2025-01-10 15:04:00,0,none
+615,Union Skilled Workforce,labor,52501.13,SITE-005,S. Kulkarni,2025-03-10 10:41:00,0,none
+616,TerraMove Heavy Machinery,equipment,144141.35,SITE-004,M. Sharma,2025-06-17 09:04:00,0,none
+617,Union Skilled Workforce,labor,61504.92,SITE-007,R. Mehta,2025-05-22 10:15:00,0,none
+618,Shree Cement Suppliers,materials,41948.68,SITE-001,M. Sharma,2025-01-29 10:50:00,0,none
+619,Konkan Aggregates Pvt Ltd,materials,18416.04,SITE-008,N. Rao,2025-04-23 18:32:00,0,none
+620,SafeSite PPE & Consumables,misc,6809.67,SITE-009,R. Mehta,2025-06-13 14:02:00,0,none
+621,Union Skilled Workforce,labor,59663.88,SITE-003,R. Mehta,2025-04-02 16:51:00,0,none
+622,TerraMove Heavy Machinery,equipment,1591203.43,SITE-001,J. D'Souza,2025-03-05 16:56:00,1,extreme_outlier
+623,TerraMove Heavy Machinery,equipment,185577.98,SITE-001,M. Sharma,2025-02-14 18:43:00,0,none
+624,Everest Manpower Contractors,labor,40752.27,SITE-005,A. Fernandes,2025-04-07 13:01:00,0,none
+625,BuildRight Steel & Rebar,materials,173572.18,SITE-004,K. Iyer,2025-06-16 09:54:00,0,none
+626,Sagar Labour Solutions,labor,29285.01,SITE-006,P. Singh,2025-04-09 12:39:00,0,none
+627,PowerLift Cranes & Equipment,equipment,61456.42,SITE-001,R. Mehta,2025-06-13 15:20:00,0,none
+628,BuildRight Steel & Rebar,materials,69000.34,SITE-010,R. Mehta,2025-05-17 13:54:00,1,off_hours
+629,TerraMove Heavy Machinery,equipment,154720.66,SITE-006,J. D'Souza,2025-02-20 18:38:00,0,none
+630,SafeSite PPE & Consumables,misc,13187.89,SITE-010,R. Mehta,2025-05-09 17:53:00,0,none
+631,Sagar Labour Solutions,labor,32720.94,SITE-002,A. Fernandes,2025-04-02 11:29:00,0,none
+632,TerraMove Heavy Machinery,equipment,115160.27,SITE-005,M. Sharma,2025-04-28 17:19:00,0,none
+633,PowerLift Cranes & Equipment,equipment,335318.77,SITE-001,J. D'Souza,2025-03-12 12:41:00,1,unusual_approver
+634,PowerLift Cranes & Equipment,equipment,117362.02,SITE-005,R. Mehta,2025-01-31 18:17:00,0,none
+635,TerraMove Heavy Machinery,equipment,122806.62,SITE-009,J. D'Souza,2025-04-04 17:20:00,0,none
+636,Municipal Permits & Fees,misc,232524.48,SITE-008,J. D'Souza,2025-04-01 18:13:00,1,extreme_outlier
+637,Union Skilled Workforce,labor,49942.35,SITE-007,S. Kulkarni,2025-02-25 10:01:00,0,none
+638,Zenith Office & Site Supplies,misc,4021.27,SITE-006,J. D'Souza,2025-03-06 15:24:00,0,none
+639,Shree Cement Suppliers,materials,32960.27,SITE-004,M. Sharma,2025-05-14 15:34:00,0,none
+640,Union Skilled Workforce,labor,52980.74,SITE-010,R. Mehta,2025-02-12 11:37:00,0,none
+641,Goa Timber & Plywood,materials,31845.48,SITE-004,J. D'Souza,2025-05-20 15:35:00,0,none
+642,Konkan Aggregates Pvt Ltd,materials,15038.87,SITE-008,R. Mehta,2025-03-11 12:50:00,0,none
+643,SafeSite PPE & Consumables,misc,7517.21,SITE-003,N. Rao,2025-02-07 15:25:00,0,none
+644,Shree Cement Suppliers,materials,25544.94,SITE-004,M. Sharma,2025-04-02 09:16:00,0,none
+645,Sagar Labour Solutions,labor,69238.7,SITE-008,R. Mehta,2025-02-05 10:39:00,1,unusual_approver
+646,Everest Manpower Contractors,labor,32106.3,SITE-003,A. Fernandes,2025-04-14 10:41:00,0,none
+647,Zenith Office & Site Supplies,misc,10506.05,SITE-003,S. Kulkarni,2025-03-03 13:07:00,0,none
+648,Sagar Labour Solutions,labor,35606.58,SITE-002,A. Fernandes,2025-02-03 04:41:00,1,off_hours
+649,BuildRight Steel & Rebar,materials,75639.0,SITE-003,R. Mehta,2025-02-10 13:46:00,0,none
+650,Zenith Office & Site Supplies,misc,8851.61,SITE-007,N. Rao,2025-02-18 13:22:00,0,none
+651,PowerLift Cranes & Equipment,equipment,76893.05,SITE-001,R. Mehta,2025-01-07 09:33:00,0,none
+652,Zenith Office & Site Supplies,misc,21748.57,SITE-003,J. D'Souza,2025-03-03 18:26:00,0,none
+653,SafeSite PPE & Consumables,misc,5418.34,SITE-001,R. Mehta,2025-01-01 10:25:00,0,none
+654,Shree Cement Suppliers,materials,32421.33,SITE-003,M. Sharma,2025-04-17 09:01:00,0,none
+655,Konkan Aggregates Pvt Ltd,materials,15887.51,SITE-002,R. Mehta,2025-02-21 18:45:00,0,none
+656,Municipal Permits & Fees,misc,27394.28,SITE-009,N. Rao,2025-03-11 10:10:00,0,none
+657,PowerLift Cranes & Equipment,equipment,123396.43,SITE-003,M. Sharma,2025-04-29 16:17:00,0,none
+658,Sagar Labour Solutions,labor,67402.66,SITE-007,A. Fernandes,2025-05-20 12:32:00,0,none
+659,Everest Manpower Contractors,labor,47974.13,SITE-002,M. Sharma,2025-04-14 17:21:00,0,none
+660,Coastal Scaffolding Rentals,equipment,41337.23,SITE-003,K. Iyer,2025-04-29 14:28:00,0,none
+661,PowerLift Cranes & Equipment,equipment,207335.57,SITE-009,R. Mehta,2025-01-13 15:43:00,0,none
+662,BuildRight Steel & Rebar,materials,72841.98,SITE-005,R. Mehta,2025-01-29 23:21:00,1,off_hours
+663,BuildRight Steel & Rebar,materials,140038.61,SITE-010,K. Iyer,2025-01-08 16:47:00,0,none
+664,TerraMove Heavy Machinery,equipment,409488.13,SITE-006,J. D'Souza,2025-04-18 11:46:00,0,none
+665,Sagar Labour Solutions,labor,81449.77,SITE-010,K. Iyer,2025-05-07 11:47:00,0,none
+666,PowerLift Cranes & Equipment,equipment,97723.84,SITE-007,R. Mehta,2025-05-30 18:51:00,0,none
+667,Zenith Office & Site Supplies,misc,6948.91,SITE-010,J. D'Souza,2025-04-21 12:45:00,0,none
+668,Goa Timber & Plywood,materials,27386.26,SITE-008,N. Rao,2025-05-12 08:28:00,0,none
+669,TerraMove Heavy Machinery,equipment,185256.49,SITE-005,J. D'Souza,2025-06-21 00:02:00,1,off_hours
+670,Union Skilled Workforce,labor,59945.87,SITE-009,S. Kulkarni,2025-01-17 11:40:00,0,none
+671,BuildRight Steel & Rebar,materials,32926.12,SITE-007,R. Mehta,2025-02-25 16:09:00,0,none
+672,PowerLift Cranes & Equipment,equipment,111950.86,SITE-009,M. Sharma,2025-02-27 10:44:00,0,none
+673,PowerLift Cranes & Equipment,equipment,134017.1,SITE-009,K. Iyer,2025-01-17 17:24:00,0,none
+674,Everest Manpower Contractors,labor,74285.57,SITE-004,P. Singh,2025-03-21 15:32:00,0,none
+675,PowerLift Cranes & Equipment,equipment,198316.89,SITE-009,R. Mehta,2025-01-30 11:42:00,0,none
+676,Municipal Permits & Fees,misc,60520.61,SITE-009,P. Singh,2025-01-27 16:39:00,1,unusual_approver
+677,Union Skilled Workforce,labor,49760.09,SITE-003,R. Mehta,2025-01-21 15:00:00,0,none
+678,Sagar Labour Solutions,labor,29771.15,SITE-004,P. Singh,2025-05-28 12:15:00,0,none
+679,Municipal Permits & Fees,misc,18745.96,SITE-008,J. D'Souza,2025-05-16 13:15:00,0,none
+680,Konkan Aggregates Pvt Ltd,materials,21450.88,SITE-007,N. Rao,2025-05-21 09:50:00,0,none
+681,Coastal Scaffolding Rentals,equipment,40431.23,SITE-010,K. Iyer,2025-06-09 10:17:00,0,none
+682,Sagar Labour Solutions,labor,35224.69,SITE-004,A. Fernandes,2025-06-03 12:02:00,0,none
+683,TerraMove Heavy Machinery,equipment,1010289.81,SITE-010,M. Sharma,2025-05-05 10:05:00,1,extreme_outlier
+684,Goa Timber & Plywood,materials,32464.08,SITE-010,N. Rao,2025-04-10 16:02:00,0,none
+685,SafeSite PPE & Consumables,misc,4891.7,SITE-001,N. Rao,2025-02-04 09:01:00,0,none
+686,SafeSite PPE & Consumables,misc,3122.54,SITE-007,R. Mehta,2025-02-07 15:44:00,0,none
+687,Konkan Aggregates Pvt Ltd,materials,36447.93,SITE-009,R. Mehta,2025-04-18 09:18:00,0,none
+688,Sagar Labour Solutions,labor,24638.22,SITE-010,A. Fernandes,2025-06-16 10:23:00,0,none
+689,Konkan Aggregates Pvt Ltd,materials,19019.27,SITE-010,R. Mehta,2025-04-14 13:18:00,0,none
+690,Municipal Permits & Fees,misc,9017.46,SITE-008,K. Iyer,2025-02-13 17:16:00,0,none
+691,SafeSite PPE & Consumables,misc,5236.63,SITE-003,R. Mehta,2025-04-28 09:30:00,0,none
+692,PowerLift Cranes & Equipment,equipment,60927.25,SITE-010,K. Iyer,2025-01-20 18:11:00,0,none
+693,Zenith Office & Site Supplies,misc,5564.92,SITE-006,J. D'Souza,2025-04-11 09:13:00,0,none
+694,Sagar Labour Solutions,labor,31898.12,SITE-009,K. Iyer,2025-03-04 14:09:00,0,none
+695,SafeSite PPE & Consumables,misc,9597.26,SITE-004,N. Rao,2025-05-13 13:21:00,0,none
+696,PowerLift Cranes & Equipment,equipment,114720.85,SITE-003,M. Sharma,2025-04-10 16:33:00,0,none
+697,Zenith Office & Site Supplies,misc,8124.34,SITE-010,S. Kulkarni,2025-06-23 15:38:00,0,none
+698,Goa Timber & Plywood,materials,17495.67,SITE-006,J. D'Souza,2025-01-07 09:06:00,0,none
+699,Union Skilled Workforce,labor,33611.42,SITE-008,R. Mehta,2025-01-31 16:38:00,0,none
+700,Union Skilled Workforce,labor,175000.0,SITE-009,R. Mehta,2025-03-07 09:46:00,1,round_number
+701,BuildRight Steel & Rebar,materials,69000.34,SITE-010,R. Mehta,2025-04-22 15:36:00,0,none
+702,Everest Manpower Contractors,labor,36395.96,SITE-007,M. Sharma,2025-05-13 12:18:00,0,none
+703,Shree Cement Suppliers,materials,58521.37,SITE-008,J. D'Souza,2025-02-18 10:13:00,0,none
+704,TerraMove Heavy Machinery,equipment,241735.97,SITE-004,J. D'Souza,2025-02-05 13:26:00,0,none
+705,BuildRight Steel & Rebar,materials,30383.02,SITE-005,K. Iyer,2025-02-11 11:22:00,0,none
+706,Sagar Labour Solutions,labor,17796.65,SITE-004,K. Iyer,2025-01-21 08:43:00,0,none
+707,Coastal Scaffolding Rentals,equipment,35972.8,SITE-008,P. Singh,2025-04-16 13:19:00,0,none
+708,Konkan Aggregates Pvt Ltd,materials,190924.03,SITE-005,N. Rao,2025-06-20 18:01:00,1,extreme_outlier
+709,SafeSite PPE & Consumables,misc,19724.94,SITE-004,N. Rao,2025-05-09 11:17:00,0,none
+710,SafeSite PPE & Consumables,misc,7778.09,SITE-007,N. Rao,2025-06-09 10:17:00,0,none
+711,Shree Cement Suppliers,materials,24877.51,SITE-004,M. Sharma,2025-02-04 11:16:00,0,none
+712,Sagar Labour Solutions,labor,38988.97,SITE-004,K. Iyer,2025-03-12 16:48:00,0,none
+713,Zenith Office & Site Supplies,misc,4957.84,SITE-007,S. Kulkarni,2025-06-20 17:39:00,0,none
+714,Zenith Office & Site Supplies,misc,12451.01,SITE-003,S. Kulkarni,2025-01-30 18:56:00,0,none
+715,PowerLift Cranes & Equipment,equipment,156239.54,SITE-007,M. Sharma,2025-05-28 13:15:00,0,none
+716,Sagar Labour Solutions,labor,58503.35,SITE-008,A. Fernandes,2025-03-11 11:26:00,0,none
+717,Shree Cement Suppliers,materials,20762.29,SITE-008,M. Sharma,2025-03-12 11:17:00,0,none
+718,Union Skilled Workforce,labor,31711.7,SITE-002,S. Kulkarni,2025-04-14 10:29:00,0,none
+719,Sagar Labour Solutions,labor,45683.1,SITE-007,K. Iyer,2025-05-21 10:36:00,0,none
+720,BuildRight Steel & Rebar,materials,35922.49,SITE-003,R. Mehta,2025-06-26 10:24:00,0,none
+721,Everest Manpower Contractors,labor,45029.96,SITE-009,A. Fernandes,2025-04-14 09:55:00,0,none
+722,TerraMove Heavy Machinery,equipment,106825.89,SITE-001,J. D'Souza,2025-02-26 10:15:00,0,none
+723,Municipal Permits & Fees,misc,28041.82,SITE-008,N. Rao,2025-04-14 13:50:00,0,none
+724,Municipal Permits & Fees,misc,11846.12,SITE-006,N. Rao,2025-02-13 08:21:00,0,none
+725,Coastal Scaffolding Rentals,equipment,52841.97,SITE-006,K. Iyer,2025-01-17 14:09:00,0,none
+726,Coastal Scaffolding Rentals,equipment,38762.79,SITE-010,P. Singh,2025-03-01 14:59:00,1,off_hours
+727,Sagar Labour Solutions,labor,36617.7,SITE-006,A. Fernandes,2025-01-20 15:13:00,0,none
+728,Goa Timber & Plywood,materials,25711.05,SITE-005,J. D'Souza,2025-05-08 16:17:00,0,none
+729,Shree Cement Suppliers,materials,17951.13,SITE-003,M. Sharma,2025-02-04 13:59:00,0,none
+730,SafeSite PPE & Consumables,misc,13218.26,SITE-003,N. Rao,2025-06-25 15:01:00,0,none
+731,SafeSite PPE & Consumables,misc,7340.43,SITE-010,N. Rao,2025-01-22 09:53:00,0,none
+732,BuildRight Steel & Rebar,materials,65209.06,SITE-010,K. Iyer,2025-02-21 10:56:00,0,none
+733,Coastal Scaffolding Rentals,equipment,52436.97,SITE-009,P. Singh,2025-01-25 08:44:00,1,off_hours
+734,Shree Cement Suppliers,materials,47355.23,SITE-010,J. D'Souza,2025-02-13 08:16:00,0,none
+735,Municipal Permits & Fees,misc,12749.88,SITE-009,J. D'Souza,2025-06-09 08:55:00,0,none
+736,Coastal Scaffolding Rentals,equipment,44053.11,SITE-009,K. Iyer,2025-04-25 10:47:00,0,none
+737,TerraMove Heavy Machinery,equipment,61898.39,SITE-005,M. Sharma,2025-02-14 10:14:00,0,none
+738,Union Skilled Workforce,labor,54965.32,SITE-006,S. Kulkarni,2025-05-09 14:53:00,0,none
+739,BuildRight Steel & Rebar,materials,83314.44,SITE-006,K. Iyer,2025-01-02 09:02:00,0,none
+740,Shree Cement Suppliers,materials,24279.14,SITE-010,M. Sharma,2025-05-20 11:58:00,0,none
+741,Municipal Permits & Fees,misc,22684.64,SITE-001,N. Rao,2025-05-05 09:10:00,0,none
+742,Goa Timber & Plywood,materials,19382.88,SITE-001,J. D'Souza,2025-01-06 13:06:00,0,none
+743,BuildRight Steel & Rebar,materials,331968.89,SITE-003,K. Iyer,2025-04-25 17:43:00,1,extreme_outlier
+744,Zenith Office & Site Supplies,misc,2747.53,SITE-009,N. Rao,2025-05-27 13:50:00,0,none
+745,Municipal Permits & Fees,misc,10747.62,SITE-004,K. Iyer,2025-01-24 16:10:00,0,none
+746,TerraMove Heavy Machinery,equipment,125092.57,SITE-010,J. D'Souza,2025-04-28 12:41:00,0,none
+747,TerraMove Heavy Machinery,equipment,201917.95,SITE-006,M. Sharma,2025-02-14 09:16:00,0,none
+748,PowerLift Cranes & Equipment,equipment,331146.55,SITE-004,M. Sharma,2025-05-30 17:22:00,0,none
+749,Sagar Labour Solutions,labor,40924.67,SITE-007,K. Iyer,2025-01-07 11:48:00,0,none
+750,Goa Timber & Plywood,materials,20176.52,SITE-008,J. D'Souza,2025-06-18 16:19:00,0,none
+751,Shree Cement Suppliers,materials,38457.66,SITE-003,M. Sharma,2025-01-13 15:22:00,0,none
+752,Goa Timber & Plywood,materials,22358.73,SITE-009,J. D'Souza,2025-03-03 15:02:00,0,none
+753,Everest Manpower Contractors,labor,39942.08,SITE-003,A. Fernandes,2025-02-10 09:06:00,0,none
+754,Konkan Aggregates Pvt Ltd,materials,19176.7,SITE-010,N. Rao,2025-06-11 10:05:00,0,none
+755,Sagar Labour Solutions,labor,29915.09,SITE-004,K. Iyer,2025-02-12 09:19:00,0,none
+756,Sagar Labour Solutions,labor,29644.94,SITE-005,A. Fernandes,2025-05-30 11:57:00,0,none
+757,Municipal Permits & Fees,misc,16754.72,SITE-002,N. Rao,2025-03-10 12:51:00,0,none
+758,BuildRight Steel & Rebar,materials,43321.12,SITE-001,R. Mehta,2025-03-18 16:50:00,0,none
+759,BuildRight Steel & Rebar,materials,120957.59,SITE-004,K. Iyer,2025-04-24 09:16:00,0,none
+760,Konkan Aggregates Pvt Ltd,materials,14227.02,SITE-005,N. Rao,2025-04-10 17:18:00,0,none
+761,Zenith Office & Site Supplies,misc,4016.11,SITE-005,J. D'Souza,2025-05-15 10:31:00,1,duplicate
+762,Coastal Scaffolding Rentals,equipment,43971.25,SITE-001,K. Iyer,2025-06-23 09:35:00,0,none
+763,Goa Timber & Plywood,materials,24004.64,SITE-005,K. Iyer,2025-06-27 13:37:00,0,none
+764,Union Skilled Workforce,labor,92563.93,SITE-009,R. Mehta,2025-04-23 14:21:00,0,none
+765,Everest Manpower Contractors,labor,67361.03,SITE-009,A. Fernandes,2025-04-28 10:06:00,0,none
+766,BuildRight Steel & Rebar,materials,99471.69,SITE-010,K. Iyer,2025-06-04 15:44:00,0,none
+767,Zenith Office & Site Supplies,misc,4367.08,SITE-008,N. Rao,2025-02-07 18:37:00,0,none
+768,TerraMove Heavy Machinery,equipment,238899.74,SITE-004,J. D'Souza,2025-02-05 18:25:00,1,duplicate
+769,Zenith Office & Site Supplies,misc,1984.15,SITE-002,N. Rao,2025-06-27 10:18:00,0,none
+770,Sagar Labour Solutions,labor,28144.65,SITE-001,K. Iyer,2025-05-16 08:26:00,0,none
+771,BuildRight Steel & Rebar,materials,60153.88,SITE-003,R. Mehta,2025-02-05 12:17:00,0,none
+772,PowerLift Cranes & Equipment,equipment,128799.2,SITE-003,K. Iyer,2025-01-31 15:31:00,0,none
+773,Sagar Labour Solutions,labor,30256.3,SITE-001,K. Iyer,2025-04-28 16:49:00,0,none
+774,Konkan Aggregates Pvt Ltd,materials,41908.69,SITE-003,R. Mehta,2025-02-04 16:12:00,0,none
+775,Union Skilled Workforce,labor,52851.61,SITE-005,S. Kulkarni,2025-04-21 16:13:00,0,none
+776,Shree Cement Suppliers,materials,28080.98,SITE-004,J. D'Souza,2025-04-04 11:29:00,0,none
+777,Union Skilled Workforce,labor,56084.95,SITE-010,R. Mehta,2025-01-03 09:13:00,0,none
+778,Union Skilled Workforce,labor,103297.81,SITE-003,S. Kulkarni,2025-01-30 08:56:00,0,none
+779,TerraMove Heavy Machinery,equipment,48732.48,SITE-003,M. Sharma,2025-04-09 15:59:00,0,none
+780,Sagar Labour Solutions,labor,36967.35,SITE-008,A. Fernandes,2025-03-05 08:45:00,0,none
+781,Everest Manpower Contractors,labor,36394.39,SITE-004,P. Singh,2025-04-04 08:28:00,0,none
+782,Goa Timber & Plywood,materials,29101.23,SITE-005,K. Iyer,2025-03-10 15:38:00,0,none
+783,BuildRight Steel & Rebar,materials,23680.62,SITE-007,R. Mehta,2025-04-28 17:39:00,0,none
+784,Union Skilled Workforce,labor,75000.0,SITE-007,R. Mehta,2025-02-19 16:02:00,1,round_number
+785,Konkan Aggregates Pvt Ltd,materials,26405.98,SITE-001,R. Mehta,2025-06-18 09:39:00,0,none
+786,Goa Timber & Plywood,materials,16552.46,SITE-009,K. Iyer,2025-03-31 14:55:00,0,none
+787,Municipal Permits & Fees,misc,14638.3,SITE-007,N. Rao,2025-04-02 11:18:00,0,none
+788,Goa Timber & Plywood,materials,14302.99,SITE-005,K. Iyer,2025-01-07 12:44:00,0,none
+789,Coastal Scaffolding Rentals,equipment,29037.68,SITE-005,P. Singh,2025-04-02 07:49:00,1,duplicate
+790,PowerLift Cranes & Equipment,equipment,211848.2,SITE-003,M. Sharma,2025-03-26 10:57:00,1,duplicate
+791,Coastal Scaffolding Rentals,equipment,24915.55,SITE-009,P. Singh,2025-05-30 12:14:00,0,none
+792,Sagar Labour Solutions,labor,53287.0,SITE-009,P. Singh,2025-06-19 10:54:00,0,none
+793,BuildRight Steel & Rebar,materials,94438.06,SITE-001,K. Iyer,2025-01-07 12:45:00,0,none
+794,PowerLift Cranes & Equipment,equipment,77166.67,SITE-010,M. Sharma,2025-05-01 09:03:00,0,none
+795,Union Skilled Workforce,labor,122269.05,SITE-003,S. Kulkarni,2025-04-16 15:31:00,0,none
+796,SafeSite PPE & Consumables,misc,9025.53,SITE-009,N. Rao,2025-01-17 08:39:00,0,none
+797,BuildRight Steel & Rebar,materials,104018.49,SITE-001,K. Iyer,2025-03-27 08:50:00,0,none
+798,Everest Manpower Contractors,labor,51974.25,SITE-004,M. Sharma,2025-05-13 13:33:00,0,none
+799,Municipal Permits & Fees,misc,18213.2,SITE-006,J. D'Souza,2025-01-31 15:09:00,0,none
+800,BuildRight Steel & Rebar,materials,63578.85,SITE-008,R. Mehta,2025-06-16 11:43:00,0,none
+801,Goa Timber & Plywood,materials,15872.73,SITE-007,J. D'Souza,2025-03-28 13:42:00,0,none
+802,PowerLift Cranes & Equipment,equipment,87286.31,SITE-009,M. Sharma,2025-01-28 10:18:00,0,none
+803,PowerLift Cranes & Equipment,equipment,120775.15,SITE-008,R. Mehta,2025-03-10 17:10:00,0,none
+804,Municipal Permits & Fees,misc,21052.18,SITE-001,J. D'Souza,2025-03-05 09:55:00,0,none
+805,Union Skilled Workforce,labor,76628.6,SITE-007,S. Kulkarni,2025-02-27 12:43:00,0,none
+806,Zenith Office & Site Supplies,misc,9278.97,SITE-008,J. D'Souza,2025-01-01 15:37:00,0,none
+807,Shree Cement Suppliers,materials,36186.45,SITE-001,M. Sharma,2025-04-23 17:50:00,0,none
+808,Everest Manpower Contractors,labor,26984.6,SITE-006,A. Fernandes,2025-02-28 17:54:00,0,none
+809,Everest Manpower Contractors,labor,39176.35,SITE-003,A. Fernandes,2025-02-18 09:11:00,0,none
+810,Sagar Labour Solutions,labor,45731.63,SITE-005,A. Fernandes,2025-06-24 14:23:00,0,none
+811,BuildRight Steel & Rebar,materials,49783.3,SITE-006,R. Mehta,2025-05-22 10:25:00,0,none
+812,BuildRight Steel & Rebar,materials,112747.77,SITE-005,K. Iyer,2025-03-27 15:34:00,0,none
+813,Zenith Office & Site Supplies,misc,6264.33,SITE-007,N. Rao,2025-04-23 18:38:00,0,none
+814,SafeSite PPE & Consumables,misc,3705.35,SITE-007,R. Mehta,2025-04-23 11:50:00,0,none
+815,Zenith Office & Site Supplies,misc,9992.12,SITE-008,J. D'Souza,2025-02-19 17:03:00,0,none
+816,Municipal Permits & Fees,misc,10997.18,SITE-001,N. Rao,2025-03-27 16:35:00,0,none
+817,Zenith Office & Site Supplies,misc,7400.81,SITE-003,N. Rao,2025-04-25 09:49:00,0,none
+818,Sagar Labour Solutions,labor,63792.08,SITE-004,K. Iyer,2025-04-01 15:18:00,0,none
+819,BuildRight Steel & Rebar,materials,77318.81,SITE-005,R. Mehta,2025-03-03 08:10:00,0,none
+820,Sagar Labour Solutions,labor,48311.14,SITE-010,P. Singh,2025-01-06 09:50:00,0,none
+821,Coastal Scaffolding Rentals,equipment,27877.05,SITE-001,P. Singh,2025-04-23 17:55:00,0,none
+822,SafeSite PPE & Consumables,misc,10684.93,SITE-005,R. Mehta,2025-03-20 14:55:00,0,none
+823,Zenith Office & Site Supplies,misc,5999.34,SITE-007,S. Kulkarni,2025-04-15 12:24:00,0,none
+824,TerraMove Heavy Machinery,equipment,154552.89,SITE-004,M. Sharma,2025-02-14 15:54:00,0,none
+825,BuildRight Steel & Rebar,materials,44543.65,SITE-008,R. Mehta,2025-06-09 12:42:00,0,none
+826,Union Skilled Workforce,labor,61762.78,SITE-009,S. Kulkarni,2025-02-19 16:45:00,0,none
+827,Sagar Labour Solutions,labor,24971.98,SITE-007,K. Iyer,2025-05-23 10:12:00,0,none
+828,Goa Timber & Plywood,materials,19579.99,SITE-008,J. D'Souza,2025-01-15 09:36:00,0,none
+829,Municipal Permits & Fees,misc,11892.72,SITE-001,J. D'Souza,2025-06-09 12:08:00,0,none
+830,Everest Manpower Contractors,labor,202320.31,SITE-005,K. Iyer,2025-03-06 12:15:00,1,unusual_approver
+831,TerraMove Heavy Machinery,equipment,305913.52,SITE-009,M. Sharma,2025-03-26 15:07:00,0,none
+832,SafeSite PPE & Consumables,misc,6567.87,SITE-004,R. Mehta,2025-03-27 16:35:00,0,none
+833,BuildRight Steel & Rebar,materials,62475.62,SITE-008,R. Mehta,2025-03-07 12:50:00,0,none
+834,Municipal Permits & Fees,misc,26817.44,SITE-001,J. D'Souza,2025-04-02 12:29:00,0,none
+835,Sagar Labour Solutions,labor,21058.57,SITE-010,P. Singh,2025-04-17 10:10:00,0,none
+836,SafeSite PPE & Consumables,misc,8039.3,SITE-006,R. Mehta,2025-04-08 18:17:00,0,none
+837,TerraMove Heavy Machinery,equipment,84468.58,SITE-003,J. D'Souza,2025-06-10 14:19:00,0,none
+838,Goa Timber & Plywood,materials,12426.3,SITE-004,N. Rao,2025-04-08 10:39:00,0,none
+839,Konkan Aggregates Pvt Ltd,materials,46244.21,SITE-004,N. Rao,2025-02-05 17:47:00,0,none
+840,TerraMove Heavy Machinery,equipment,330863.55,SITE-003,M. Sharma,2025-05-05 10:41:00,0,none
+841,Shree Cement Suppliers,materials,20078.93,SITE-003,M. Sharma,2025-02-28 09:09:00,0,none
+842,SafeSite PPE & Consumables,misc,8188.7,SITE-007,R. Mehta,2025-01-07 18:40:00,0,none
+843,Coastal Scaffolding Rentals,equipment,107290.72,SITE-001,P. Singh,2025-04-18 14:07:00,0,none
+844,Konkan Aggregates Pvt Ltd,materials,38429.95,SITE-008,N. Rao,2025-06-20 11:00:00,0,none
+845,TerraMove Heavy Machinery,equipment,160025.89,SITE-010,M. Sharma,2025-05-02 16:26:00,0,none
+846,Union Skilled Workforce,labor,57087.04,SITE-006,R. Mehta,2025-06-04 12:49:00,0,none
+847,Everest Manpower Contractors,labor,41288.46,SITE-002,P. Singh,2025-02-04 09:41:00,0,none
+848,Union Skilled Workforce,labor,96428.38,SITE-001,S. Kulkarni,2025-04-18 12:36:00,0,none
+849,Sagar Labour Solutions,labor,40329.43,SITE-001,P. Singh,2025-05-27 16:24:00,0,none
+850,Coastal Scaffolding Rentals,equipment,38762.79,SITE-010,P. Singh,2025-04-14 11:51:00,0,none
+851,Sagar Labour Solutions,labor,30316.65,SITE-007,A. Fernandes,2025-06-24 18:25:00,0,none
+852,Konkan Aggregates Pvt Ltd,materials,27998.57,SITE-003,R. Mehta,2025-05-15 18:41:00,0,none
+853,Everest Manpower Contractors,labor,61334.99,SITE-008,M. Sharma,2025-01-29 09:46:00,0,none
+854,Shree Cement Suppliers,materials,53453.68,SITE-007,M. Sharma,2025-01-07 16:04:00,0,none
+855,SafeSite PPE & Consumables,misc,7472.88,SITE-009,N. Rao,2025-05-27 08:30:00,0,none
+856,BuildRight Steel & Rebar,materials,127398.73,SITE-001,R. Mehta,2025-06-05 14:31:00,0,none
+857,PowerLift Cranes & Equipment,equipment,211848.2,SITE-003,M. Sharma,2025-03-26 11:01:00,0,none
+858,Coastal Scaffolding Rentals,equipment,18608.95,SITE-005,P. Singh,2025-04-02 13:18:00,0,none
+859,BuildRight Steel & Rebar,materials,132663.55,SITE-001,K. Iyer,2025-03-14 18:41:00,0,none
+860,Coastal Scaffolding Rentals,equipment,67151.49,SITE-003,K. Iyer,2025-03-12 15:02:00,0,none
+861,BuildRight Steel & Rebar,materials,145128.13,SITE-007,R. Mehta,2025-04-11 11:34:00,0,none
+862,Konkan Aggregates Pvt Ltd,materials,22571.71,SITE-010,R. Mehta,2025-02-13 12:21:00,0,none
+863,SafeSite PPE & Consumables,misc,13844.42,SITE-007,R. Mehta,2025-03-28 12:38:00,0,none
+864,PowerLift Cranes & Equipment,equipment,95456.39,SITE-006,K. Iyer,2025-01-16 13:43:00,0,none
+865,PowerLift Cranes & Equipment,equipment,151134.77,SITE-004,R. Mehta,2025-01-17 18:11:00,0,none
+866,PowerLift Cranes & Equipment,equipment,218807.4,SITE-008,K. Iyer,2025-01-08 15:15:00,0,none
+867,Zenith Office & Site Supplies,misc,12272.66,SITE-006,N. Rao,2025-04-04 10:35:00,0,none
+868,Sagar Labour Solutions,labor,39890.11,SITE-001,P. Singh,2025-06-06 17:00:00,0,none
+869,Goa Timber & Plywood,materials,29927.16,SITE-003,N. Rao,2025-05-29 12:11:00,0,none
+870,Goa Timber & Plywood,materials,32016.37,SITE-006,K. Iyer,2025-05-30 19:11:00,1,duplicate
+871,PowerLift Cranes & Equipment,equipment,126911.9,SITE-008,K. Iyer,2025-06-25 10:24:00,0,none
+872,PowerLift Cranes & Equipment,equipment,165273.94,SITE-009,M. Sharma,2025-05-07 18:52:00,0,none
+873,Shree Cement Suppliers,materials,115154.62,SITE-003,M. Sharma,2025-04-28 15:19:00,0,none
+874,Everest Manpower Contractors,labor,56672.72,SITE-009,A. Fernandes,2025-03-05 14:27:00,0,none
+875,TerraMove Heavy Machinery,equipment,190903.29,SITE-010,J. D'Souza,2025-03-26 13:53:00,0,none
+876,Shree Cement Suppliers,materials,14965.36,SITE-006,J. D'Souza,2025-05-16 15:08:00,0,none
+877,Goa Timber & Plywood,materials,18945.54,SITE-008,K. Iyer,2025-01-27 09:33:00,0,none
+878,Coastal Scaffolding Rentals,equipment,32075.87,SITE-008,K. Iyer,2025-05-09 15:15:00,0,none
+879,Goa Timber & Plywood,materials,11210.93,SITE-006,J. D'Souza,2025-03-04 11:48:00,0,none
+880,PowerLift Cranes & Equipment,equipment,149909.18,SITE-003,R. Mehta,2025-05-26 15:08:00,0,none
+881,Coastal Scaffolding Rentals,equipment,25435.91,SITE-007,P. Singh,2025-04-10 13:06:00,0,none
+882,Coastal Scaffolding Rentals,equipment,22801.84,SITE-004,K. Iyer,2025-01-22 18:01:00,0,none
+883,SafeSite PPE & Consumables,misc,6721.24,SITE-002,N. Rao,2025-02-11 16:53:00,0,none
+884,Shree Cement Suppliers,materials,62027.3,SITE-006,J. D'Souza,2025-05-12 16:46:00,0,none
+885,SafeSite PPE & Consumables,misc,6915.22,SITE-002,R. Mehta,2025-04-07 18:29:00,0,none
+886,Konkan Aggregates Pvt Ltd,materials,15600.64,SITE-001,N. Rao,2025-06-17 08:25:00,0,none
+887,Coastal Scaffolding Rentals,equipment,51158.98,SITE-009,K. Iyer,2025-05-12 16:48:00,0,none
+888,BuildRight Steel & Rebar,materials,903578.17,SITE-003,K. Iyer,2025-06-04 15:00:00,1,extreme_outlier
+889,PowerLift Cranes & Equipment,equipment,540283.14,SITE-008,K. Iyer,2025-03-26 11:17:00,0,none
+890,Sagar Labour Solutions,labor,33260.11,SITE-005,P. Singh,2025-01-28 16:37:00,0,none
+891,Konkan Aggregates Pvt Ltd,materials,57606.3,SITE-005,N. Rao,2025-01-02 11:51:00,0,none
+892,SafeSite PPE & Consumables,misc,7493.36,SITE-007,R. Mehta,2025-06-26 09:24:00,0,none
+893,Zenith Office & Site Supplies,misc,6467.71,SITE-005,S. Kulkarni,2025-03-18 15:16:00,0,none
+894,Sagar Labour Solutions,labor,438859.22,SITE-004,K. Iyer,2025-02-13 08:22:00,1,extreme_outlier
+895,Shree Cement Suppliers,materials,51640.3,SITE-006,M. Sharma,2025-06-04 18:07:00,0,none
+896,Everest Manpower Contractors,labor,57164.04,SITE-009,A. Fernandes,2025-04-28 10:48:00,0,none
+897,Goa Timber & Plywood,materials,14050.08,SITE-006,N. Rao,2025-04-21 09:27:00,0,none
+898,TerraMove Heavy Machinery,equipment,422634.34,SITE-005,M. Sharma,2025-01-23 11:08:00,0,none
+899,Shree Cement Suppliers,materials,49443.56,SITE-006,M. Sharma,2025-05-21 13:50:00,0,none
+900,Union Skilled Workforce,labor,74666.14,SITE-008,S. Kulkarni,2025-04-10 14:50:00,0,none
+901,Everest Manpower Contractors,labor,70771.44,SITE-007,A. Fernandes,2025-02-07 18:18:00,0,none
+902,BuildRight Steel & Rebar,materials,62660.64,SITE-008,R. Mehta,2025-04-21 11:00:00,0,none
+903,Shree Cement Suppliers,materials,32411.19,SITE-002,M. Sharma,2025-03-31 09:20:00,0,none
+904,Everest Manpower Contractors,labor,73210.68,SITE-010,M. Sharma,2025-04-22 09:28:00,0,none
+905,Everest Manpower Contractors,labor,33869.79,SITE-003,P. Singh,2025-03-26 08:59:00,0,none
+906,Shree Cement Suppliers,materials,44573.03,SITE-007,M. Sharma,2025-05-22 14:37:00,0,none
+907,PowerLift Cranes & Equipment,equipment,314707.06,SITE-004,R. Mehta,2025-04-23 10:38:00,0,none
+908,Shree Cement Suppliers,materials,34428.35,SITE-009,J. D'Souza,2025-03-26 09:07:00,0,none
+909,BuildRight Steel & Rebar,materials,55115.19,SITE-003,K. Iyer,2025-03-03 14:17:00,0,none
+910,Konkan Aggregates Pvt Ltd,materials,10968.42,SITE-010,R. Mehta,2025-06-23 10:17:00,0,none
+911,Konkan Aggregates Pvt Ltd,materials,29509.56,SITE-001,N. Rao,2025-02-05 12:05:00,0,none
+912,BuildRight Steel & Rebar,materials,48609.59,SITE-008,R. Mehta,2025-06-13 15:45:00,0,none
+913,Union Skilled Workforce,labor,36068.12,SITE-006,S. Kulkarni,2025-06-19 14:26:00,0,none
+914,Goa Timber & Plywood,materials,23331.87,SITE-010,K. Iyer,2025-01-22 11:30:00,0,none
+915,SafeSite PPE & Consumables,misc,9854.12,SITE-003,N. Rao,2025-04-14 09:27:00,0,none
+916,Goa Timber & Plywood,materials,17776.07,SITE-010,K. Iyer,2025-06-03 17:19:00,0,none
+917,SafeSite PPE & Consumables,misc,8914.65,SITE-006,R. Mehta,2025-04-29 18:45:00,0,none
+918,Sagar Labour Solutions,labor,17600.74,SITE-004,K. Iyer,2025-02-12 14:40:00,0,none
+919,TerraMove Heavy Machinery,equipment,154294.36,SITE-008,J. D'Souza,2025-01-13 04:06:00,1,off_hours
+920,Konkan Aggregates Pvt Ltd,materials,22782.31,SITE-010,N. Rao,2025-02-05 18:31:00,0,none
+921,Shree Cement Suppliers,materials,17302.85,SITE-002,J. D'Souza,2025-02-19 17:31:00,0,none
+922,Goa Timber & Plywood,materials,11050.29,SITE-003,J. D'Souza,2025-01-06 09:04:00,0,none
+923,SafeSite PPE & Consumables,misc,7345.82,SITE-004,R. Mehta,2025-05-14 09:51:00,0,none
+924,Coastal Scaffolding Rentals,equipment,30719.86,SITE-002,P. Singh,2025-05-19 12:24:00,0,none
+925,BuildRight Steel & Rebar,materials,154426.06,SITE-007,K. Iyer,2025-04-28 13:51:00,0,none
+926,Sagar Labour Solutions,labor,37714.64,SITE-008,A. Fernandes,2025-06-11 10:01:00,0,none
+927,Union Skilled Workforce,labor,62503.6,SITE-003,R. Mehta,2025-06-12 13:11:00,0,none
+928,Coastal Scaffolding Rentals,equipment,42470.62,SITE-008,K. Iyer,2025-06-17 13:06:00,0,none
+929,SafeSite PPE & Consumables,misc,8666.91,SITE-007,N. Rao,2025-04-15 11:46:00,0,none
+930,Shree Cement Suppliers,materials,27136.73,SITE-004,M. Sharma,2025-02-03 11:20:00,0,none
+931,BuildRight Steel & Rebar,materials,49453.68,SITE-003,K. Iyer,2025-06-27 13:15:00,0,none
+932,Union Skilled Workforce,labor,57752.56,SITE-001,R. Mehta,2025-02-05 11:17:00,0,none
+933,Municipal Permits & Fees,misc,15078.63,SITE-006,J. D'Souza,2025-04-10 15:12:00,0,none
+934,Coastal Scaffolding Rentals,equipment,50345.96,SITE-006,P. Singh,2025-01-21 08:02:00,0,none
+935,Goa Timber & Plywood,materials,400000.0,SITE-003,J. D'Souza,2025-03-20 12:11:00,1,round_number
+936,Shree Cement Suppliers,materials,38547.01,SITE-008,J. D'Souza,2025-05-29 13:16:00,0,none
+937,Konkan Aggregates Pvt Ltd,materials,32267.98,SITE-006,R. Mehta,2025-01-08 10:00:00,0,none
+938,Sagar Labour Solutions,labor,50695.76,SITE-008,A. Fernandes,2025-02-07 13:59:00,0,none
+939,Union Skilled Workforce,labor,500000.0,SITE-001,R. Mehta,2025-01-09 08:04:00,1,round_number
+940,Sagar Labour Solutions,labor,30265.44,SITE-007,P. Singh,2025-02-03 12:06:00,0,none
+941,BuildRight Steel & Rebar,materials,106380.26,SITE-001,R. Mehta,2025-05-02 15:28:00,0,none
+942,PowerLift Cranes & Equipment,equipment,96357.53,SITE-007,M. Sharma,2025-02-05 12:56:00,0,none
+943,Everest Manpower Contractors,labor,26787.42,SITE-005,A. Fernandes,2025-04-01 12:47:00,0,none
+944,Union Skilled Workforce,labor,96390.74,SITE-002,R. Mehta,2025-04-23 15:06:00,0,none
+945,Goa Timber & Plywood,materials,16722.33,SITE-001,J. D'Souza,2025-05-14 14:04:00,0,none
+946,Zenith Office & Site Supplies,misc,4065.54,SITE-009,S. Kulkarni,2025-02-18 11:02:00,0,none
+947,Coastal Scaffolding Rentals,equipment,67539.19,SITE-003,K. Iyer,2025-03-28 16:55:00,0,none
+948,BuildRight Steel & Rebar,materials,189927.02,SITE-010,R. Mehta,2025-01-16 14:29:00,1,duplicate
+949,Goa Timber & Plywood,materials,8394.01,SITE-007,N. Rao,2025-02-19 14:28:00,0,none
+950,Konkan Aggregates Pvt Ltd,materials,25013.93,SITE-008,R. Mehta,2025-03-03 17:30:00,0,none
+951,SafeSite PPE & Consumables,misc,16519.11,SITE-004,N. Rao,2025-02-06 15:05:00,0,none
+952,SafeSite PPE & Consumables,misc,15639.12,SITE-008,R. Mehta,2025-02-14 18:28:00,0,none
+953,Everest Manpower Contractors,labor,42014.81,SITE-007,A. Fernandes,2025-04-24 10:38:00,0,none
+954,PowerLift Cranes & Equipment,equipment,137427.57,SITE-004,R. Mehta,2025-05-16 10:30:00,0,none
+955,Coastal Scaffolding Rentals,equipment,58168.37,SITE-009,P. Singh,2025-05-08 17:04:00,0,none
+956,Sagar Labour Solutions,labor,28076.29,SITE-004,P. Singh,2025-04-07 16:16:00,0,none
+957,SafeSite PPE & Consumables,misc,9627.95,SITE-003,R. Mehta,2025-06-24 08:15:00,0,none
+958,Sagar Labour Solutions,labor,38505.51,SITE-002,K. Iyer,2025-05-29 14:55:00,0,none
+959,SafeSite PPE & Consumables,misc,7489.55,SITE-002,R. Mehta,2025-05-28 11:43:00,0,none
+960,Union Skilled Workforce,labor,54467.41,SITE-001,R. Mehta,2025-06-10 16:27:00,0,none
+961,BuildRight Steel & Rebar,materials,30633.22,SITE-007,R. Mehta,2025-05-26 14:32:00,0,none
+962,SafeSite PPE & Consumables,misc,9790.28,SITE-009,N. Rao,2025-04-11 17:59:00,0,none
+963,Shree Cement Suppliers,materials,40619.81,SITE-005,M. Sharma,2025-01-06 16:37:00,0,none
+964,TerraMove Heavy Machinery,equipment,450325.88,SITE-007,M. Sharma,2025-02-06 08:48:00,0,none
+965,Goa Timber & Plywood,materials,31351.21,SITE-004,J. D'Souza,2025-03-24 17:51:00,0,none
+966,Everest Manpower Contractors,labor,97162.72,SITE-007,M. Sharma,2025-06-05 09:35:00,0,none
+967,Goa Timber & Plywood,materials,14609.06,SITE-010,K. Iyer,2025-04-23 11:10:00,0,none
+968,Sagar Labour Solutions,labor,32346.2,SITE-004,P. Singh,2025-03-31 09:00:00,0,none
+969,Municipal Permits & Fees,misc,14471.18,SITE-010,K. Iyer,2025-01-31 16:24:00,0,none
+970,Municipal Permits & Fees,misc,11743.82,SITE-001,J. D'Souza,2025-06-16 13:53:00,0,none
+971,SafeSite PPE & Consumables,misc,7060.67,SITE-010,N. Rao,2025-01-17 13:21:00,0,none
+972,Coastal Scaffolding Rentals,equipment,21314.29,SITE-007,K. Iyer,2025-01-08 17:00:00,0,none
+973,Municipal Permits & Fees,misc,34183.24,SITE-009,P. Singh,2025-03-21 10:41:00,1,unusual_approver
+974,SafeSite PPE & Consumables,misc,11529.82,SITE-007,R. Mehta,2025-05-19 08:03:00,0,none
+975,Everest Manpower Contractors,labor,47434.28,SITE-001,P. Singh,2025-02-14 15:01:00,0,none
+976,Shree Cement Suppliers,materials,27619.81,SITE-010,M. Sharma,2025-04-25 16:17:00,0,none
+977,TerraMove Heavy Machinery,equipment,193653.61,SITE-003,J. D'Souza,2025-04-08 14:42:00,0,none
+978,Shree Cement Suppliers,materials,18734.78,SITE-005,M. Sharma,2025-03-26 16:03:00,0,none
+979,TerraMove Heavy Machinery,equipment,65828.58,SITE-006,M. Sharma,2025-05-23 10:18:00,0,none
+980,PowerLift Cranes & Equipment,equipment,81487.89,SITE-007,R. Mehta,2025-05-06 15:24:00,0,none
+981,Everest Manpower Contractors,labor,57349.16,SITE-001,M. Sharma,2025-03-28 17:57:00,0,none
+982,Goa Timber & Plywood,materials,24548.71,SITE-009,N. Rao,2025-01-09 13:25:00,0,none
+983,BuildRight Steel & Rebar,materials,68489.19,SITE-005,R. Mehta,2025-03-27 09:07:00,0,none
+984,Shree Cement Suppliers,materials,19550.98,SITE-003,J. D'Souza,2025-01-22 11:08:00,0,none
+985,Municipal Permits & Fees,misc,16919.1,SITE-006,N. Rao,2025-06-04 11:28:00,0,none
+986,Goa Timber & Plywood,materials,15491.38,SITE-010,K. Iyer,2025-02-06 12:19:00,0,none
+987,PowerLift Cranes & Equipment,equipment,105672.48,SITE-004,M. Sharma,2025-03-19 13:26:00,0,none
+988,Goa Timber & Plywood,materials,45942.14,SITE-008,K. Iyer,2025-03-31 18:34:00,0,none
+989,Everest Manpower Contractors,labor,35915.38,SITE-001,P. Singh,2025-03-13 18:55:00,0,none
+990,Union Skilled Workforce,labor,30497.78,SITE-001,S. Kulkarni,2025-01-15 10:54:00,0,none
+991,TerraMove Heavy Machinery,equipment,37541.24,SITE-003,J. D'Souza,2025-03-10 16:51:00,0,none
+992,Konkan Aggregates Pvt Ltd,materials,15774.59,SITE-004,R. Mehta,2025-01-13 12:48:00,0,none
+993,BuildRight Steel & Rebar,materials,64541.51,SITE-006,R. Mehta,2025-01-20 17:27:00,0,none
+994,Coastal Scaffolding Rentals,equipment,32548.64,SITE-006,K. Iyer,2025-03-28 17:57:00,0,none
+995,TerraMove Heavy Machinery,equipment,250843.42,SITE-003,M. Sharma,2025-05-16 18:25:00,0,none
+996,Sagar Labour Solutions,labor,35004.44,SITE-002,A. Fernandes,2025-03-07 18:02:00,0,none
+997,SafeSite PPE & Consumables,misc,7475.42,SITE-007,N. Rao,2025-01-14 08:56:00,0,none
+998,Zenith Office & Site Supplies,misc,46542.43,SITE-006,A. Fernandes,2025-06-16 12:58:00,1,unusual_approver
+999,PowerLift Cranes & Equipment,equipment,183279.37,SITE-008,R. Mehta,2025-06-17 18:05:00,0,none
+1000,Konkan Aggregates Pvt Ltd,materials,27291.5,SITE-005,N. Rao,2025-02-26 08:46:00,0,none
+1001,TerraMove Heavy Machinery,equipment,228381.43,SITE-003,J. D'Souza,2025-04-25 11:16:00,0,none
+1002,BuildRight Steel & Rebar,materials,64920.14,SITE-001,R. Mehta,2025-02-05 09:49:00,0,none
+1003,Goa Timber & Plywood,materials,7733.67,SITE-009,K. Iyer,2025-05-13 15:52:00,0,none
+1004,Coastal Scaffolding Rentals,equipment,63121.74,SITE-006,P. Singh,2025-04-29 04:27:00,1,off_hours
+1005,Zenith Office & Site Supplies,misc,10520.95,SITE-007,S. Kulkarni,2025-02-04 17:10:00,0,none
+1006,SafeSite PPE & Consumables,misc,7995.04,SITE-010,R. Mehta,2025-02-07 09:27:00,0,none
+1007,SafeSite PPE & Consumables,misc,8617.03,SITE-002,N. Rao,2025-04-14 12:09:00,0,none
+1008,SafeSite PPE & Consumables,misc,7359.8,SITE-005,N. Rao,2025-03-19 12:02:00,0,none
+1009,Municipal Permits & Fees,misc,18009.3,SITE-006,J. D'Souza,2025-04-04 18:22:00,0,none
+1010,TerraMove Heavy Machinery,equipment,215412.04,SITE-008,J. D'Souza,2025-06-25 10:06:00,0,none
+1011,Municipal Permits & Fees,misc,28688.33,SITE-001,K. Iyer,2025-03-07 12:57:00,0,none
+1012,BuildRight Steel & Rebar,materials,234175.6,SITE-007,R. Mehta,2025-01-23 09:28:00,0,none
+1013,Coastal Scaffolding Rentals,equipment,54236.74,SITE-004,P. Singh,2025-02-28 16:27:00,0,none
+1014,BuildRight Steel & Rebar,materials,106375.28,SITE-006,R. Mehta,2025-05-23 15:45:00,0,none
+1015,Sagar Labour Solutions,labor,38685.3,SITE-008,P. Singh,2025-05-12 14:32:00,0,none
+1016,PowerLift Cranes & Equipment,equipment,101592.1,SITE-002,M. Sharma,2025-06-04 10:16:00,0,none
+1017,TerraMove Heavy Machinery,equipment,348635.69,SITE-003,M. Sharma,2025-02-13 13:22:00,0,none
+1018,Sagar Labour Solutions,labor,31091.59,SITE-001,A. Fernandes,2025-02-05 18:46:00,0,none
+1019,Union Skilled Workforce,labor,64260.98,SITE-001,S. Kulkarni,2025-01-14 13:34:00,0,none
+1020,Shree Cement Suppliers,materials,18776.26,SITE-008,M. Sharma,2025-05-27 11:54:00,0,none
+1021,Sagar Labour Solutions,labor,29294.59,SITE-004,K. Iyer,2025-05-14 14:28:00,0,none
+1022,Zenith Office & Site Supplies,misc,7247.37,SITE-007,S. Kulkarni,2025-04-10 17:18:00,0,none
+1023,Shree Cement Suppliers,materials,32195.04,SITE-005,J. D'Souza,2025-06-20 13:32:00,0,none
+1024,Goa Timber & Plywood,materials,8614.17,SITE-004,K. Iyer,2025-02-03 17:50:00,0,none
+1025,PowerLift Cranes & Equipment,equipment,138549.19,SITE-007,M. Sharma,2025-04-15 10:47:00,0,none
+1026,Sagar Labour Solutions,labor,16155.82,SITE-010,P. Singh,2025-04-04 14:38:00,0,none
+1027,Union Skilled Workforce,labor,90537.05,SITE-004,S. Kulkarni,2025-05-22 13:33:00,0,none
+1028,BuildRight Steel & Rebar,materials,127413.82,SITE-002,R. Mehta,2025-04-10 13:33:00,0,none
+1029,PowerLift Cranes & Equipment,equipment,228091.51,SITE-004,S. Kulkarni,2025-05-02 13:34:00,1,unusual_approver
+1030,Konkan Aggregates Pvt Ltd,materials,50177.38,SITE-001,R. Mehta,2025-03-24 16:27:00,0,none
+1031,Zenith Office & Site Supplies,misc,9824.12,SITE-007,J. D'Souza,2025-06-12 16:57:00,0,none
+1032,Zenith Office & Site Supplies,misc,3443.0,SITE-007,J. D'Souza,2025-06-04 17:04:00,0,none
+1033,Goa Timber & Plywood,materials,12523.16,SITE-005,N. Rao,2025-03-14 14:02:00,0,none
+1034,Zenith Office & Site Supplies,misc,8101.59,SITE-003,J. D'Souza,2025-01-01 14:31:00,0,none
+1035,SafeSite PPE & Consumables,misc,4506.12,SITE-009,R. Mehta,2025-03-10 18:45:00,0,none
+1036,Konkan Aggregates Pvt Ltd,materials,21882.47,SITE-002,N. Rao,2025-02-04 10:06:00,0,none
+1037,TerraMove Heavy Machinery,equipment,116574.77,SITE-006,M. Sharma,2025-04-29 11:31:00,0,none
+1038,Union Skilled Workforce,labor,50673.82,SITE-001,R. Mehta,2025-02-17 14:28:00,0,none
+1039,Sagar Labour Solutions,labor,56250.35,SITE-003,A. Fernandes,2025-02-21 18:33:00,0,none
+1040,Zenith Office & Site Supplies,misc,10593.24,SITE-010,J. D'Souza,2025-01-02 10:50:00,0,none
+1041,Municipal Permits & Fees,misc,9696.93,SITE-002,J. D'Souza,2025-03-21 09:55:00,0,none
+1042,Sagar Labour Solutions,labor,42558.34,SITE-006,P. Singh,2025-03-06 14:22:00,0,none
+1043,Municipal Permits & Fees,misc,22806.56,SITE-009,N. Rao,2025-03-12 09:55:00,0,none
+1044,PowerLift Cranes & Equipment,equipment,466906.94,SITE-003,N. Rao,2025-05-21 08:47:00,1,unusual_approver
+1045,Municipal Permits & Fees,misc,17690.72,SITE-006,J. D'Souza,2025-04-30 18:52:00,0,none
+1046,Konkan Aggregates Pvt Ltd,materials,22961.05,SITE-009,N. Rao,2025-03-25 13:37:00,0,none
+1047,SafeSite PPE & Consumables,misc,6146.65,SITE-001,R. Mehta,2025-04-16 10:39:00,0,none
+1048,Municipal Permits & Fees,misc,11634.84,SITE-001,J. D'Souza,2025-02-24 13:55:00,0,none
+1049,Zenith Office & Site Supplies,misc,7470.14,SITE-010,J. D'Souza,2025-02-14 14:42:00,0,none
+1050,SafeSite PPE & Consumables,misc,400000.0,SITE-004,N. Rao,2025-06-12 09:22:00,1,round_number
+1051,Shree Cement Suppliers,materials,29334.32,SITE-010,J. D'Souza,2025-06-18 11:29:00,0,none
+1052,Coastal Scaffolding Rentals,equipment,90450.69,SITE-001,P. Singh,2025-02-24 10:34:00,0,none
+1053,SafeSite PPE & Consumables,misc,4588.52,SITE-008,R. Mehta,2025-03-13 11:46:00,0,none
+1054,SafeSite PPE & Consumables,misc,11855.58,SITE-006,N. Rao,2025-03-24 09:35:00,0,none
+1055,Sagar Labour Solutions,labor,37980.47,SITE-009,P. Singh,2025-03-20 11:07:00,0,none
+1056,Everest Manpower Contractors,labor,33652.14,SITE-010,P. Singh,2025-02-05 12:13:00,0,none
+1057,Municipal Permits & Fees,misc,10260.83,SITE-006,J. D'Souza,2025-05-27 17:04:00,0,none
+1058,Union Skilled Workforce,labor,68814.78,SITE-009,S. Kulkarni,2025-04-02 08:05:00,0,none
+1059,Sagar Labour Solutions,labor,42839.76,SITE-009,K. Iyer,2025-04-05 14:39:00,1,duplicate
+1060,PowerLift Cranes & Equipment,equipment,140096.23,SITE-006,K. Iyer,2025-06-06 17:06:00,0,none
+1061,PowerLift Cranes & Equipment,equipment,123527.28,SITE-001,S. Kulkarni,2025-04-02 18:59:00,1,unusual_approver
+1062,Sagar Labour Solutions,labor,66131.55,SITE-010,A. Fernandes,2025-03-25 18:10:00,0,none
+1063,TerraMove Heavy Machinery,equipment,185256.49,SITE-005,J. D'Souza,2025-06-24 09:59:00,0,none
+1064,Zenith Office & Site Supplies,misc,5164.57,SITE-008,S. Kulkarni,2025-03-26 10:10:00,0,none
+1065,Shree Cement Suppliers,materials,54670.4,SITE-004,M. Sharma,2025-06-24 18:49:00,0,none
+1066,Everest Manpower Contractors,labor,51595.15,SITE-001,M. Sharma,2025-01-29 18:29:00,0,none
+1067,BuildRight Steel & Rebar,materials,52083.63,SITE-005,K. Iyer,2025-05-15 16:34:00,0,none
+1068,Everest Manpower Contractors,labor,52734.92,SITE-007,A. Fernandes,2025-02-06 11:17:00,0,none
+1069,Coastal Scaffolding Rentals,equipment,36535.08,SITE-008,P. Singh,2025-02-07 16:12:00,0,none
+1070,Municipal Permits & Fees,misc,140116.58,SITE-001,K. Iyer,2025-02-17 18:56:00,1,extreme_outlier
+1071,Sagar Labour Solutions,labor,29841.1,SITE-007,A. Fernandes,2025-04-28 16:54:00,0,none
+1072,Coastal Scaffolding Rentals,equipment,35743.87,SITE-002,K. Iyer,2025-01-20 13:11:00,0,none
+1073,Sagar Labour Solutions,labor,23405.13,SITE-008,P. Singh,2025-03-26 13:53:00,0,none
+1074,Coastal Scaffolding Rentals,equipment,39974.35,SITE-007,K. Iyer,2025-02-11 09:27:00,0,none
+1075,BuildRight Steel & Rebar,materials,72198.93,SITE-009,R. Mehta,2025-03-05 13:40:00,0,none
+1076,Municipal Permits & Fees,misc,16646.12,SITE-007,J. D'Souza,2025-03-24 10:45:00,0,none
+1077,Union Skilled Workforce,labor,105289.28,SITE-004,R. Mehta,2025-03-24 17:29:00,0,none
+1078,Coastal Scaffolding Rentals,equipment,38525.17,SITE-007,K. Iyer,2025-05-27 08:45:00,0,none
+1079,Sagar Labour Solutions,labor,42194.23,SITE-006,A. Fernandes,2025-05-12 16:26:00,0,none
+1080,PowerLift Cranes & Equipment,equipment,218629.38,SITE-004,M. Sharma,2025-02-06 10:07:00,0,none
+1081,Goa Timber & Plywood,materials,18178.86,SITE-005,J. D'Souza,2025-05-28 10:39:00,0,none
+1082,Shree Cement Suppliers,materials,39092.07,SITE-008,M. Sharma,2025-05-28 14:12:00,0,none
+1083,Goa Timber & Plywood,materials,37181.47,SITE-004,J. D'Souza,2025-05-14 10:44:00,0,none
+1084,Zenith Office & Site Supplies,misc,350000.0,SITE-004,N. Rao,2025-03-10 18:39:00,1,round_number
+1085,Everest Manpower Contractors,labor,42920.71,SITE-003,P. Singh,2025-02-05 18:11:00,0,none
+1086,Everest Manpower Contractors,labor,28367.25,SITE-001,M. Sharma,2025-04-15 13:57:00,0,none
+1087,Goa Timber & Plywood,materials,17075.68,SITE-006,N. Rao,2025-06-12 18:51:00,0,none
+1088,Goa Timber & Plywood,materials,27787.53,SITE-003,N. Rao,2025-04-04 09:54:00,0,none
+1089,PowerLift Cranes & Equipment,equipment,105995.33,SITE-001,K. Iyer,2025-05-29 12:17:00,0,none
+1090,Municipal Permits & Fees,misc,15189.41,SITE-009,J. D'Souza,2025-05-07 16:41:00,0,none
+1091,Coastal Scaffolding Rentals,equipment,34041.81,SITE-007,K. Iyer,2025-05-01 10:14:00,0,none
+1092,PowerLift Cranes & Equipment,equipment,179856.28,SITE-004,K. Iyer,2025-04-03 18:06:00,0,none
+1093,Shree Cement Suppliers,materials,48231.88,SITE-007,M. Sharma,2025-04-22 14:37:00,0,none
+1094,TerraMove Heavy Machinery,equipment,223745.36,SITE-002,J. D'Souza,2025-04-19 08:15:00,1,off_hours
+1095,TerraMove Heavy Machinery,equipment,56162.7,SITE-007,J. D'Souza,2025-03-26 14:26:00,0,none
+1096,Everest Manpower Contractors,labor,77876.27,SITE-009,M. Sharma,2025-05-19 14:17:00,0,none
+1097,Sagar Labour Solutions,labor,20614.48,SITE-003,P. Singh,2025-01-09 09:33:00,0,none
+1098,Union Skilled Workforce,labor,111812.12,SITE-005,R. Mehta,2025-05-21 17:41:00,0,none
+1099,Shree Cement Suppliers,materials,500000.0,SITE-009,M. Sharma,2025-06-03 16:01:00,1,round_number
+1100,Municipal Permits & Fees,misc,13416.87,SITE-006,K. Iyer,2025-06-19 08:02:00,0,none
+1101,Sagar Labour Solutions,labor,27216.79,SITE-008,P. Singh,2025-01-06 17:23:00,0,none
+1102,SafeSite PPE & Consumables,misc,10379.82,SITE-005,R. Mehta,2025-02-14 12:20:00,0,none
+1103,Konkan Aggregates Pvt Ltd,materials,59407.41,SITE-001,S. Kulkarni,2025-03-19 17:55:00,1,unusual_approver
+1104,Municipal Permits & Fees,misc,14458.83,SITE-008,N. Rao,2025-06-04 09:26:00,0,none
+1105,Municipal Permits & Fees,misc,16953.38,SITE-001,K. Iyer,2025-06-04 12:45:00,0,none
+1106,Konkan Aggregates Pvt Ltd,materials,23756.96,SITE-005,N. Rao,2025-04-21 08:39:00,0,none
+1107,Union Skilled Workforce,labor,60330.71,SITE-006,R. Mehta,2025-05-23 15:59:00,0,none
+1108,BuildRight Steel & Rebar,materials,128842.36,SITE-005,R. Mehta,2025-03-26 09:12:00,0,none
+1109,Coastal Scaffolding Rentals,equipment,52436.97,SITE-009,P. Singh,2025-03-17 08:00:00,0,none
+1110,Coastal Scaffolding Rentals,equipment,29406.11,SITE-007,P. Singh,2025-01-14 16:26:00,0,none
+1111,Sagar Labour Solutions,labor,21741.97,SITE-008,A. Fernandes,2025-01-13 11:42:00,0,none
+1112,Municipal Permits & Fees,misc,14645.86,SITE-008,K. Iyer,2025-04-04 12:49:00,0,none
+1113,Goa Timber & Plywood,materials,5294.84,SITE-004,K. Iyer,2025-02-07 09:11:00,0,none
+1114,Union Skilled Workforce,labor,88713.42,SITE-007,R. Mehta,2025-05-14 11:02:00,0,none
+1115,Coastal Scaffolding Rentals,equipment,57276.8,SITE-003,K. Iyer,2025-05-30 16:31:00,0,none
+1116,Goa Timber & Plywood,materials,15098.51,SITE-005,N. Rao,2025-04-02 11:56:00,0,none
+1117,Municipal Permits & Fees,misc,18607.03,SITE-001,N. Rao,2025-03-10 11:45:00,0,none
+1118,Konkan Aggregates Pvt Ltd,materials,21250.97,SITE-001,N. Rao,2025-01-31 14:15:00,0,none
+1119,Municipal Permits & Fees,misc,19446.92,SITE-006,K. Iyer,2025-05-06 17:19:00,0,none
+1120,Goa Timber & Plywood,materials,6464.64,SITE-003,N. Rao,2025-04-17 14:39:00,0,none
+1121,BuildRight Steel & Rebar,materials,87605.49,SITE-001,K. Iyer,2025-06-02 15:04:00,0,none
+1122,Goa Timber & Plywood,materials,9560.71,SITE-004,J. D'Souza,2025-03-17 15:21:00,0,none
+1123,Everest Manpower Contractors,labor,292754.73,SITE-003,P. Singh,2025-02-21 12:51:00,1,extreme_outlier
+1124,PowerLift Cranes & Equipment,equipment,203952.58,SITE-005,K. Iyer,2025-01-02 14:34:00,0,none
+1125,Union Skilled Workforce,labor,28721.35,SITE-009,R. Mehta,2025-04-03 11:41:00,0,none
+1126,Sagar Labour Solutions,labor,68379.11,SITE-001,A. Fernandes,2025-05-08 17:09:00,0,none
+1127,SafeSite PPE & Consumables,misc,13054.51,SITE-002,R. Mehta,2025-01-20 15:50:00,0,none
+1128,Union Skilled Workforce,labor,65462.44,SITE-009,S. Kulkarni,2025-05-13 14:53:00,0,none
+1129,Municipal Permits & Fees,misc,12806.96,SITE-008,K. Iyer,2025-05-09 15:08:00,0,none
+1130,Konkan Aggregates Pvt Ltd,materials,8562.28,SITE-003,N. Rao,2025-05-09 16:07:00,0,none
+1131,Zenith Office & Site Supplies,misc,6348.9,SITE-008,N. Rao,2025-01-07 14:29:00,0,none
+1132,BuildRight Steel & Rebar,materials,70087.88,SITE-003,K. Iyer,2025-02-06 18:33:00,0,none
+1133,BuildRight Steel & Rebar,materials,58383.04,SITE-006,K. Iyer,2025-06-16 16:16:00,0,none
+1134,Shree Cement Suppliers,materials,36648.9,SITE-010,M. Sharma,2025-04-21 10:38:00,0,none
+1135,Everest Manpower Contractors,labor,38674.89,SITE-001,A. Fernandes,2025-06-16 09:36:00,0,none
+1136,Zenith Office & Site Supplies,misc,5181.4,SITE-010,S. Kulkarni,2025-02-21 12:20:00,0,none
+1137,Goa Timber & Plywood,materials,40429.15,SITE-002,K. Iyer,2025-05-23 09:30:00,0,none
+1138,Konkan Aggregates Pvt Ltd,materials,21872.71,SITE-006,N. Rao,2025-04-25 12:17:00,0,none
+1139,SafeSite PPE & Consumables,misc,10116.98,SITE-002,R. Mehta,2025-03-11 12:55:00,0,none
+1140,Konkan Aggregates Pvt Ltd,materials,27144.6,SITE-005,N. Rao,2025-02-06 17:33:00,0,none
+1141,BuildRight Steel & Rebar,materials,87919.62,SITE-005,R. Mehta,2025-05-20 10:40:00,0,none
+1142,Everest Manpower Contractors,labor,122257.64,SITE-008,P. Singh,2025-03-07 13:37:00,0,none
+1143,Everest Manpower Contractors,labor,30847.19,SITE-008,P. Singh,2025-03-28 12:44:00,0,none
+1144,Konkan Aggregates Pvt Ltd,materials,18832.64,SITE-008,R. Mehta,2025-01-16 08:41:00,0,none
+1145,Coastal Scaffolding Rentals,equipment,49760.34,SITE-006,P. Singh,2025-05-02 09:51:00,0,none
+1146,BuildRight Steel & Rebar,materials,155760.02,SITE-001,R. Mehta,2025-03-21 16:39:00,0,none
+1147,Zenith Office & Site Supplies,misc,3421.41,SITE-009,N. Rao,2025-04-21 11:19:00,0,none
+1148,Konkan Aggregates Pvt Ltd,materials,19924.43,SITE-009,N. Rao,2025-05-16 10:54:00,0,none
+1149,Zenith Office & Site Supplies,misc,4016.11,SITE-005,J. D'Souza,2025-05-15 10:36:00,0,none
+1150,Zenith Office & Site Supplies,misc,7964.45,SITE-003,S. Kulkarni,2025-05-08 09:34:00,0,none
+1151,Municipal Permits & Fees,misc,12567.52,SITE-002,N. Rao,2025-04-28 10:07:00,0,none
+1152,BuildRight Steel & Rebar,materials,72681.37,SITE-003,K. Iyer,2025-02-26 16:18:00,0,none
+1153,BuildRight Steel & Rebar,materials,242193.42,SITE-003,N. Rao,2025-06-20 13:51:00,1,unusual_approver
+1154,TerraMove Heavy Machinery,equipment,157340.32,SITE-005,M. Sharma,2025-01-07 08:07:00,0,none
+1155,SafeSite PPE & Consumables,misc,17259.85,SITE-006,N. Rao,2025-04-03 18:47:00,0,none
+1156,SafeSite PPE & Consumables,misc,11454.71,SITE-003,N. Rao,2025-03-10 13:40:00,0,none
+1157,BuildRight Steel & Rebar,materials,85451.54,SITE-008,R. Mehta,2025-06-16 17:24:00,0,none
+1158,Union Skilled Workforce,labor,57544.58,SITE-001,S. Kulkarni,2025-05-05 16:26:00,0,none
+1159,Union Skilled Workforce,labor,60195.35,SITE-010,R. Mehta,2025-03-14 09:34:00,0,none
+1160,Municipal Permits & Fees,misc,22085.02,SITE-007,K. Iyer,2025-01-31 12:14:00,0,none
+1161,Konkan Aggregates Pvt Ltd,materials,21608.38,SITE-002,N. Rao,2025-01-24 18:58:00,0,none
+1162,Shree Cement Suppliers,materials,46594.81,SITE-003,J. D'Souza,2025-05-22 17:16:00,0,none
+1163,Union Skilled Workforce,labor,91968.71,SITE-007,R. Mehta,2025-01-22 13:52:00,1,duplicate
+1164,BuildRight Steel & Rebar,materials,30085.57,SITE-001,K. Iyer,2025-06-02 16:31:00,0,none
+1165,Everest Manpower Contractors,labor,60291.02,SITE-005,A. Fernandes,2025-01-03 08:10:00,0,none
+1166,Everest Manpower Contractors,labor,45130.19,SITE-004,P. Singh,2025-01-07 10:16:00,0,none
+1167,TerraMove Heavy Machinery,equipment,141487.34,SITE-008,M. Sharma,2025-01-02 14:44:00,0,none
+1168,Coastal Scaffolding Rentals,equipment,39542.67,SITE-002,P. Singh,2025-03-25 11:13:00,0,none
+1169,Shree Cement Suppliers,materials,87339.89,SITE-009,M. Sharma,2025-02-11 18:56:00,0,none
+1170,Everest Manpower Contractors,labor,63937.61,SITE-001,A. Fernandes,2025-05-13 11:57:00,0,none
+1171,Konkan Aggregates Pvt Ltd,materials,21135.36,SITE-004,R. Mehta,2025-05-21 17:45:00,0,none
+1172,BuildRight Steel & Rebar,materials,66477.56,SITE-008,R. Mehta,2025-04-20 01:26:00,1,off_hours
+1173,Shree Cement Suppliers,materials,14052.03,SITE-003,M. Sharma,2025-03-06 14:33:00,0,none
+1174,Goa Timber & Plywood,materials,13366.77,SITE-006,K. Iyer,2025-03-26 14:20:00,0,none
+1175,Konkan Aggregates Pvt Ltd,materials,29698.58,SITE-010,R. Mehta,2025-03-20 12:49:00,0,none
+1176,Shree Cement Suppliers,materials,22230.11,SITE-007,M. Sharma,2025-04-03 10:06:00,0,none
+1177,Zenith Office & Site Supplies,misc,6046.26,SITE-005,J. D'Souza,2025-02-12 12:23:00,0,none
+1178,Municipal Permits & Fees,misc,11249.41,SITE-006,N. Rao,2025-01-01 10:09:00,0,none
+1179,Coastal Scaffolding Rentals,equipment,65101.69,SITE-006,K. Iyer,2025-06-17 13:40:00,0,none
+1180,Sagar Labour Solutions,labor,36805.57,SITE-003,A. Fernandes,2025-01-07 08:09:00,0,none
+1181,Sagar Labour Solutions,labor,35489.74,SITE-005,K. Iyer,2025-02-03 11:39:00,0,none
+1182,Everest Manpower Contractors,labor,75675.43,SITE-005,P. Singh,2025-02-27 16:35:00,0,none
+1183,Union Skilled Workforce,labor,51807.58,SITE-004,S. Kulkarni,2025-02-13 17:56:00,0,none
+1184,PowerLift Cranes & Equipment,equipment,60154.72,SITE-002,M. Sharma,2025-05-21 18:30:00,0,none
+1185,BuildRight Steel & Rebar,materials,54394.08,SITE-005,K. Iyer,2025-02-27 12:15:00,0,none
+1186,SafeSite PPE & Consumables,misc,7510.23,SITE-008,N. Rao,2025-01-29 16:37:00,0,none
+1187,Municipal Permits & Fees,misc,18508.1,SITE-010,K. Iyer,2025-01-21 14:17:00,0,none
+1188,TerraMove Heavy Machinery,equipment,203205.58,SITE-008,J. D'Souza,2025-01-29 08:29:00,0,none
+1189,SafeSite PPE & Consumables,misc,13941.62,SITE-003,N. Rao,2025-05-30 10:47:00,0,none
+1190,Coastal Scaffolding Rentals,equipment,36810.23,SITE-008,P. Singh,2025-02-25 17:21:00,0,none
+1191,TerraMove Heavy Machinery,equipment,139920.58,SITE-010,J. D'Souza,2025-01-17 12:45:00,0,none
+1192,SafeSite PPE & Consumables,misc,10174.59,SITE-010,R. Mehta,2025-03-21 16:20:00,0,none
+1193,Coastal Scaffolding Rentals,equipment,61239.9,SITE-007,K. Iyer,2025-04-17 13:14:00,0,none
+1194,PowerLift Cranes & Equipment,equipment,169109.46,SITE-008,K. Iyer,2025-04-01 18:58:00,0,none
+1195,Sagar Labour Solutions,labor,44499.76,SITE-010,K. Iyer,2025-04-25 11:26:00,0,none
+1196,BuildRight Steel & Rebar,materials,350000.0,SITE-009,K. Iyer,2025-03-13 16:51:00,1,round_number
+1197,Union Skilled Workforce,labor,54462.08,SITE-007,R. Mehta,2025-02-14 10:03:00,0,none
+1198,Goa Timber & Plywood,materials,15504.5,SITE-008,K. Iyer,2025-03-13 13:48:00,0,none
+1199,Coastal Scaffolding Rentals,equipment,33635.03,SITE-003,P. Singh,2025-06-12 13:05:00,0,none
+1200,PowerLift Cranes & Equipment,equipment,279320.44,SITE-001,K. Iyer,2025-03-22 11:15:00,1,off_hours
+1201,Goa Timber & Plywood,materials,9402.99,SITE-008,K. Iyer,2025-05-09 08:03:00,0,none
+1202,BuildRight Steel & Rebar,materials,66397.83,SITE-005,R. Mehta,2025-01-24 18:52:00,0,none
+1203,Sagar Labour Solutions,labor,34454.64,SITE-001,P. Singh,2025-02-27 10:26:00,0,none
+1204,TerraMove Heavy Machinery,equipment,200047.37,SITE-004,M. Sharma,2025-02-06 09:06:00,0,none
+1205,BuildRight Steel & Rebar,materials,56974.11,SITE-003,R. Mehta,2025-02-12 08:08:00,0,none
+1206,Zenith Office & Site Supplies,misc,7014.08,SITE-002,N. Rao,2025-05-16 10:47:00,0,none
+1207,Union Skilled Workforce,labor,29918.9,SITE-003,S. Kulkarni,2025-02-20 11:00:00,0,none
+1208,Sagar Labour Solutions,labor,41460.74,SITE-007,A. Fernandes,2025-05-02 13:01:00,0,none
+1209,Zenith Office & Site Supplies,misc,4797.22,SITE-001,J. D'Souza,2025-02-21 09:13:00,0,none
+1210,TerraMove Heavy Machinery,equipment,237465.31,SITE-003,M. Sharma,2025-04-09 11:37:00,0,none
+1211,Zenith Office & Site Supplies,misc,7569.32,SITE-007,N. Rao,2025-04-21 16:44:00,0,none
+1212,Goa Timber & Plywood,materials,25519.34,SITE-009,J. D'Souza,2025-03-27 08:11:00,0,none
+1213,SafeSite PPE & Consumables,misc,15348.28,SITE-002,R. Mehta,2025-02-24 08:29:00,0,none
+1214,Konkan Aggregates Pvt Ltd,materials,38643.15,SITE-006,R. Mehta,2025-03-27 13:40:00,0,none
+1215,Everest Manpower Contractors,labor,60119.4,SITE-010,M. Sharma,2025-06-18 10:36:00,0,none
+1216,Coastal Scaffolding Rentals,equipment,50340.27,SITE-010,K. Iyer,2025-03-11 12:08:00,0,none
+1217,Konkan Aggregates Pvt Ltd,materials,35515.66,SITE-001,N. Rao,2025-01-13 08:23:00,0,none
+1218,Coastal Scaffolding Rentals,equipment,96215.48,SITE-008,K. Iyer,2025-03-17 08:11:00,0,none
+1219,BuildRight Steel & Rebar,materials,64473.61,SITE-006,K. Iyer,2025-06-24 17:50:00,0,none
+1220,Municipal Permits & Fees,misc,23554.41,SITE-004,J. D'Souza,2025-01-22 17:37:00,0,none
+1221,Union Skilled Workforce,labor,75223.19,SITE-003,S. Kulkarni,2025-02-04 18:06:00,0,none
+1222,Zenith Office & Site Supplies,misc,6756.37,SITE-007,N. Rao,2025-04-21 15:30:00,0,none
+1223,TerraMove Heavy Machinery,equipment,285962.57,SITE-008,J. D'Souza,2025-04-10 17:10:00,0,none
+1224,SafeSite PPE & Consumables,misc,3228.82,SITE-010,N. Rao,2025-01-24 13:54:00,0,none
+1225,PowerLift Cranes & Equipment,equipment,143727.36,SITE-007,M. Sharma,2025-05-05 16:59:00,0,none
+1226,Union Skilled Workforce,labor,45634.0,SITE-006,S. Kulkarni,2025-01-22 13:47:00,0,none
+1227,BuildRight Steel & Rebar,materials,67086.56,SITE-002,R. Mehta,2025-01-21 17:46:00,0,none
+1228,Everest Manpower Contractors,labor,207325.12,SITE-010,A. Fernandes,2025-06-05 14:41:00,1,extreme_outlier
+1229,TerraMove Heavy Machinery,equipment,57672.3,SITE-005,J. D'Souza,2025-04-28 10:06:00,0,none
+1230,Shree Cement Suppliers,materials,38486.74,SITE-003,M. Sharma,2025-06-13 18:38:00,0,none
+1231,Coastal Scaffolding Rentals,equipment,36988.88,SITE-008,K. Iyer,2025-03-28 14:27:00,0,none
+1232,Goa Timber & Plywood,materials,14097.05,SITE-002,J. D'Souza,2025-05-19 12:17:00,0,none
+1233,Union Skilled Workforce,labor,67465.56,SITE-002,R. Mehta,2025-05-20 15:19:00,0,none
+1234,SafeSite PPE & Consumables,misc,200000.0,SITE-007,N. Rao,2025-01-08 13:59:00,1,round_number
+1235,SafeSite PPE & Consumables,misc,12858.82,SITE-002,R. Mehta,2025-05-06 11:29:00,0,none
+1236,Municipal Permits & Fees,misc,16373.92,SITE-008,J. D'Souza,2025-06-19 09:19:00,0,none
+1237,Everest Manpower Contractors,labor,53077.43,SITE-005,A. Fernandes,2025-05-06 13:16:00,0,none
+1238,TerraMove Heavy Machinery,equipment,191381.88,SITE-004,J. D'Souza,2025-03-14 11:18:00,0,none
+1239,Coastal Scaffolding Rentals,equipment,52893.82,SITE-001,P. Singh,2025-01-30 09:02:00,0,none
+1240,Zenith Office & Site Supplies,misc,9781.84,SITE-003,N. Rao,2025-02-05 13:29:00,0,none
+1241,BuildRight Steel & Rebar,materials,99891.33,SITE-006,K. Iyer,2025-02-24 11:17:00,0,none
+1242,Goa Timber & Plywood,materials,21761.09,SITE-006,N. Rao,2025-03-26 11:18:00,0,none
+1243,Union Skilled Workforce,labor,66348.59,SITE-008,R. Mehta,2025-03-21 15:12:00,0,none
+1244,Konkan Aggregates Pvt Ltd,materials,21289.82,SITE-008,R. Mehta,2025-01-31 13:05:00,0,none
+1245,Sagar Labour Solutions,labor,41575.0,SITE-010,A. Fernandes,2025-02-21 13:30:00,0,none
+1246,BuildRight Steel & Rebar,materials,44075.44,SITE-010,K. Iyer,2025-05-29 11:49:00,0,none
+1247,PowerLift Cranes & Equipment,equipment,139697.55,SITE-008,M. Sharma,2025-04-23 12:16:00,0,none
+1248,Sagar Labour Solutions,labor,57747.07,SITE-008,A. Fernandes,2025-06-03 17:17:00,0,none
+1249,Shree Cement Suppliers,materials,64801.18,SITE-008,M. Sharma,2025-01-20 08:34:00,0,none
+1250,Sagar Labour Solutions,labor,35206.5,SITE-006,K. Iyer,2025-06-02 09:59:00,0,none
+1251,Coastal Scaffolding Rentals,equipment,63767.77,SITE-009,P. Singh,2025-05-15 11:32:00,0,none
+1252,Everest Manpower Contractors,labor,48014.15,SITE-005,P. Singh,2025-03-03 15:24:00,0,none
+1253,Sagar Labour Solutions,labor,36409.2,SITE-006,K. Iyer,2025-02-07 15:51:00,0,none
+1254,Goa Timber & Plywood,materials,25887.62,SITE-007,J. D'Souza,2025-05-09 17:37:00,0,none
+1255,SafeSite PPE & Consumables,misc,20492.41,SITE-010,N. Rao,2025-01-06 11:08:00,0,none
+1256,PowerLift Cranes & Equipment,equipment,158308.74,SITE-007,R. Mehta,2025-02-18 16:43:00,0,none
+1257,BuildRight Steel & Rebar,materials,86526.02,SITE-005,R. Mehta,2025-02-04 18:50:00,0,none
+1258,Union Skilled Workforce,labor,72894.76,SITE-008,S. Kulkarni,2025-01-28 08:07:00,0,none
+1259,TerraMove Heavy Machinery,equipment,164708.74,SITE-001,M. Sharma,2025-04-14 13:44:00,0,none
+1260,PowerLift Cranes & Equipment,equipment,408160.53,SITE-007,K. Iyer,2025-04-03 17:26:00,0,none
+1261,Everest Manpower Contractors,labor,78656.6,SITE-003,P. Singh,2025-01-17 13:49:00,0,none
+1262,Municipal Permits & Fees,misc,7077.94,SITE-002,J. D'Souza,2025-05-08 03:55:00,1,off_hours
+1263,Everest Manpower Contractors,labor,113956.51,SITE-008,M. Sharma,2025-04-30 14:08:00,0,none
+1264,Coastal Scaffolding Rentals,equipment,39376.06,SITE-001,K. Iyer,2025-01-03 08:17:00,0,none
+1265,PowerLift Cranes & Equipment,equipment,81507.4,SITE-005,M. Sharma,2025-02-04 08:57:00,0,none
+1266,Sagar Labour Solutions,labor,74412.9,SITE-005,R. Mehta,2025-04-07 12:06:00,1,unusual_approver
+1267,BuildRight Steel & Rebar,materials,244170.5,SITE-006,K. Iyer,2025-02-07 17:32:00,0,none
+1268,Coastal Scaffolding Rentals,equipment,61804.18,SITE-001,P. Singh,2025-04-23 16:37:00,0,none
+1269,Zenith Office & Site Supplies,misc,15194.49,SITE-004,S. Kulkarni,2025-04-28 16:34:00,0,none
+1270,Coastal Scaffolding Rentals,equipment,57894.18,SITE-010,P. Singh,2025-03-11 08:18:00,0,none
+1271,SafeSite PPE & Consumables,misc,125000.0,SITE-007,N. Rao,2025-05-19 13:22:00,1,round_number
+1272,Union Skilled Workforce,labor,64210.87,SITE-008,R. Mehta,2025-03-07 17:43:00,0,none
+1273,Everest Manpower Contractors,labor,58092.56,SITE-008,M. Sharma,2025-05-08 09:48:00,0,none
+1274,Zenith Office & Site Supplies,misc,4559.15,SITE-010,S. Kulkarni,2025-01-15 17:29:00,0,none
+1275,Municipal Permits & Fees,misc,30538.22,SITE-004,K. Iyer,2025-04-07 14:11:00,0,none
+1276,Municipal Permits & Fees,misc,13795.03,SITE-008,J. D'Souza,2025-02-18 08:19:00,0,none
+1277,Municipal Permits & Fees,misc,16822.38,SITE-004,J. D'Souza,2025-05-19 15:08:00,0,none
+1278,PowerLift Cranes & Equipment,equipment,122938.34,SITE-006,R. Mehta,2025-02-13 14:40:00,0,none
+1279,Goa Timber & Plywood,materials,27427.62,SITE-004,N. Rao,2025-04-02 15:10:00,0,none
+1280,Sagar Labour Solutions,labor,24840.54,SITE-001,K. Iyer,2025-02-21 17:07:00,0,none
+1281,Shree Cement Suppliers,materials,32897.96,SITE-002,J. D'Souza,2025-05-19 12:08:00,0,none
+1282,TerraMove Heavy Machinery,equipment,86247.63,SITE-007,J. D'Souza,2025-04-15 17:41:00,0,none
+1283,Goa Timber & Plywood,materials,11085.31,SITE-001,K. Iyer,2025-04-04 14:10:00,0,none
+1284,Zenith Office & Site Supplies,misc,2205.38,SITE-005,N. Rao,2025-06-09 14:52:00,0,none
+1285,Sagar Labour Solutions,labor,42839.76,SITE-009,K. Iyer,2025-04-03 15:04:00,0,none
+1286,PowerLift Cranes & Equipment,equipment,118381.84,SITE-004,K. Iyer,2025-04-11 14:17:00,0,none
+1287,Municipal Permits & Fees,misc,16373.92,SITE-008,J. D'Souza,2025-06-19 09:32:00,1,duplicate
+1288,Coastal Scaffolding Rentals,equipment,40589.31,SITE-003,P. Singh,2025-01-09 09:59:00,0,none
+1289,PowerLift Cranes & Equipment,equipment,331146.55,SITE-004,M. Sharma,2025-03-01 00:03:00,1,off_hours
+1290,Goa Timber & Plywood,materials,21121.98,SITE-002,K. Iyer,2025-06-17 14:02:00,0,none
+1291,Municipal Permits & Fees,misc,12214.44,SITE-008,J. D'Souza,2025-06-05 08:43:00,0,none
+1292,Everest Manpower Contractors,labor,43246.78,SITE-003,M. Sharma,2025-05-15 16:20:00,0,none
+1293,Goa Timber & Plywood,materials,35227.76,SITE-005,J. D'Souza,2025-03-14 12:47:00,0,none
+1294,Goa Timber & Plywood,materials,16906.59,SITE-008,K. Iyer,2025-02-17 11:19:00,0,none
+1295,TerraMove Heavy Machinery,equipment,198372.95,SITE-001,J. D'Souza,2025-04-14 17:13:00,0,none
+1296,PowerLift Cranes & Equipment,equipment,279320.44,SITE-001,K. Iyer,2025-05-15 16:53:00,0,none
+1297,Everest Manpower Contractors,labor,78634.0,SITE-007,P. Singh,2025-01-15 16:45:00,0,none
+1298,Municipal Permits & Fees,misc,17861.68,SITE-009,J. D'Souza,2025-03-14 12:25:00,0,none
+1299,Municipal Permits & Fees,misc,11078.73,SITE-008,K. Iyer,2025-04-01 14:36:00,0,none
+1300,Everest Manpower Contractors,labor,42958.19,SITE-006,P. Singh,2025-01-21 17:02:00,0,none
+1301,BuildRight Steel & Rebar,materials,74390.16,SITE-005,R. Mehta,2025-03-26 17:44:00,0,none
+1302,Coastal Scaffolding Rentals,equipment,38701.81,SITE-006,K. Iyer,2025-01-30 09:10:00,0,none
+1303,Shree Cement Suppliers,materials,79446.7,SITE-004,M. Sharma,2025-01-30 13:43:00,0,none
+1304,Konkan Aggregates Pvt Ltd,materials,14344.5,SITE-002,N. Rao,2025-05-27 18:10:00,0,none
+1305,Coastal Scaffolding Rentals,equipment,32851.5,SITE-007,K. Iyer,2025-03-12 11:28:00,0,none
+1306,SafeSite PPE & Consumables,misc,3774.68,SITE-002,R. Mehta,2025-02-11 11:38:00,0,none
+1307,Goa Timber & Plywood,materials,15977.75,SITE-008,J. D'Souza,2025-04-29 09:18:00,0,none
+1308,Everest Manpower Contractors,labor,64568.35,SITE-003,M. Sharma,2025-01-07 13:26:00,0,none
+1309,BuildRight Steel & Rebar,materials,51335.13,SITE-003,R. Mehta,2025-06-03 15:45:00,0,none
+1310,Union Skilled Workforce,labor,46549.07,SITE-008,S. Kulkarni,2025-01-13 16:44:00,0,none
+1311,Konkan Aggregates Pvt Ltd,materials,19403.34,SITE-004,R. Mehta,2025-01-20 15:30:00,0,none
+1312,Sagar Labour Solutions,labor,35606.58,SITE-002,A. Fernandes,2025-06-09 17:14:00,0,none
+1313,TerraMove Heavy Machinery,equipment,127497.76,SITE-010,J. D'Souza,2025-03-21 09:16:00,0,none
+1314,PowerLift Cranes & Equipment,equipment,1062162.8,SITE-008,M. Sharma,2025-02-05 17:35:00,1,extreme_outlier
+1315,SafeSite PPE & Consumables,misc,19592.51,SITE-002,R. Mehta,2025-01-21 16:18:00,0,none
+1316,PowerLift Cranes & Equipment,equipment,397794.54,SITE-010,K. Iyer,2025-05-02 18:18:00,1,extreme_outlier
+1317,BuildRight Steel & Rebar,materials,52955.21,SITE-004,K. Iyer,2025-01-13 10:58:00,0,none
+1318,Coastal Scaffolding Rentals,equipment,32683.29,SITE-006,K. Iyer,2025-01-31 12:07:00,0,none
+1319,BuildRight Steel & Rebar,materials,50872.15,SITE-006,K. Iyer,2025-02-07 10:00:00,0,none
+1320,Goa Timber & Plywood,materials,13749.69,SITE-006,K. Iyer,2025-03-14 18:13:00,0,none
+1321,PowerLift Cranes & Equipment,equipment,41268.35,SITE-001,R. Mehta,2025-02-10 13:03:00,0,none
+1322,PowerLift Cranes & Equipment,equipment,80176.98,SITE-004,R. Mehta,2025-01-08 09:52:00,0,none
+1323,Everest Manpower Contractors,labor,31249.61,SITE-005,P. Singh,2025-03-24 13:12:00,0,none
+1324,Coastal Scaffolding Rentals,equipment,47461.79,SITE-008,P. Singh,2025-06-10 08:14:00,0,none
+1325,Zenith Office & Site Supplies,misc,9099.65,SITE-005,J. D'Souza,2025-06-10 16:44:00,0,none
+1326,TerraMove Heavy Machinery,equipment,103960.56,SITE-006,J. D'Souza,2025-01-22 10:47:00,0,none
+1327,Union Skilled Workforce,labor,121889.86,SITE-005,S. Kulkarni,2025-01-24 10:03:00,0,none
+1328,Coastal Scaffolding Rentals,equipment,49108.03,SITE-007,K. Iyer,2025-06-02 14:15:00,0,none
+1329,BuildRight Steel & Rebar,materials,67640.91,SITE-008,R. Mehta,2025-05-20 08:12:00,0,none
+1330,Municipal Permits & Fees,misc,22750.06,SITE-007,K. Iyer,2025-05-20 16:35:00,0,none
+1331,Everest Manpower Contractors,labor,37693.98,SITE-008,M. Sharma,2025-03-20 14:57:00,1,duplicate
+1332,PowerLift Cranes & Equipment,equipment,45351.41,SITE-010,R. Mehta,2025-04-23 17:48:00,0,none
+1333,Coastal Scaffolding Rentals,equipment,35634.54,SITE-007,P. Singh,2025-01-02 15:12:00,0,none
+1334,Shree Cement Suppliers,materials,35464.07,SITE-004,M. Sharma,2025-04-17 11:25:00,1,duplicate
+1335,Union Skilled Workforce,labor,93622.84,SITE-003,R. Mehta,2025-04-08 18:39:00,0,none
+1336,Sagar Labour Solutions,labor,33926.54,SITE-003,K. Iyer,2025-06-18 16:38:00,0,none
+1337,Sagar Labour Solutions,labor,19263.17,SITE-002,A. Fernandes,2025-01-30 16:13:00,0,none
+1338,BuildRight Steel & Rebar,materials,73509.34,SITE-003,R. Mehta,2025-01-21 12:20:00,0,none
+1339,BuildRight Steel & Rebar,materials,102615.31,SITE-005,R. Mehta,2025-03-21 13:09:00,0,none
+1340,BuildRight Steel & Rebar,materials,98201.17,SITE-010,K. Iyer,2025-02-07 09:15:00,0,none
+1341,TerraMove Heavy Machinery,equipment,371351.65,SITE-001,J. D'Souza,2025-04-28 13:23:00,0,none
+1342,Everest Manpower Contractors,labor,78030.48,SITE-004,A. Fernandes,2025-02-11 14:55:00,0,none
+1343,Shree Cement Suppliers,materials,58928.22,SITE-009,J. D'Souza,2025-05-14 17:18:00,0,none
+1344,Union Skilled Workforce,labor,38569.43,SITE-007,R. Mehta,2025-04-08 17:23:00,0,none
+1345,PowerLift Cranes & Equipment,equipment,102260.66,SITE-004,M. Sharma,2025-06-16 12:06:00,0,none
+1346,Zenith Office & Site Supplies,misc,6683.19,SITE-006,N. Rao,2025-01-29 17:47:00,0,none
+1347,SafeSite PPE & Consumables,misc,6489.49,SITE-008,R. Mehta,2025-02-24 10:01:00,0,none
+1348,Coastal Scaffolding Rentals,equipment,150000.0,SITE-001,P. Singh,2025-01-13 17:31:00,1,round_number
+1349,Union Skilled Workforce,labor,32264.53,SITE-001,R. Mehta,2025-06-04 13:36:00,0,none
+1350,BuildRight Steel & Rebar,materials,42113.75,SITE-004,K. Iyer,2025-02-06 14:01:00,0,none
+1351,Everest Manpower Contractors,labor,39715.18,SITE-008,P. Singh,2025-03-24 15:04:00,0,none
+1352,Shree Cement Suppliers,materials,29451.08,SITE-008,M. Sharma,2025-06-07 10:21:00,1,duplicate
+1353,Sagar Labour Solutions,labor,43564.05,SITE-009,A. Fernandes,2025-02-27 17:32:00,0,none
+1354,PowerLift Cranes & Equipment,equipment,196497.28,SITE-002,R. Mehta,2025-06-24 13:33:00,0,none
+1355,Coastal Scaffolding Rentals,equipment,63493.82,SITE-006,P. Singh,2025-01-09 17:28:00,0,none
+1356,Zenith Office & Site Supplies,misc,3133.14,SITE-005,S. Kulkarni,2025-05-12 14:27:00,0,none
+1357,Zenith Office & Site Supplies,misc,3845.95,SITE-001,S. Kulkarni,2025-03-14 16:04:00,0,none
+1358,SafeSite PPE & Consumables,misc,10220.81,SITE-006,R. Mehta,2025-04-04 10:33:00,0,none
+1359,Everest Manpower Contractors,labor,42791.0,SITE-004,A. Fernandes,2025-01-23 17:05:00,0,none
+1360,SafeSite PPE & Consumables,misc,10055.55,SITE-003,R. Mehta,2025-05-29 14:20:00,0,none
+1361,SafeSite PPE & Consumables,misc,8912.03,SITE-006,N. Rao,2025-04-30 11:47:00,0,none
+1362,Coastal Scaffolding Rentals,equipment,35447.44,SITE-002,P. Singh,2025-02-19 14:53:00,0,none
+1363,TerraMove Heavy Machinery,equipment,177930.89,SITE-003,M. Sharma,2025-01-06 16:35:00,0,none
+1364,Sagar Labour Solutions,labor,52246.83,SITE-010,K. Iyer,2025-05-16 09:49:00,0,none
+1365,Konkan Aggregates Pvt Ltd,materials,16415.84,SITE-005,N. Rao,2025-03-20 13:44:00,0,none
+1366,TerraMove Heavy Machinery,equipment,105781.34,SITE-004,M. Sharma,2025-03-03 15:30:00,0,none
+1367,Goa Timber & Plywood,materials,25314.7,SITE-002,J. D'Souza,2025-03-24 12:10:00,0,none
+1368,PowerLift Cranes & Equipment,equipment,105130.72,SITE-004,M. Sharma,2025-06-18 14:37:00,0,none
+1369,Union Skilled Workforce,labor,55016.11,SITE-001,R. Mehta,2025-01-21 16:39:00,0,none
+1370,Goa Timber & Plywood,materials,13260.47,SITE-008,J. D'Souza,2025-04-04 15:23:00,0,none
+1371,Goa Timber & Plywood,materials,97924.45,SITE-005,S. Kulkarni,2025-06-24 15:41:00,1,unusual_approver
+1372,Shree Cement Suppliers,materials,33028.52,SITE-003,J. D'Souza,2025-03-12 13:05:00,0,none
+1373,Union Skilled Workforce,labor,137095.5,SITE-010,R. Mehta,2025-03-10 16:46:00,0,none
+1374,TerraMove Heavy Machinery,equipment,210817.41,SITE-005,J. D'Souza,2025-01-03 11:07:00,0,none
+1375,SafeSite PPE & Consumables,misc,4528.65,SITE-010,R. Mehta,2025-02-19 10:11:00,0,none
+1376,Union Skilled Workforce,labor,168299.29,SITE-003,P. Singh,2025-06-11 15:29:00,1,unusual_approver
+1377,BuildRight Steel & Rebar,materials,79568.52,SITE-007,R. Mehta,2025-06-13 13:39:00,0,none
+1378,Shree Cement Suppliers,materials,100997.02,SITE-010,M. Sharma,2025-01-15 14:29:00,0,none
+1379,PowerLift Cranes & Equipment,equipment,144667.8,SITE-010,K. Iyer,2025-03-31 11:08:00,0,none
+1380,Goa Timber & Plywood,materials,28338.83,SITE-005,K. Iyer,2025-06-19 13:35:00,0,none
+1381,Sagar Labour Solutions,labor,19833.68,SITE-010,K. Iyer,2025-06-23 09:22:00,0,none
+1382,Everest Manpower Contractors,labor,189063.36,SITE-004,J. D'Souza,2025-04-02 14:08:00,1,unusual_approver
+1383,SafeSite PPE & Consumables,misc,9793.32,SITE-005,N. Rao,2025-05-01 11:12:00,0,none
+1384,Konkan Aggregates Pvt Ltd,materials,16107.51,SITE-005,N. Rao,2025-04-29 08:12:00,0,none
+1385,SafeSite PPE & Consumables,misc,5718.96,SITE-003,N. Rao,2025-02-07 12:33:00,0,none
+1386,Union Skilled Workforce,labor,79053.13,SITE-005,S. Kulkarni,2025-03-05 16:32:00,0,none
+1387,Everest Manpower Contractors,labor,46553.85,SITE-002,M. Sharma,2025-06-23 09:05:00,0,none
+1388,BuildRight Steel & Rebar,materials,89064.74,SITE-008,K. Iyer,2025-04-18 09:48:00,0,none
+1389,Coastal Scaffolding Rentals,equipment,54868.58,SITE-007,P. Singh,2025-02-04 16:25:00,0,none
+1390,Sagar Labour Solutions,labor,332217.19,SITE-009,P. Singh,2025-04-02 14:48:00,1,extreme_outlier
+1391,Sagar Labour Solutions,labor,40014.62,SITE-002,P. Singh,2025-01-24 15:59:00,0,none
+1392,Konkan Aggregates Pvt Ltd,materials,37109.07,SITE-004,N. Rao,2025-01-15 14:02:00,0,none
+1393,Municipal Permits & Fees,misc,8113.04,SITE-007,J. D'Souza,2025-03-05 17:44:00,0,none
+1394,SafeSite PPE & Consumables,misc,8639.43,SITE-005,N. Rao,2025-04-30 09:33:00,0,none
+1395,BuildRight Steel & Rebar,materials,36659.14,SITE-005,K. Iyer,2025-03-28 18:59:00,0,none
+1396,PowerLift Cranes & Equipment,equipment,386247.98,SITE-009,M. Sharma,2025-03-24 16:57:00,0,none
+1397,Konkan Aggregates Pvt Ltd,materials,15848.02,SITE-001,R. Mehta,2025-04-23 12:49:00,0,none
+1398,Shree Cement Suppliers,materials,86277.64,SITE-001,M. Sharma,2025-01-06 09:31:00,0,none
+1399,Municipal Permits & Fees,misc,9351.95,SITE-003,N. Rao,2025-01-07 16:51:00,0,none
+1400,TerraMove Heavy Machinery,equipment,113108.93,SITE-009,J. D'Souza,2025-03-25 13:42:00,0,none
+1401,Konkan Aggregates Pvt Ltd,materials,13521.78,SITE-008,R. Mehta,2025-01-29 16:05:00,0,none
+1402,SafeSite PPE & Consumables,misc,200000.0,SITE-006,N. Rao,2025-04-30 08:26:00,1,round_number
+1403,SafeSite PPE & Consumables,misc,8871.55,SITE-008,R. Mehta,2025-04-11 11:20:00,0,none
+1404,TerraMove Heavy Machinery,equipment,124661.8,SITE-003,M. Sharma,2025-04-10 16:01:00,0,none
+1405,Konkan Aggregates Pvt Ltd,materials,29009.7,SITE-001,N. Rao,2025-01-14 12:40:00,0,none
+1406,Shree Cement Suppliers,materials,67570.35,SITE-010,M. Sharma,2025-05-27 16:01:00,0,none
+1407,Coastal Scaffolding Rentals,equipment,22808.62,SITE-004,P. Singh,2025-01-08 17:41:00,0,none
+1408,Zenith Office & Site Supplies,misc,21436.85,SITE-009,J. D'Souza,2025-05-13 13:23:00,0,none
+1409,Municipal Permits & Fees,misc,15323.18,SITE-006,J. D'Souza,2025-05-16 13:49:00,0,none
+1410,Coastal Scaffolding Rentals,equipment,40344.95,SITE-007,P. Singh,2025-03-05 12:49:00,0,none
+1411,SafeSite PPE & Consumables,misc,7389.06,SITE-010,R. Mehta,2025-01-14 11:07:00,0,none
+1412,Shree Cement Suppliers,materials,27070.17,SITE-005,J. D'Souza,2025-03-17 11:08:00,0,none
+1413,Zenith Office & Site Supplies,misc,2787.89,SITE-002,S. Kulkarni,2025-03-07 13:09:00,0,none
+1414,Coastal Scaffolding Rentals,equipment,15469.79,SITE-001,K. Iyer,2025-01-27 16:52:00,0,none
+1415,Zenith Office & Site Supplies,misc,4642.16,SITE-006,J. D'Souza,2025-02-06 09:45:00,0,none
+1416,Zenith Office & Site Supplies,misc,3724.54,SITE-002,S. Kulkarni,2025-02-14 15:30:00,0,none
+1417,Zenith Office & Site Supplies,misc,16810.31,SITE-001,S. Kulkarni,2025-04-15 15:59:00,0,none
+1418,Coastal Scaffolding Rentals,equipment,60633.91,SITE-002,P. Singh,2025-05-19 09:08:00,0,none
+1419,SafeSite PPE & Consumables,misc,2487.73,SITE-009,R. Mehta,2025-05-19 11:03:00,0,none
+1420,Coastal Scaffolding Rentals,equipment,61997.17,SITE-008,K. Iyer,2025-03-05 16:18:00,0,none
+1421,Everest Manpower Contractors,labor,40954.92,SITE-006,M. Sharma,2025-06-24 08:14:00,0,none
+1422,Zenith Office & Site Supplies,misc,7628.3,SITE-005,S. Kulkarni,2025-06-09 09:39:00,0,none
+1423,Zenith Office & Site Supplies,misc,8112.67,SITE-004,S. Kulkarni,2025-02-18 14:49:00,0,none
+1424,Zenith Office & Site Supplies,misc,4693.78,SITE-003,J. D'Souza,2025-04-07 18:31:00,0,none
+1425,Municipal Permits & Fees,misc,19496.07,SITE-004,N. Rao,2025-02-06 09:52:00,0,none
+1426,Goa Timber & Plywood,materials,28399.02,SITE-009,J. D'Souza,2025-01-14 16:06:00,0,none
+1427,SafeSite PPE & Consumables,misc,11676.01,SITE-003,N. Rao,2025-04-25 11:59:00,0,none
+1428,Municipal Permits & Fees,misc,13778.15,SITE-006,J. D'Souza,2025-01-13 15:31:00,0,none
+1429,Zenith Office & Site Supplies,misc,14327.35,SITE-002,N. Rao,2025-06-27 16:21:00,0,none
+1430,Shree Cement Suppliers,materials,21943.12,SITE-008,J. D'Souza,2025-02-04 09:36:00,0,none
+1431,Municipal Permits & Fees,misc,14260.65,SITE-010,K. Iyer,2025-02-26 14:10:00,0,none
+1432,Coastal Scaffolding Rentals,equipment,16779.55,SITE-008,P. Singh,2025-02-25 14:03:00,0,none
+1433,SafeSite PPE & Consumables,misc,5050.85,SITE-001,N. Rao,2025-02-06 12:12:00,0,none
+1434,Everest Manpower Contractors,labor,54453.52,SITE-005,A. Fernandes,2025-05-23 17:33:00,0,none
+1435,TerraMove Heavy Machinery,equipment,104440.27,SITE-008,J. D'Souza,2025-05-14 12:48:00,0,none
+1436,Goa Timber & Plywood,materials,21671.52,SITE-002,K. Iyer,2025-04-30 18:01:00,0,none
+1437,Coastal Scaffolding Rentals,equipment,32831.71,SITE-005,K. Iyer,2025-05-29 13:44:00,0,none
+1438,PowerLift Cranes & Equipment,equipment,100321.86,SITE-006,R. Mehta,2025-04-07 09:40:00,0,none
+1439,Union Skilled Workforce,labor,83968.18,SITE-010,S. Kulkarni,2025-05-23 17:51:00,0,none
+1440,PowerLift Cranes & Equipment,equipment,195408.55,SITE-008,M. Sharma,2025-06-26 11:12:00,0,none
+1441,Shree Cement Suppliers,materials,45914.0,SITE-010,J. D'Souza,2025-01-07 08:00:00,0,none
+1442,Goa Timber & Plywood,materials,32678.1,SITE-003,N. Rao,2025-02-17 15:59:00,0,none
+1443,BuildRight Steel & Rebar,materials,48754.63,SITE-002,R. Mehta,2025-05-28 10:19:00,0,none
+1444,TerraMove Heavy Machinery,equipment,158542.39,SITE-003,M. Sharma,2025-05-08 18:29:00,0,none
+1445,Union Skilled Workforce,labor,44848.97,SITE-010,R. Mehta,2025-03-27 12:22:00,0,none
+1446,Union Skilled Workforce,labor,127627.04,SITE-008,R. Mehta,2025-04-28 17:20:00,0,none
+1447,TerraMove Heavy Machinery,equipment,167492.75,SITE-003,J. D'Souza,2025-02-20 11:16:00,0,none
+1448,Zenith Office & Site Supplies,misc,3751.49,SITE-008,S. Kulkarni,2025-05-20 12:09:00,0,none
+1449,Everest Manpower Contractors,labor,36249.78,SITE-008,P. Singh,2025-06-02 12:50:00,0,none
+1450,Sagar Labour Solutions,labor,22287.18,SITE-003,A. Fernandes,2025-05-28 12:01:00,0,none
+1451,Municipal Permits & Fees,misc,16528.16,SITE-003,N. Rao,2025-03-03 11:08:00,0,none
+1452,Shree Cement Suppliers,materials,57827.18,SITE-003,M. Sharma,2025-02-17 16:30:00,0,none
+1453,BuildRight Steel & Rebar,materials,84834.53,SITE-010,R. Mehta,2025-05-13 09:04:00,0,none
+1454,Zenith Office & Site Supplies,misc,10727.64,SITE-006,N. Rao,2025-04-03 13:17:00,0,none
+1455,BuildRight Steel & Rebar,materials,109823.39,SITE-007,R. Mehta,2025-04-24 14:01:00,0,none
+1456,PowerLift Cranes & Equipment,equipment,126450.56,SITE-002,M. Sharma,2025-06-09 11:16:00,0,none
+1457,Municipal Permits & Fees,misc,16561.99,SITE-008,K. Iyer,2025-03-26 17:09:00,0,none
+1458,Union Skilled Workforce,labor,91928.02,SITE-001,R. Mehta,2025-02-04 17:52:00,0,none
+1459,Sagar Labour Solutions,labor,24715.34,SITE-001,K. Iyer,2025-03-26 16:11:00,0,none
+1460,TerraMove Heavy Machinery,equipment,250292.37,SITE-002,J. D'Souza,2025-06-06 16:09:00,0,none
+1461,Union Skilled Workforce,labor,71682.95,SITE-003,R. Mehta,2025-05-19 10:20:00,0,none
+1462,SafeSite PPE & Consumables,misc,4712.79,SITE-003,R. Mehta,2025-02-21 14:08:00,0,none
+1463,Coastal Scaffolding Rentals,equipment,33161.73,SITE-008,K. Iyer,2025-06-03 12:23:00,0,none
+1464,PowerLift Cranes & Equipment,equipment,88333.53,SITE-008,K. Iyer,2025-04-21 13:08:00,0,none
+1465,TerraMove Heavy Machinery,equipment,229531.8,SITE-010,M. Sharma,2025-04-17 15:15:00,0,none
+1466,Goa Timber & Plywood,materials,12827.99,SITE-004,K. Iyer,2025-01-08 09:03:00,0,none
+1467,Sagar Labour Solutions,labor,39979.22,SITE-006,A. Fernandes,2025-02-27 13:06:00,0,none
+1468,Goa Timber & Plywood,materials,10501.59,SITE-007,J. D'Souza,2025-04-18 11:13:00,0,none
+1469,Municipal Permits & Fees,misc,18413.09,SITE-008,K. Iyer,2025-04-01 10:58:00,0,none
+1470,Goa Timber & Plywood,materials,12872.84,SITE-004,J. D'Souza,2025-04-21 10:22:00,0,none
+1471,Goa Timber & Plywood,materials,19307.54,SITE-006,N. Rao,2025-05-20 16:52:00,0,none
+1472,BuildRight Steel & Rebar,materials,46827.94,SITE-007,R. Mehta,2025-01-03 10:41:00,0,none
+1473,Sagar Labour Solutions,labor,43840.02,SITE-006,P. Singh,2025-02-21 12:29:00,0,none
+1474,Sagar Labour Solutions,labor,27216.79,SITE-008,P. Singh,2025-01-01 01:55:00,1,off_hours
+1475,SafeSite PPE & Consumables,misc,10225.56,SITE-010,N. Rao,2025-01-22 12:25:00,0,none
+1476,SafeSite PPE & Consumables,misc,8213.24,SITE-002,N. Rao,2025-05-06 16:15:00,0,none
+1477,TerraMove Heavy Machinery,equipment,149763.67,SITE-006,M. Sharma,2025-05-23 10:16:00,0,none
+1478,PowerLift Cranes & Equipment,equipment,120783.0,SITE-007,R. Mehta,2025-01-13 16:34:00,0,none
+1479,PowerLift Cranes & Equipment,equipment,137583.85,SITE-010,K. Iyer,2025-03-19 15:06:00,0,none
+1480,PowerLift Cranes & Equipment,equipment,61984.67,SITE-006,R. Mehta,2025-01-17 15:59:00,0,none
+1481,TerraMove Heavy Machinery,equipment,73119.3,SITE-007,J. D'Souza,2025-03-27 18:45:00,0,none
+1482,Zenith Office & Site Supplies,misc,6395.76,SITE-007,J. D'Souza,2025-04-04 10:25:00,0,none
+1483,PowerLift Cranes & Equipment,equipment,116035.33,SITE-006,M. Sharma,2025-02-22 08:42:00,1,off_hours
+1484,Municipal Permits & Fees,misc,21873.08,SITE-009,K. Iyer,2025-01-03 13:33:00,0,none
+1485,Zenith Office & Site Supplies,misc,3950.86,SITE-009,S. Kulkarni,2025-03-26 08:15:00,0,none
+1486,Union Skilled Workforce,labor,39590.94,SITE-003,R. Mehta,2025-04-08 08:37:00,0,none
+1487,TerraMove Heavy Machinery,equipment,139519.86,SITE-010,M. Sharma,2025-06-13 14:10:00,0,none
+1488,Coastal Scaffolding Rentals,equipment,26586.5,SITE-003,P. Singh,2025-01-13 11:34:00,0,none
+1489,BuildRight Steel & Rebar,materials,78339.9,SITE-008,R. Mehta,2025-04-01 11:54:00,0,none
+1490,Konkan Aggregates Pvt Ltd,materials,31630.08,SITE-002,N. Rao,2025-05-09 18:45:00,0,none
+1491,BuildRight Steel & Rebar,materials,54444.92,SITE-008,K. Iyer,2025-02-13 17:20:00,0,none
+1492,Shree Cement Suppliers,materials,32413.87,SITE-010,J. D'Souza,2025-01-03 15:27:00,0,none
+1493,Shree Cement Suppliers,materials,28015.37,SITE-001,M. Sharma,2025-04-14 18:48:00,0,none
+1494,SafeSite PPE & Consumables,misc,8907.34,SITE-001,N. Rao,2025-06-17 12:29:00,0,none
+1495,Goa Timber & Plywood,materials,37013.49,SITE-005,J. D'Souza,2025-01-30 17:46:00,0,none
+1496,Shree Cement Suppliers,materials,30420.23,SITE-006,M. Sharma,2025-04-04 11:45:00,0,none
+1497,TerraMove Heavy Machinery,equipment,132013.09,SITE-009,J. D'Souza,2025-03-27 13:30:00,0,none
+1498,Coastal Scaffolding Rentals,equipment,52373.4,SITE-004,K. Iyer,2025-02-12 11:41:00,0,none
+1499,Sagar Labour Solutions,labor,31555.86,SITE-008,P. Singh,2025-02-18 18:36:00,0,none
+1500,Zenith Office & Site Supplies,misc,4204.71,SITE-005,S. Kulkarni,2025-01-31 13:49:00,0,none
+1501,Union Skilled Workforce,labor,54268.29,SITE-001,S. Kulkarni,2025-06-18 18:44:00,0,none
+1502,Union Skilled Workforce,labor,65972.86,SITE-002,S. Kulkarni,2025-04-28 16:46:00,1,duplicate
+1503,Everest Manpower Contractors,labor,55679.12,SITE-007,M. Sharma,2025-05-08 15:32:00,0,none
+1504,Municipal Permits & Fees,misc,14765.16,SITE-008,J. D'Souza,2025-06-03 13:02:00,0,none
+1505,BuildRight Steel & Rebar,materials,95378.8,SITE-005,R. Mehta,2025-03-12 10:50:00,0,none
+1506,Konkan Aggregates Pvt Ltd,materials,27434.79,SITE-010,R. Mehta,2025-03-13 09:42:00,0,none
+1507,PowerLift Cranes & Equipment,equipment,143795.9,SITE-006,K. Iyer,2025-06-18 10:28:00,0,none
+1508,Union Skilled Workforce,labor,34130.08,SITE-010,S. Kulkarni,2025-03-28 11:41:00,0,none
+1509,Zenith Office & Site Supplies,misc,5293.89,SITE-001,J. D'Souza,2025-03-27 13:29:00,0,none
+1510,TerraMove Heavy Machinery,equipment,250297.97,SITE-005,J. D'Souza,2025-01-08 10:24:00,0,none
+1511,Goa Timber & Plywood,materials,24125.23,SITE-008,J. D'Souza,2025-02-27 14:39:00,0,none
+1512,BuildRight Steel & Rebar,materials,46483.11,SITE-009,K. Iyer,2025-05-22 12:54:00,0,none
+1513,Municipal Permits & Fees,misc,16671.51,SITE-010,J. D'Souza,2025-04-23 09:55:00,0,none
+1514,Coastal Scaffolding Rentals,equipment,35232.38,SITE-006,K. Iyer,2025-06-25 09:06:00,0,none
+1515,Sagar Labour Solutions,labor,48666.43,SITE-008,P. Singh,2025-06-19 08:37:00,0,none
+1516,PowerLift Cranes & Equipment,equipment,99155.87,SITE-002,R. Mehta,2025-05-22 09:43:00,0,none
+1517,Union Skilled Workforce,labor,47289.68,SITE-006,S. Kulkarni,2025-06-11 10:38:00,0,none
+1518,Zenith Office & Site Supplies,misc,3099.03,SITE-003,S. Kulkarni,2025-01-03 15:05:00,0,none
+1519,Union Skilled Workforce,labor,76442.71,SITE-007,R. Mehta,2025-03-19 13:31:00,0,none
+1520,PowerLift Cranes & Equipment,equipment,130438.67,SITE-004,R. Mehta,2025-06-16 16:55:00,0,none
+1521,Everest Manpower Contractors,labor,45195.64,SITE-002,A. Fernandes,2025-01-22 15:32:00,0,none
+1522,SafeSite PPE & Consumables,misc,6063.45,SITE-001,N. Rao,2025-01-08 11:27:00,0,none
+1523,Municipal Permits & Fees,misc,17789.71,SITE-005,J. D'Souza,2025-05-02 14:08:00,0,none
+1524,Zenith Office & Site Supplies,misc,5129.18,SITE-003,J. D'Souza,2025-03-20 18:49:00,0,none
+1525,BuildRight Steel & Rebar,materials,67086.56,SITE-002,R. Mehta,2025-06-21 17:42:00,1,off_hours
+1526,TerraMove Heavy Machinery,equipment,74259.32,SITE-009,J. D'Souza,2025-01-29 08:39:00,0,none
+1527,SafeSite PPE & Consumables,misc,12635.88,SITE-002,R. Mehta,2025-05-15 14:51:00,0,none
+1528,Goa Timber & Plywood,materials,25526.72,SITE-010,N. Rao,2025-03-21 14:03:00,0,none
+1529,TerraMove Heavy Machinery,equipment,43240.94,SITE-003,J. D'Souza,2025-06-23 14:46:00,0,none
+1530,Goa Timber & Plywood,materials,13059.9,SITE-010,N. Rao,2025-05-22 16:54:00,0,none
+1531,Konkan Aggregates Pvt Ltd,materials,24648.5,SITE-006,R. Mehta,2025-06-24 13:26:00,0,none
+1532,Coastal Scaffolding Rentals,equipment,29603.68,SITE-008,P. Singh,2025-03-27 14:18:00,0,none
+1533,TerraMove Heavy Machinery,equipment,256526.94,SITE-005,J. D'Souza,2025-04-21 16:45:00,0,none
+1534,PowerLift Cranes & Equipment,equipment,100372.49,SITE-005,M. Sharma,2025-05-15 14:47:00,0,none
+1535,Goa Timber & Plywood,materials,10561.63,SITE-003,J. D'Souza,2025-03-17 11:12:00,0,none
+1536,Municipal Permits & Fees,misc,12855.25,SITE-006,N. Rao,2025-05-26 13:33:00,0,none
+1537,Goa Timber & Plywood,materials,17786.77,SITE-005,K. Iyer,2025-03-11 18:20:00,0,none
+1538,Goa Timber & Plywood,materials,26776.83,SITE-008,K. Iyer,2025-03-21 18:10:00,0,none
+1539,Sagar Labour Solutions,labor,51069.74,SITE-002,K. Iyer,2025-03-21 11:26:00,0,none
+1540,Municipal Permits & Fees,misc,17447.65,SITE-006,K. Iyer,2025-05-19 15:51:00,0,none
+1541,Shree Cement Suppliers,materials,27964.94,SITE-006,M. Sharma,2025-03-07 18:15:00,0,none
+1542,Goa Timber & Plywood,materials,74750.99,SITE-010,S. Kulkarni,2025-01-03 12:52:00,1,unusual_approver
+1543,Municipal Permits & Fees,misc,16685.89,SITE-007,K. Iyer,2025-03-24 15:45:00,0,none
+1544,Everest Manpower Contractors,labor,54469.36,SITE-006,A. Fernandes,2025-03-05 11:42:00,0,none
+1545,Municipal Permits & Fees,misc,12779.88,SITE-002,K. Iyer,2025-06-04 18:54:00,0,none
+1546,Municipal Permits & Fees,misc,18505.57,SITE-003,N. Rao,2025-04-25 15:20:00,0,none
+1547,TerraMove Heavy Machinery,equipment,487531.67,SITE-004,J. D'Souza,2025-03-24 17:21:00,0,none
+1548,SafeSite PPE & Consumables,misc,9793.32,SITE-005,N. Rao,2025-02-09 02:39:00,1,off_hours
+1549,Municipal Permits & Fees,misc,12735.38,SITE-005,K. Iyer,2025-03-06 15:31:00,0,none
+1550,Coastal Scaffolding Rentals,equipment,113714.99,SITE-002,P. Singh,2025-01-07 14:40:00,0,none
+1551,SafeSite PPE & Consumables,misc,9536.34,SITE-003,R. Mehta,2025-06-20 13:18:00,0,none
+1552,SafeSite PPE & Consumables,misc,8892.92,SITE-008,N. Rao,2025-05-01 12:24:00,0,none
+1553,Everest Manpower Contractors,labor,26984.6,SITE-006,A. Fernandes,2025-02-28 17:44:00,1,duplicate
+1554,Coastal Scaffolding Rentals,equipment,55702.43,SITE-001,K. Iyer,2025-06-23 08:48:00,0,none
+1555,Union Skilled Workforce,labor,46476.32,SITE-007,S. Kulkarni,2025-04-24 15:56:00,0,none
+1556,Zenith Office & Site Supplies,misc,8715.84,SITE-008,J. D'Souza,2025-04-21 12:17:00,0,none
+1557,Goa Timber & Plywood,materials,26239.18,SITE-003,J. D'Souza,2025-02-19 16:27:00,0,none
+1558,Municipal Permits & Fees,misc,19546.13,SITE-006,K. Iyer,2025-03-19 11:23:00,0,none
+1559,Zenith Office & Site Supplies,misc,3709.99,SITE-006,J. D'Souza,2025-01-10 18:20:00,0,none
+1560,Konkan Aggregates Pvt Ltd,materials,10623.32,SITE-004,N. Rao,2025-01-09 11:41:00,1,duplicate
+1561,TerraMove Heavy Machinery,equipment,242266.75,SITE-008,M. Sharma,2025-06-25 12:09:00,0,none
+1562,Goa Timber & Plywood,materials,13965.49,SITE-007,N. Rao,2025-01-10 11:51:00,0,none
+1563,PowerLift Cranes & Equipment,equipment,40250.18,SITE-001,M. Sharma,2025-02-18 10:50:00,0,none
+1564,Sagar Labour Solutions,labor,27250.2,SITE-004,A. Fernandes,2025-05-15 13:15:00,0,none
+1565,Konkan Aggregates Pvt Ltd,materials,44531.33,SITE-004,R. Mehta,2025-01-13 09:56:00,0,none
+1566,Shree Cement Suppliers,materials,34478.78,SITE-008,J. D'Souza,2025-01-06 14:44:00,0,none
+1567,Shree Cement Suppliers,materials,36781.38,SITE-003,M. Sharma,2025-01-27 18:07:00,0,none
+1568,TerraMove Heavy Machinery,equipment,200000.0,SITE-003,M. Sharma,2025-01-10 13:16:00,1,round_number
+1569,Coastal Scaffolding Rentals,equipment,66703.8,SITE-006,P. Singh,2025-05-21 13:51:00,0,none
+1570,PowerLift Cranes & Equipment,equipment,106264.92,SITE-007,R. Mehta,2025-04-29 15:34:00,0,none
+1571,Union Skilled Workforce,labor,78028.75,SITE-002,R. Mehta,2025-04-18 09:40:00,0,none
+1572,Union Skilled Workforce,labor,40317.83,SITE-001,R. Mehta,2025-02-10 08:05:00,0,none
+1573,Municipal Permits & Fees,misc,14728.61,SITE-005,N. Rao,2025-06-03 18:14:00,0,none
+1574,Everest Manpower Contractors,labor,54010.6,SITE-008,A. Fernandes,2025-03-19 09:41:00,0,none
+1575,PowerLift Cranes & Equipment,equipment,38145.0,SITE-009,R. Mehta,2025-05-14 14:24:00,0,none
+1576,TerraMove Heavy Machinery,equipment,127336.33,SITE-001,J. D'Souza,2025-04-09 15:22:00,0,none
+1577,Coastal Scaffolding Rentals,equipment,22458.37,SITE-010,P. Singh,2025-01-17 17:20:00,0,none
+1578,BuildRight Steel & Rebar,materials,57579.25,SITE-009,K. Iyer,2025-01-20 18:40:00,0,none
+1579,Zenith Office & Site Supplies,misc,6429.14,SITE-006,N. Rao,2025-05-05 17:09:00,0,none
+1580,Union Skilled Workforce,labor,58712.35,SITE-007,R. Mehta,2025-03-20 11:48:00,0,none
+1581,BuildRight Steel & Rebar,materials,108005.22,SITE-004,K. Iyer,2025-03-26 14:19:00,0,none
+1582,Union Skilled Workforce,labor,43011.11,SITE-001,R. Mehta,2025-01-01 12:21:00,0,none
+1583,PowerLift Cranes & Equipment,equipment,179970.08,SITE-006,K. Iyer,2025-05-05 12:48:00,0,none
+1584,TerraMove Heavy Machinery,equipment,154294.36,SITE-008,J. D'Souza,2025-01-30 10:35:00,0,none
+1585,Everest Manpower Contractors,labor,52232.49,SITE-007,M. Sharma,2025-01-30 12:48:00,0,none
+1586,BuildRight Steel & Rebar,materials,62751.67,SITE-001,R. Mehta,2025-04-08 17:44:00,0,none
+1587,Union Skilled Workforce,labor,91968.71,SITE-007,R. Mehta,2025-01-20 13:41:00,0,none
+1588,BuildRight Steel & Rebar,materials,32025.86,SITE-005,K. Iyer,2025-06-19 13:07:00,0,none
+1589,Zenith Office & Site Supplies,misc,6651.47,SITE-008,N. Rao,2025-02-27 10:52:00,0,none
+1590,Sagar Labour Solutions,labor,31337.33,SITE-001,K. Iyer,2025-03-06 10:05:00,0,none
+1591,Goa Timber & Plywood,materials,18668.67,SITE-009,J. D'Souza,2025-03-13 16:35:00,0,none
+1592,Goa Timber & Plywood,materials,12770.33,SITE-004,N. Rao,2025-02-21 09:34:00,0,none
+1593,Everest Manpower Contractors,labor,60764.13,SITE-010,P. Singh,2025-03-13 12:33:00,0,none
+1594,Municipal Permits & Fees,misc,18495.09,SITE-007,J. D'Souza,2025-04-15 08:31:00,0,none
+1595,Konkan Aggregates Pvt Ltd,materials,38534.24,SITE-005,R. Mehta,2025-06-03 16:38:00,0,none
+1596,Sagar Labour Solutions,labor,47740.14,SITE-003,P. Singh,2025-03-21 18:09:00,0,none
+1597,SafeSite PPE & Consumables,misc,6873.49,SITE-009,R. Mehta,2025-04-02 15:31:00,0,none
+1598,Konkan Aggregates Pvt Ltd,materials,35815.53,SITE-003,R. Mehta,2025-02-13 08:46:00,0,none
+1599,Konkan Aggregates Pvt Ltd,materials,19231.25,SITE-009,N. Rao,2025-02-13 00:44:00,1,off_hours
+1600,Goa Timber & Plywood,materials,9914.32,SITE-006,N. Rao,2025-02-12 11:01:00,0,none
+1601,Sagar Labour Solutions,labor,55127.15,SITE-009,P. Singh,2025-03-18 11:31:00,0,none
+1602,TerraMove Heavy Machinery,equipment,182114.56,SITE-010,M. Sharma,2025-04-03 14:48:00,0,none
+1603,TerraMove Heavy Machinery,equipment,175612.09,SITE-001,J. D'Souza,2025-06-11 17:01:00,0,none
+1604,Everest Manpower Contractors,labor,40425.42,SITE-004,M. Sharma,2025-04-25 10:53:00,0,none
+1605,TerraMove Heavy Machinery,equipment,242648.94,SITE-001,J. D'Souza,2025-02-12 11:51:00,0,none
+1606,Zenith Office & Site Supplies,misc,3612.56,SITE-007,S. Kulkarni,2025-02-07 08:09:00,0,none
+1607,TerraMove Heavy Machinery,equipment,110671.95,SITE-008,M. Sharma,2025-02-03 08:09:00,0,none
+1608,Everest Manpower Contractors,labor,38987.68,SITE-006,A. Fernandes,2025-05-22 10:38:00,0,none
+1609,SafeSite PPE & Consumables,misc,11442.28,SITE-006,R. Mehta,2025-04-02 15:54:00,0,none
+1610,Union Skilled Workforce,labor,104115.28,SITE-006,S. Kulkarni,2025-01-01 12:43:00,0,none
+1611,Sagar Labour Solutions,labor,41483.11,SITE-007,P. Singh,2025-05-27 12:57:00,0,none
+1612,Everest Manpower Contractors,labor,72252.46,SITE-007,P. Singh,2025-01-08 13:40:00,0,none
+1613,SafeSite PPE & Consumables,misc,3953.3,SITE-002,N. Rao,2025-05-09 10:21:00,0,none
+1614,Zenith Office & Site Supplies,misc,3032.78,SITE-003,J. D'Souza,2025-05-29 08:42:00,0,none
+1615,Everest Manpower Contractors,labor,50247.01,SITE-005,A. Fernandes,2025-04-24 11:38:00,0,none
+1616,Sagar Labour Solutions,labor,31439.4,SITE-006,K. Iyer,2025-04-23 18:19:00,0,none
+1617,Coastal Scaffolding Rentals,equipment,35317.42,SITE-005,P. Singh,2025-04-02 14:02:00,0,none
+1618,Municipal Permits & Fees,misc,13000.63,SITE-001,K. Iyer,2025-03-10 17:29:00,0,none
+1619,SafeSite PPE & Consumables,misc,7701.2,SITE-004,N. Rao,2025-04-22 17:53:00,0,none
+1620,Goa Timber & Plywood,materials,12332.47,SITE-010,N. Rao,2025-01-23 13:42:00,0,none
+1621,BuildRight Steel & Rebar,materials,64727.32,SITE-008,R. Mehta,2025-04-23 15:21:00,0,none
+1622,Coastal Scaffolding Rentals,equipment,52435.04,SITE-008,P. Singh,2025-01-30 12:50:00,0,none
+1623,TerraMove Heavy Machinery,equipment,262915.12,SITE-010,J. D'Souza,2025-06-25 18:55:00,0,none
+1624,TerraMove Heavy Machinery,equipment,348112.19,SITE-001,J. D'Souza,2025-06-12 17:33:00,0,none
+1625,Zenith Office & Site Supplies,misc,7273.76,SITE-010,J. D'Souza,2025-06-03 09:59:00,0,none
+1626,Zenith Office & Site Supplies,misc,7607.59,SITE-004,S. Kulkarni,2025-02-17 15:34:00,0,none
+1627,Sagar Labour Solutions,labor,26000.78,SITE-001,P. Singh,2025-03-11 11:43:00,0,none
+1628,SafeSite PPE & Consumables,misc,9866.02,SITE-002,N. Rao,2025-01-24 18:53:00,0,none
+1629,Everest Manpower Contractors,labor,32071.61,SITE-006,M. Sharma,2025-04-23 17:34:00,0,none
+1630,Konkan Aggregates Pvt Ltd,materials,28790.45,SITE-009,R. Mehta,2025-02-22 14:58:00,1,duplicate
+1631,Municipal Permits & Fees,misc,125000.0,SITE-008,J. D'Souza,2025-06-23 10:54:00,1,round_number
+1632,SafeSite PPE & Consumables,misc,28567.89,SITE-003,R. Mehta,2025-02-27 15:30:00,0,none
+1633,Everest Manpower Contractors,labor,61320.49,SITE-007,M. Sharma,2025-04-03 12:38:00,0,none
+1634,Coastal Scaffolding Rentals,equipment,69126.14,SITE-009,K. Iyer,2025-01-27 14:14:00,0,none
+1635,Union Skilled Workforce,labor,48399.71,SITE-003,R. Mehta,2025-04-09 13:24:00,0,none
+1636,PowerLift Cranes & Equipment,equipment,138008.11,SITE-007,K. Iyer,2025-01-08 10:36:00,0,none
+1637,PowerLift Cranes & Equipment,equipment,110790.17,SITE-006,R. Mehta,2025-03-17 13:30:00,0,none
+1638,Shree Cement Suppliers,materials,47636.43,SITE-007,M. Sharma,2025-03-03 14:39:00,0,none
+1639,Zenith Office & Site Supplies,misc,6883.13,SITE-010,N. Rao,2025-03-26 13:07:00,0,none
+1640,BuildRight Steel & Rebar,materials,68893.49,SITE-008,K. Iyer,2025-01-29 12:14:00,0,none
+1641,TerraMove Heavy Machinery,equipment,46618.48,SITE-010,M. Sharma,2025-03-19 08:03:00,0,none
+1642,Goa Timber & Plywood,materials,14660.03,SITE-008,K. Iyer,2025-01-02 09:44:00,0,none
+1643,Union Skilled Workforce,labor,42355.3,SITE-006,S. Kulkarni,2025-01-10 17:46:00,0,none
+1644,Zenith Office & Site Supplies,misc,22412.7,SITE-001,S. Kulkarni,2025-03-17 14:12:00,0,none
+1645,Municipal Permits & Fees,misc,9158.12,SITE-002,J. D'Souza,2025-03-18 10:08:00,0,none
+1646,Union Skilled Workforce,labor,61624.42,SITE-008,R. Mehta,2025-04-04 13:14:00,0,none
+1647,PowerLift Cranes & Equipment,equipment,178326.82,SITE-006,K. Iyer,2025-04-28 08:30:00,0,none
+1648,PowerLift Cranes & Equipment,equipment,87416.01,SITE-005,K. Iyer,2025-02-07 12:10:00,0,none
+1649,Municipal Permits & Fees,misc,15254.21,SITE-007,K. Iyer,2025-05-20 03:56:00,1,off_hours
+1650,SafeSite PPE & Consumables,misc,3905.47,SITE-005,N. Rao,2025-06-18 18:34:00,0,none
+1651,PowerLift Cranes & Equipment,equipment,157761.32,SITE-009,K. Iyer,2025-02-13 08:21:00,0,none
+1652,Goa Timber & Plywood,materials,64487.85,SITE-003,S. Kulkarni,2025-01-08 10:05:00,1,unusual_approver
+1653,Union Skilled Workforce,labor,150000.0,SITE-002,R. Mehta,2025-04-30 13:34:00,1,round_number
+1654,Shree Cement Suppliers,materials,22383.09,SITE-001,M. Sharma,2025-06-04 08:46:00,0,none
+1655,SafeSite PPE & Consumables,misc,8116.61,SITE-001,N. Rao,2025-04-01 12:07:00,0,none
+1656,Sagar Labour Solutions,labor,31517.75,SITE-004,A. Fernandes,2025-06-06 17:14:00,0,none
+1657,Coastal Scaffolding Rentals,equipment,50839.12,SITE-005,P. Singh,2025-04-21 18:08:00,0,none
+1658,Municipal Permits & Fees,misc,9417.56,SITE-002,N. Rao,2025-01-01 08:28:00,0,none
+1659,Union Skilled Workforce,labor,100261.09,SITE-004,R. Mehta,2025-05-06 15:40:00,0,none
+1660,Everest Manpower Contractors,labor,87095.16,SITE-008,A. Fernandes,2025-03-04 08:17:00,0,none
+1661,Sagar Labour Solutions,labor,26436.79,SITE-001,P. Singh,2025-02-26 13:28:00,0,none
+1662,Union Skilled Workforce,labor,48816.17,SITE-002,R. Mehta,2025-05-06 17:05:00,0,none
+1663,SafeSite PPE & Consumables,misc,3796.41,SITE-009,N. Rao,2025-04-17 18:20:00,0,none
+1664,Konkan Aggregates Pvt Ltd,materials,29026.65,SITE-003,R. Mehta,2025-05-12 09:18:00,0,none
+1665,Everest Manpower Contractors,labor,26980.4,SITE-002,A. Fernandes,2025-06-20 14:18:00,0,none
+1666,BuildRight Steel & Rebar,materials,153235.48,SITE-004,K. Iyer,2025-03-06 14:00:00,0,none
+1667,BuildRight Steel & Rebar,materials,33097.01,SITE-002,R. Mehta,2025-02-10 11:39:00,0,none
+1668,TerraMove Heavy Machinery,equipment,192541.91,SITE-002,M. Sharma,2025-02-28 13:47:00,0,none
+1669,Coastal Scaffolding Rentals,equipment,18983.39,SITE-008,K. Iyer,2025-05-26 13:05:00,0,none
+1670,SafeSite PPE & Consumables,misc,108311.04,SITE-009,R. Mehta,2025-01-29 16:03:00,1,extreme_outlier
+1671,Union Skilled Workforce,labor,171531.5,SITE-010,N. Rao,2025-02-03 18:49:00,1,unusual_approver
+1672,Zenith Office & Site Supplies,misc,9291.89,SITE-005,J. D'Souza,2025-02-13 18:26:00,0,none
+1673,PowerLift Cranes & Equipment,equipment,237868.86,SITE-010,K. Iyer,2025-02-12 15:44:00,0,none
+1674,BuildRight Steel & Rebar,materials,578229.38,SITE-004,N. Rao,2025-01-07 08:36:00,1,unusual_approver
+1675,Shree Cement Suppliers,materials,37628.47,SITE-010,M. Sharma,2025-03-14 18:06:00,0,none
+1676,SafeSite PPE & Consumables,misc,9399.92,SITE-001,N. Rao,2025-02-20 15:35:00,0,none
+1677,Union Skilled Workforce,labor,42653.62,SITE-001,R. Mehta,2025-05-06 16:17:00,0,none
+1678,Goa Timber & Plywood,materials,30333.8,SITE-007,K. Iyer,2025-06-03 13:46:00,0,none
+1679,SafeSite PPE & Consumables,misc,6042.91,SITE-005,N. Rao,2025-04-16 15:08:00,0,none
+1680,Everest Manpower Contractors,labor,28632.7,SITE-007,M. Sharma,2025-05-27 14:38:00,0,none
+1681,Zenith Office & Site Supplies,misc,3850.07,SITE-003,N. Rao,2025-02-05 12:53:00,0,none
+1682,Union Skilled Workforce,labor,76898.08,SITE-005,R. Mehta,2025-03-17 16:19:00,0,none
+1683,Municipal Permits & Fees,misc,10826.02,SITE-010,N. Rao,2025-05-02 16:42:00,0,none
+1684,Union Skilled Workforce,labor,87862.0,SITE-009,R. Mehta,2025-02-21 12:33:00,0,none
+1685,Municipal Permits & Fees,misc,27510.84,SITE-004,N. Rao,2025-02-13 08:50:00,0,none
+1686,Goa Timber & Plywood,materials,17355.53,SITE-007,J. D'Souza,2025-05-13 13:58:00,0,none
+1687,Konkan Aggregates Pvt Ltd,materials,21838.93,SITE-009,R. Mehta,2025-01-01 15:17:00,0,none
+1688,Konkan Aggregates Pvt Ltd,materials,33617.54,SITE-002,R. Mehta,2025-05-08 14:28:00,0,none
+1689,Shree Cement Suppliers,materials,67662.85,SITE-008,M. Sharma,2025-05-08 08:33:00,0,none
+1690,BuildRight Steel & Rebar,materials,113490.8,SITE-009,R. Mehta,2025-06-27 12:03:00,0,none
+1691,Sagar Labour Solutions,labor,23136.54,SITE-009,K. Iyer,2025-05-15 12:52:00,0,none
+1692,Union Skilled Workforce,labor,217420.64,SITE-007,M. Sharma,2025-02-24 15:37:00,1,unusual_approver
+1693,Shree Cement Suppliers,materials,260715.24,SITE-004,M. Sharma,2025-02-10 13:46:00,1,extreme_outlier
+1694,Zenith Office & Site Supplies,misc,3883.71,SITE-003,S. Kulkarni,2025-01-08 13:24:00,0,none
+1695,Konkan Aggregates Pvt Ltd,materials,14265.98,SITE-008,R. Mehta,2025-05-06 15:39:00,0,none
+1696,Goa Timber & Plywood,materials,19312.28,SITE-005,J. D'Souza,2025-06-05 15:02:00,0,none
+1697,Shree Cement Suppliers,materials,35726.37,SITE-009,M. Sharma,2025-04-04 18:21:00,0,none
+1698,Goa Timber & Plywood,materials,24469.2,SITE-003,J. D'Souza,2025-01-07 08:22:00,0,none
+1699,Coastal Scaffolding Rentals,equipment,29233.17,SITE-001,P. Singh,2025-05-28 11:04:00,0,none
+1700,Konkan Aggregates Pvt Ltd,materials,27834.09,SITE-003,N. Rao,2025-03-27 15:36:00,0,none
+1701,BuildRight Steel & Rebar,materials,538615.03,SITE-007,N. Rao,2025-05-09 08:14:00,1,unusual_approver
+1702,BuildRight Steel & Rebar,materials,189927.02,SITE-010,R. Mehta,2025-01-13 14:26:00,0,none
+1703,Union Skilled Workforce,labor,69570.99,SITE-007,R. Mehta,2025-03-25 11:31:00,0,none
+1704,BuildRight Steel & Rebar,materials,72841.98,SITE-005,R. Mehta,2025-03-07 16:32:00,0,none
+1705,Goa Timber & Plywood,materials,32016.37,SITE-006,K. Iyer,2025-05-29 18:54:00,0,none
+1706,Konkan Aggregates Pvt Ltd,materials,14376.4,SITE-009,N. Rao,2025-01-29 11:12:00,0,none
+1707,Goa Timber & Plywood,materials,15112.2,SITE-001,N. Rao,2025-03-06 14:26:00,0,none
+1708,Goa Timber & Plywood,materials,19359.89,SITE-009,N. Rao,2025-03-03 12:25:00,0,none
+1709,Sagar Labour Solutions,labor,48031.16,SITE-009,P. Singh,2025-04-22 18:49:00,0,none
+1710,SafeSite PPE & Consumables,misc,4389.58,SITE-006,N. Rao,2025-05-20 10:02:00,0,none
+1711,Everest Manpower Contractors,labor,61425.48,SITE-003,P. Singh,2025-01-27 17:40:00,0,none
+1712,Municipal Permits & Fees,misc,14511.97,SITE-003,J. D'Souza,2025-05-20 17:49:00,0,none
+1713,Konkan Aggregates Pvt Ltd,materials,20713.96,SITE-010,N. Rao,2025-04-04 16:05:00,0,none
+1714,Konkan Aggregates Pvt Ltd,materials,13676.85,SITE-009,R. Mehta,2025-05-29 12:35:00,0,none
+1715,SafeSite PPE & Consumables,misc,9672.45,SITE-009,R. Mehta,2025-03-25 16:49:00,0,none
+1716,Zenith Office & Site Supplies,misc,13664.59,SITE-002,S. Kulkarni,2025-05-06 16:36:00,0,none
+1717,Municipal Permits & Fees,misc,14071.58,SITE-007,J. D'Souza,2025-03-24 17:57:00,0,none
+1718,Coastal Scaffolding Rentals,equipment,39318.99,SITE-010,K. Iyer,2025-01-24 10:13:00,0,none
+1719,Municipal Permits & Fees,misc,29933.88,SITE-008,J. D'Souza,2025-01-24 08:53:00,0,none
+1720,Shree Cement Suppliers,materials,56717.77,SITE-004,J. D'Souza,2025-02-14 17:44:00,0,none
+1721,Konkan Aggregates Pvt Ltd,materials,32160.14,SITE-002,N. Rao,2025-05-13 10:38:00,0,none
+1722,Goa Timber & Plywood,materials,12235.29,SITE-010,N. Rao,2025-03-13 10:30:00,0,none
+1723,Union Skilled Workforce,labor,79994.49,SITE-007,S. Kulkarni,2025-05-02 13:53:00,0,none
+1724,SafeSite PPE & Consumables,misc,11214.81,SITE-005,R. Mehta,2025-02-21 18:13:00,0,none
+1725,TerraMove Heavy Machinery,equipment,78320.13,SITE-009,J. D'Souza,2025-02-28 08:07:00,0,none
+1726,Union Skilled Workforce,labor,42784.77,SITE-004,S. Kulkarni,2025-02-10 14:40:00,0,none
+1727,PowerLift Cranes & Equipment,equipment,153752.2,SITE-008,K. Iyer,2025-05-13 14:36:00,0,none
+1728,Everest Manpower Contractors,labor,45009.84,SITE-001,M. Sharma,2025-06-04 10:49:00,0,none
+1729,Sagar Labour Solutions,labor,55303.39,SITE-008,K. Iyer,2025-01-31 13:13:00,0,none
+1730,Sagar Labour Solutions,labor,31742.06,SITE-002,P. Singh,2025-03-19 09:44:00,0,none
+1731,Coastal Scaffolding Rentals,equipment,23251.0,SITE-003,K. Iyer,2025-02-20 17:03:00,0,none
+1732,Goa Timber & Plywood,materials,15098.51,SITE-005,N. Rao,2025-05-03 11:21:00,1,off_hours
+1733,Municipal Permits & Fees,misc,14680.94,SITE-006,K. Iyer,2025-03-28 18:49:00,0,none
+1734,Municipal Permits & Fees,misc,14728.61,SITE-005,N. Rao,2025-02-22 13:32:00,1,off_hours
+1735,BuildRight Steel & Rebar,materials,118672.49,SITE-006,K. Iyer,2025-03-04 12:57:00,0,none
+1736,SafeSite PPE & Consumables,misc,7911.55,SITE-002,N. Rao,2025-01-17 08:39:00,0,none
+1737,TerraMove Heavy Machinery,equipment,148108.83,SITE-009,J. D'Souza,2025-01-27 12:43:00,0,none
+1738,Sagar Labour Solutions,labor,33320.93,SITE-005,P. Singh,2025-01-07 13:13:00,0,none
+1739,SafeSite PPE & Consumables,misc,23721.29,SITE-004,N. Rao,2025-03-05 15:39:00,0,none
+1740,TerraMove Heavy Machinery,equipment,481707.67,SITE-001,J. D'Souza,2025-06-09 08:32:00,0,none
+1741,Coastal Scaffolding Rentals,equipment,54021.15,SITE-006,K. Iyer,2025-03-10 13:01:00,0,none
+1742,PowerLift Cranes & Equipment,equipment,104601.72,SITE-010,R. Mehta,2025-02-24 09:29:00,0,none
+1743,Everest Manpower Contractors,labor,56094.11,SITE-001,A. Fernandes,2025-05-23 14:47:00,0,none
+1744,Goa Timber & Plywood,materials,24312.33,SITE-004,J. D'Souza,2025-01-03 16:20:00,0,none
+1745,Coastal Scaffolding Rentals,equipment,38563.68,SITE-007,K. Iyer,2025-04-15 11:42:00,0,none
+1746,Coastal Scaffolding Rentals,equipment,72148.45,SITE-007,P. Singh,2025-01-31 10:29:00,0,none
+1747,Everest Manpower Contractors,labor,36032.32,SITE-006,P. Singh,2025-03-06 11:15:00,0,none
+1748,Sagar Labour Solutions,labor,40254.49,SITE-009,A. Fernandes,2025-04-14 15:27:00,0,none
+1749,Shree Cement Suppliers,materials,29451.08,SITE-008,M. Sharma,2025-06-04 10:23:00,0,none
+1750,TerraMove Heavy Machinery,equipment,129922.46,SITE-008,M. Sharma,2025-01-17 02:36:00,1,off_hours
+1751,Municipal Permits & Fees,misc,12572.73,SITE-004,K. Iyer,2025-01-17 12:35:00,0,none
+1752,BuildRight Steel & Rebar,materials,79899.48,SITE-004,R. Mehta,2025-04-11 16:53:00,0,none
+1753,BuildRight Steel & Rebar,materials,82713.58,SITE-001,R. Mehta,2025-01-20 10:32:00,0,none
+1754,Shree Cement Suppliers,materials,17208.89,SITE-009,M. Sharma,2025-05-30 18:25:00,0,none
+1755,Everest Manpower Contractors,labor,45150.98,SITE-008,M. Sharma,2025-02-20 10:26:00,0,none
+1756,BuildRight Steel & Rebar,materials,78745.72,SITE-004,K. Iyer,2025-04-11 11:07:00,0,none
+1757,Shree Cement Suppliers,materials,16048.28,SITE-010,M. Sharma,2025-02-18 16:05:00,0,none
+1758,Coastal Scaffolding Rentals,equipment,43551.02,SITE-004,P. Singh,2025-05-29 12:11:00,0,none
+1759,BuildRight Steel & Rebar,materials,57277.25,SITE-002,R. Mehta,2025-04-15 08:37:00,0,none
+1760,BuildRight Steel & Rebar,materials,100818.43,SITE-009,R. Mehta,2025-06-19 18:02:00,0,none
+1761,Union Skilled Workforce,labor,35668.14,SITE-009,R. Mehta,2025-05-13 10:53:00,0,none
+1762,Municipal Permits & Fees,misc,16165.14,SITE-002,K. Iyer,2025-04-29 10:19:00,0,none
+1763,Shree Cement Suppliers,materials,28636.49,SITE-009,J. D'Souza,2025-06-23 14:21:00,0,none
+1764,Coastal Scaffolding Rentals,equipment,46948.4,SITE-008,P. Singh,2025-04-01 14:16:00,0,none
+1765,Union Skilled Workforce,labor,45952.73,SITE-001,S. Kulkarni,2025-03-12 16:18:00,0,none
+1766,Everest Manpower Contractors,labor,78052.44,SITE-008,M. Sharma,2025-06-02 18:25:00,0,none
+1767,TerraMove Heavy Machinery,equipment,212522.18,SITE-003,J. D'Souza,2025-02-07 12:41:00,0,none
+1768,PowerLift Cranes & Equipment,equipment,242838.8,SITE-005,R. Mehta,2025-04-29 10:50:00,0,none
+1769,SafeSite PPE & Consumables,misc,4518.32,SITE-004,R. Mehta,2025-01-09 18:03:00,0,none
+1770,Municipal Permits & Fees,misc,21328.73,SITE-005,K. Iyer,2025-03-24 13:51:00,0,none
+1771,Coastal Scaffolding Rentals,equipment,34032.3,SITE-007,K. Iyer,2025-04-18 08:28:00,0,none
+1772,Zenith Office & Site Supplies,misc,6140.7,SITE-003,S. Kulkarni,2025-04-09 18:12:00,0,none
+1773,BuildRight Steel & Rebar,materials,96053.6,SITE-004,R. Mehta,2025-06-26 14:14:00,0,none
+1774,SafeSite PPE & Consumables,misc,10269.68,SITE-007,N. Rao,2025-03-19 10:08:00,0,none
+1775,SafeSite PPE & Consumables,misc,10116.98,SITE-002,R. Mehta,2025-03-12 13:23:00,1,duplicate
+1776,PowerLift Cranes & Equipment,equipment,285172.7,SITE-003,R. Mehta,2025-04-03 15:36:00,0,none
+1777,TerraMove Heavy Machinery,equipment,566484.11,SITE-007,M. Sharma,2025-06-16 09:19:00,0,none
+1778,PowerLift Cranes & Equipment,equipment,96991.92,SITE-004,R. Mehta,2025-02-28 14:21:00,0,none
+1779,Everest Manpower Contractors,labor,61262.13,SITE-001,A. Fernandes,2025-05-13 11:23:00,0,none
+1780,Konkan Aggregates Pvt Ltd,materials,30436.75,SITE-006,R. Mehta,2025-05-15 10:45:00,0,none
+1781,Zenith Office & Site Supplies,misc,3409.01,SITE-006,S. Kulkarni,2025-06-16 11:34:00,0,none
+1782,Union Skilled Workforce,labor,48993.56,SITE-006,R. Mehta,2025-05-26 14:44:00,0,none
+1783,Everest Manpower Contractors,labor,68961.12,SITE-009,A. Fernandes,2025-03-26 15:24:00,0,none
+1784,Union Skilled Workforce,labor,73101.86,SITE-010,S. Kulkarni,2025-02-14 11:09:00,0,none
+1785,Konkan Aggregates Pvt Ltd,materials,21699.55,SITE-005,N. Rao,2025-03-26 14:47:00,0,none
+1786,SafeSite PPE & Consumables,misc,7493.36,SITE-007,R. Mehta,2025-06-26 09:06:00,1,duplicate
+1787,Municipal Permits & Fees,misc,13180.77,SITE-003,J. D'Souza,2025-02-10 10:28:00,0,none
+1788,Shree Cement Suppliers,materials,36500.27,SITE-001,M. Sharma,2025-04-02 08:43:00,0,none
+1789,Coastal Scaffolding Rentals,equipment,46949.36,SITE-008,P. Singh,2025-02-06 13:54:00,0,none
+1790,Sagar Labour Solutions,labor,42526.93,SITE-008,P. Singh,2025-03-25 09:30:00,0,none
+1791,Goa Timber & Plywood,materials,12731.7,SITE-007,K. Iyer,2025-01-27 03:11:00,1,off_hours
+1792,Everest Manpower Contractors,labor,56530.88,SITE-007,M. Sharma,2025-02-10 10:17:00,0,none
+1793,PowerLift Cranes & Equipment,equipment,129636.03,SITE-001,M. Sharma,2025-06-13 10:31:00,0,none
+1794,Municipal Permits & Fees,misc,15491.66,SITE-001,N. Rao,2025-02-24 14:25:00,0,none
+1795,PowerLift Cranes & Equipment,equipment,122476.46,SITE-009,M. Sharma,2025-01-28 13:36:00,0,none
+1796,Sagar Labour Solutions,labor,48824.4,SITE-002,A. Fernandes,2025-06-16 12:35:00,0,none
+1797,TerraMove Heavy Machinery,equipment,176327.21,SITE-007,M. Sharma,2025-05-16 18:36:00,0,none
+1798,SafeSite PPE & Consumables,misc,9107.24,SITE-004,N. Rao,2025-01-10 15:44:00,0,none
+1799,Sagar Labour Solutions,labor,30372.05,SITE-004,K. Iyer,2025-06-13 13:30:00,0,none
+1800,Konkan Aggregates Pvt Ltd,materials,32672.64,SITE-002,R. Mehta,2025-01-10 18:42:00,0,none
+1801,PowerLift Cranes & Equipment,equipment,226298.88,SITE-009,R. Mehta,2025-04-22 14:11:00,0,none
+1802,Sagar Labour Solutions,labor,33064.41,SITE-001,P. Singh,2025-01-27 14:59:00,0,none
+1803,PowerLift Cranes & Equipment,equipment,89312.27,SITE-001,R. Mehta,2025-03-07 08:00:00,0,none
+1804,BuildRight Steel & Rebar,materials,43572.14,SITE-002,K. Iyer,2025-04-30 15:07:00,0,none
+1805,Union Skilled Workforce,labor,77574.49,SITE-002,S. Kulkarni,2025-01-01 11:06:00,0,none
+1806,Municipal Permits & Fees,misc,13798.7,SITE-003,J. D'Souza,2025-04-02 16:55:00,0,none
+1807,Zenith Office & Site Supplies,misc,9801.99,SITE-005,J. D'Souza,2025-04-02 15:37:00,0,none
+1808,Union Skilled Workforce,labor,39489.2,SITE-001,S. Kulkarni,2025-01-08 10:53:00,0,none
+1809,TerraMove Heavy Machinery,equipment,152560.12,SITE-001,M. Sharma,2025-05-14 15:43:00,0,none
+1810,Coastal Scaffolding Rentals,equipment,36147.94,SITE-009,K. Iyer,2025-01-06 11:16:00,0,none
+1811,Union Skilled Workforce,labor,43702.17,SITE-001,R. Mehta,2025-05-15 14:54:00,0,none
+1812,BuildRight Steel & Rebar,materials,41939.27,SITE-001,K. Iyer,2025-04-17 18:30:00,0,none
+1813,SafeSite PPE & Consumables,misc,14391.77,SITE-001,N. Rao,2025-05-15 18:45:00,0,none
+1814,Shree Cement Suppliers,materials,19992.72,SITE-009,J. D'Souza,2025-01-24 12:07:00,0,none
+1815,Everest Manpower Contractors,labor,438108.26,SITE-002,M. Sharma,2025-05-05 15:32:00,1,extreme_outlier
+1816,SafeSite PPE & Consumables,misc,4577.51,SITE-004,R. Mehta,2025-03-26 16:22:00,0,none
+1817,Sagar Labour Solutions,labor,20301.1,SITE-007,K. Iyer,2025-05-01 10:44:00,0,none
+1818,PowerLift Cranes & Equipment,equipment,84321.08,SITE-004,R. Mehta,2025-06-25 12:12:00,0,none
+1819,Coastal Scaffolding Rentals,equipment,36483.87,SITE-008,K. Iyer,2025-01-28 17:55:00,0,none
+1820,Goa Timber & Plywood,materials,10208.3,SITE-008,N. Rao,2025-01-02 17:20:00,0,none
+1821,Sagar Labour Solutions,labor,19165.67,SITE-001,K. Iyer,2025-06-10 18:36:00,0,none
+1822,Municipal Permits & Fees,misc,10881.64,SITE-001,K. Iyer,2025-06-24 09:22:00,0,none
+1823,Goa Timber & Plywood,materials,17554.45,SITE-001,J. D'Souza,2025-06-18 14:36:00,0,none
+1824,Shree Cement Suppliers,materials,60692.15,SITE-009,M. Sharma,2025-02-28 08:48:00,0,none
+1825,Zenith Office & Site Supplies,misc,6064.7,SITE-002,J. D'Souza,2025-04-18 15:52:00,0,none
+1826,Coastal Scaffolding Rentals,equipment,58282.41,SITE-002,P. Singh,2025-03-03 15:43:00,0,none
+1827,Sagar Labour Solutions,labor,26952.57,SITE-001,A. Fernandes,2025-01-10 12:30:00,0,none
+1828,SafeSite PPE & Consumables,misc,2227.58,SITE-003,R. Mehta,2025-01-09 16:19:00,0,none
+1829,Municipal Permits & Fees,misc,13223.11,SITE-010,N. Rao,2025-04-15 18:54:00,0,none
+1830,Sagar Labour Solutions,labor,29396.41,SITE-006,K. Iyer,2025-03-19 09:09:00,0,none
+1831,SafeSite PPE & Consumables,misc,11849.69,SITE-001,R. Mehta,2025-03-07 16:17:00,0,none
+1832,Municipal Permits & Fees,misc,14293.55,SITE-007,K. Iyer,2025-01-06 15:01:00,0,none
+1833,BuildRight Steel & Rebar,materials,68798.34,SITE-003,R. Mehta,2025-01-10 11:58:00,0,none
+1834,SafeSite PPE & Consumables,misc,5703.33,SITE-006,N. Rao,2025-05-23 08:04:00,0,none
+1835,PowerLift Cranes & Equipment,equipment,116035.33,SITE-006,M. Sharma,2025-04-10 10:30:00,0,none
+1836,Municipal Permits & Fees,misc,15549.39,SITE-001,K. Iyer,2025-05-15 17:53:00,0,none
+1837,Municipal Permits & Fees,misc,13011.63,SITE-010,N. Rao,2025-01-09 18:00:00,0,none
+1838,Goa Timber & Plywood,materials,15129.15,SITE-008,N. Rao,2025-01-27 13:12:00,0,none
+1839,Municipal Permits & Fees,misc,7077.94,SITE-002,J. D'Souza,2025-04-22 10:28:00,0,none
+1840,Everest Manpower Contractors,labor,39931.81,SITE-005,P. Singh,2025-01-03 12:33:00,0,none
+1841,Coastal Scaffolding Rentals,equipment,25138.5,SITE-003,K. Iyer,2025-06-27 16:50:00,0,none
+1842,Sagar Labour Solutions,labor,47259.15,SITE-008,P. Singh,2025-02-10 11:50:00,0,none
+1843,Municipal Permits & Fees,misc,13475.88,SITE-003,K. Iyer,2025-02-17 09:00:00,0,none
+1844,Municipal Permits & Fees,misc,14801.51,SITE-002,J. D'Souza,2025-06-27 16:02:00,0,none
+1845,Coastal Scaffolding Rentals,equipment,25560.38,SITE-009,P. Singh,2025-05-15 14:01:00,0,none
+1846,Zenith Office & Site Supplies,misc,6549.01,SITE-010,N. Rao,2025-01-28 12:50:00,0,none
+1847,Coastal Scaffolding Rentals,equipment,72176.7,SITE-005,P. Singh,2025-04-25 10:51:00,0,none
+1848,Sagar Labour Solutions,labor,17159.22,SITE-003,A. Fernandes,2025-02-25 14:19:00,0,none
+1849,Union Skilled Workforce,labor,52827.28,SITE-008,R. Mehta,2025-04-17 17:46:00,0,none
+1850,Union Skilled Workforce,labor,65972.86,SITE-002,S. Kulkarni,2025-04-25 17:06:00,0,none
+1851,Municipal Permits & Fees,misc,12747.3,SITE-002,N. Rao,2025-03-07 12:46:00,0,none
+1852,PowerLift Cranes & Equipment,equipment,236055.22,SITE-007,N. Rao,2025-05-19 16:56:00,1,unusual_approver
+1853,BuildRight Steel & Rebar,materials,38318.29,SITE-010,K. Iyer,2025-06-11 16:00:00,0,none
+1854,TerraMove Heavy Machinery,equipment,392769.57,SITE-007,M. Sharma,2025-04-24 08:45:00,0,none
+1855,Goa Timber & Plywood,materials,20864.62,SITE-010,N. Rao,2025-05-30 18:01:00,0,none
+1856,Sagar Labour Solutions,labor,29659.97,SITE-004,K. Iyer,2025-03-26 16:27:00,0,none
+1857,BuildRight Steel & Rebar,materials,97697.86,SITE-003,K. Iyer,2025-01-22 10:27:00,0,none
+1858,Sagar Labour Solutions,labor,34951.0,SITE-004,P. Singh,2025-05-01 09:31:00,0,none
+1859,Coastal Scaffolding Rentals,equipment,31460.79,SITE-005,K. Iyer,2025-01-21 14:34:00,0,none
+1860,PowerLift Cranes & Equipment,equipment,95556.13,SITE-001,M. Sharma,2025-02-03 13:04:00,0,none
+1861,Union Skilled Workforce,labor,43451.83,SITE-001,S. Kulkarni,2025-05-27 16:46:00,0,none
+1862,Konkan Aggregates Pvt Ltd,materials,19231.25,SITE-009,N. Rao,2025-01-27 16:01:00,0,none
+1863,Goa Timber & Plywood,materials,12151.5,SITE-006,N. Rao,2025-02-27 12:53:00,0,none
+1864,Everest Manpower Contractors,labor,67917.6,SITE-003,P. Singh,2025-04-22 13:54:00,0,none
+1865,Municipal Permits & Fees,misc,18593.76,SITE-002,J. D'Souza,2025-05-01 17:19:00,0,none
+1866,Shree Cement Suppliers,materials,24278.85,SITE-001,J. D'Souza,2025-04-11 08:43:00,0,none
+1867,Shree Cement Suppliers,materials,12703.34,SITE-003,M. Sharma,2025-03-14 13:47:00,0,none
+1868,Everest Manpower Contractors,labor,36342.94,SITE-005,M. Sharma,2025-01-08 11:18:00,0,none
+1869,Goa Timber & Plywood,materials,93100.64,SITE-007,N. Rao,2025-05-08 08:45:00,1,extreme_outlier
+1870,Everest Manpower Contractors,labor,23364.31,SITE-002,M. Sharma,2025-03-10 18:11:00,0,none
+1871,Everest Manpower Contractors,labor,102478.64,SITE-010,M. Sharma,2025-06-19 12:30:00,0,none
+1872,Coastal Scaffolding Rentals,equipment,42775.43,SITE-008,P. Singh,2025-04-01 08:05:00,0,none
+1873,Konkan Aggregates Pvt Ltd,materials,15533.1,SITE-002,R. Mehta,2025-04-24 18:34:00,0,none
+1874,Everest Manpower Contractors,labor,51026.71,SITE-008,P. Singh,2025-01-31 15:50:00,0,none
+1875,PowerLift Cranes & Equipment,equipment,173874.33,SITE-008,M. Sharma,2025-06-04 17:57:00,0,none
+1876,PowerLift Cranes & Equipment,equipment,95513.59,SITE-004,K. Iyer,2025-01-30 08:21:00,0,none
+1877,Everest Manpower Contractors,labor,55224.07,SITE-006,A. Fernandes,2025-05-09 18:47:00,0,none
+1878,Goa Timber & Plywood,materials,16783.57,SITE-009,K. Iyer,2025-05-20 16:11:00,0,none
+1879,SafeSite PPE & Consumables,misc,12352.78,SITE-010,N. Rao,2025-03-05 14:36:00,0,none
+1880,Municipal Permits & Fees,misc,15572.42,SITE-002,K. Iyer,2025-04-23 13:07:00,0,none
+1881,TerraMove Heavy Machinery,equipment,106376.79,SITE-004,J. D'Souza,2025-05-29 08:05:00,0,none
+1882,Goa Timber & Plywood,materials,19338.34,SITE-010,J. D'Souza,2025-04-28 17:06:00,0,none
+1883,Sagar Labour Solutions,labor,34966.89,SITE-006,P. Singh,2025-05-02 08:52:00,0,none
+1884,Coastal Scaffolding Rentals,equipment,23923.06,SITE-009,K. Iyer,2025-01-15 18:43:00,0,none
+1885,Coastal Scaffolding Rentals,equipment,56093.16,SITE-001,P. Singh,2025-06-11 15:16:00,0,none
+1886,Shree Cement Suppliers,materials,21652.11,SITE-005,M. Sharma,2025-04-22 10:17:00,0,none
+1887,Union Skilled Workforce,labor,103773.21,SITE-004,S. Kulkarni,2025-04-11 16:00:00,0,none
+1888,BuildRight Steel & Rebar,materials,44777.02,SITE-001,K. Iyer,2025-01-03 13:50:00,0,none
+1889,Shree Cement Suppliers,materials,49368.93,SITE-001,M. Sharma,2025-06-06 11:12:00,0,none
+1890,TerraMove Heavy Machinery,equipment,310195.45,SITE-008,R. Mehta,2025-06-02 11:11:00,1,unusual_approver
+1891,Goa Timber & Plywood,materials,8614.5,SITE-009,K. Iyer,2025-04-03 17:28:00,0,none
+1892,Municipal Permits & Fees,misc,18220.65,SITE-007,K. Iyer,2025-04-17 16:08:00,0,none
+1893,SafeSite PPE & Consumables,misc,9199.28,SITE-008,R. Mehta,2025-03-10 14:58:00,0,none
+1894,Everest Manpower Contractors,labor,66017.2,SITE-004,P. Singh,2025-06-17 17:11:00,0,none
+1895,Konkan Aggregates Pvt Ltd,materials,41258.2,SITE-007,R. Mehta,2025-06-17 11:58:00,0,none
+1896,Everest Manpower Contractors,labor,63852.95,SITE-008,A. Fernandes,2025-06-20 12:39:00,0,none
+1897,Everest Manpower Contractors,labor,480016.51,SITE-003,M. Sharma,2025-03-07 15:01:00,1,extreme_outlier
+1898,Goa Timber & Plywood,materials,20813.17,SITE-005,J. D'Souza,2025-01-30 08:26:00,0,none
+1899,TerraMove Heavy Machinery,equipment,169410.07,SITE-001,J. D'Souza,2025-02-14 15:20:00,0,none
+1900,TerraMove Heavy Machinery,equipment,101803.58,SITE-005,J. D'Souza,2025-01-24 10:25:00,0,none
+1901,SafeSite PPE & Consumables,misc,43498.27,SITE-006,N. Rao,2025-06-24 10:38:00,1,extreme_outlier
+1902,Municipal Permits & Fees,misc,17574.19,SITE-004,J. D'Souza,2025-06-04 12:03:00,0,none
+1903,Shree Cement Suppliers,materials,33249.6,SITE-003,J. D'Souza,2025-01-08 18:06:00,0,none
+1904,Union Skilled Workforce,labor,89387.27,SITE-010,S. Kulkarni,2025-03-31 17:28:00,0,none
+1905,Goa Timber & Plywood,materials,15155.52,SITE-005,J. D'Souza,2025-02-21 16:53:00,0,none
+1906,Shree Cement Suppliers,materials,29294.69,SITE-004,J. D'Souza,2025-05-08 17:29:00,0,none
+1907,Coastal Scaffolding Rentals,equipment,38664.63,SITE-004,P. Singh,2025-04-23 11:20:00,0,none
+1908,BuildRight Steel & Rebar,materials,99422.65,SITE-005,R. Mehta,2025-02-14 14:38:00,0,none
+1909,Coastal Scaffolding Rentals,equipment,23127.93,SITE-001,K. Iyer,2025-01-21 13:37:00,0,none
+1910,Shree Cement Suppliers,materials,35464.07,SITE-004,M. Sharma,2025-04-17 11:27:00,0,none
+1911,BuildRight Steel & Rebar,materials,51224.48,SITE-003,K. Iyer,2025-02-05 08:00:00,0,none
+1912,Konkan Aggregates Pvt Ltd,materials,17100.34,SITE-001,N. Rao,2025-05-14 09:19:00,0,none
+1913,TerraMove Heavy Machinery,equipment,603875.65,SITE-006,J. D'Souza,2025-04-29 10:20:00,0,none
+1914,Shree Cement Suppliers,materials,28274.44,SITE-008,J. D'Souza,2025-06-02 15:18:00,0,none
+1915,Everest Manpower Contractors,labor,40560.09,SITE-003,M. Sharma,2025-05-19 15:09:00,0,none
+1916,Everest Manpower Contractors,labor,125000.0,SITE-006,M. Sharma,2025-02-10 17:45:00,1,round_number
+1917,SafeSite PPE & Consumables,misc,5870.54,SITE-009,R. Mehta,2025-05-16 09:29:00,0,none
+1918,Goa Timber & Plywood,materials,23029.74,SITE-003,N. Rao,2025-01-15 17:25:00,0,none
+1919,Konkan Aggregates Pvt Ltd,materials,33766.62,SITE-007,R. Mehta,2025-03-05 13:16:00,0,none
+1920,TerraMove Heavy Machinery,equipment,440919.96,SITE-006,M. Sharma,2025-06-23 15:01:00,0,none
+1921,Sagar Labour Solutions,labor,29644.94,SITE-005,A. Fernandes,2025-05-31 11:55:00,1,duplicate
+1922,BuildRight Steel & Rebar,materials,108981.08,SITE-006,R. Mehta,2025-02-24 13:09:00,0,none
+1923,SafeSite PPE & Consumables,misc,10344.06,SITE-009,N. Rao,2025-06-18 18:01:00,0,none
+1924,Municipal Permits & Fees,misc,18727.57,SITE-010,N. Rao,2025-02-14 18:26:00,0,none
+1925,SafeSite PPE & Consumables,misc,10153.2,SITE-007,N. Rao,2025-01-07 09:24:00,0,none
+1926,Shree Cement Suppliers,materials,36887.12,SITE-001,M. Sharma,2025-02-19 12:59:00,0,none
+1927,Shree Cement Suppliers,materials,32537.58,SITE-005,M. Sharma,2025-01-30 10:36:00,0,none
+1928,SafeSite PPE & Consumables,misc,4680.01,SITE-001,R. Mehta,2025-04-22 13:45:00,0,none
+1929,Union Skilled Workforce,labor,118609.99,SITE-009,K. Iyer,2025-06-20 13:57:00,1,unusual_approver
+1930,BuildRight Steel & Rebar,materials,212475.14,SITE-002,R. Mehta,2025-02-17 15:37:00,0,none
+1931,Sagar Labour Solutions,labor,36506.66,SITE-006,K. Iyer,2025-05-05 18:11:00,0,none
+1932,SafeSite PPE & Consumables,misc,7194.06,SITE-003,N. Rao,2025-02-21 13:58:00,0,none
+1933,Zenith Office & Site Supplies,misc,10548.86,SITE-008,J. D'Souza,2025-03-20 08:00:00,0,none
+1934,TerraMove Heavy Machinery,equipment,99768.5,SITE-007,J. D'Souza,2025-05-27 10:59:00,0,none
+1935,Everest Manpower Contractors,labor,56772.81,SITE-005,P. Singh,2025-02-28 15:18:00,0,none
+1936,SafeSite PPE & Consumables,misc,7444.47,SITE-008,R. Mehta,2025-03-06 13:45:00,0,none
+1937,Municipal Permits & Fees,misc,6083.37,SITE-001,J. D'Souza,2025-04-03 13:55:00,0,none
+1938,TerraMove Heavy Machinery,equipment,60129.44,SITE-001,J. D'Souza,2025-05-15 16:29:00,0,none
+1939,Konkan Aggregates Pvt Ltd,materials,17634.32,SITE-006,N. Rao,2025-02-25 14:17:00,0,none
+1940,Shree Cement Suppliers,materials,31333.69,SITE-010,J. D'Souza,2025-05-21 13:27:00,0,none
+1941,Konkan Aggregates Pvt Ltd,materials,19847.31,SITE-007,N. Rao,2025-01-07 14:33:00,0,none
+1942,TerraMove Heavy Machinery,equipment,233841.97,SITE-004,J. D'Souza,2025-04-28 14:32:00,0,none
+1943,BuildRight Steel & Rebar,materials,52945.45,SITE-003,K. Iyer,2025-03-06 11:10:00,0,none
+1944,Zenith Office & Site Supplies,misc,3779.66,SITE-009,N. Rao,2025-06-06 09:20:00,0,none
+1945,Municipal Permits & Fees,misc,10636.03,SITE-002,J. D'Souza,2025-06-19 11:13:00,0,none
+1946,Union Skilled Workforce,labor,80757.08,SITE-005,R. Mehta,2025-06-03 16:45:00,0,none
+1947,Sagar Labour Solutions,labor,18032.48,SITE-003,A. Fernandes,2025-04-29 09:02:00,0,none
+1948,Municipal Permits & Fees,misc,10818.64,SITE-004,K. Iyer,2025-02-07 13:14:00,0,none
+1949,Shree Cement Suppliers,materials,23403.17,SITE-001,M. Sharma,2025-05-12 13:27:00,0,none
+1950,Shree Cement Suppliers,materials,33374.52,SITE-010,M. Sharma,2025-01-17 08:55:00,0,none
