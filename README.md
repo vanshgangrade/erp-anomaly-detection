@@ -1,4 +1,4 @@
-# Rexo ERP — Financial Anomaly & Fraud Detection Module
+Financial Anomaly & Fraud Detection Module
 
 An anomaly/fraud detection module built for a construction/infrastructure ERP system (Rexo ERP), designed to flag unusual or suspicious expense records — duplicates, unusually large amounts, irregular vendor/approver activity, off-hours submissions — that a finance team would otherwise have to catch manually.
 
